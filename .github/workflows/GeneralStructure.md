@@ -1,4 +1,4 @@
-****General Structure 
+***General Structure 
 
 1. Legal Ownership Structure
 2. Permits and Zoning
