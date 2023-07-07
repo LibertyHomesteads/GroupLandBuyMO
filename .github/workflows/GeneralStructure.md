@@ -10,11 +10,11 @@
 3. Permits and Zoning  
    2.1 Purchase land in an area with no county-level zoning laws  
    2.2 Determine best way to comply with septic system law at the state level  
-5. Land Use Contract (pseudo-HOA)
-   5.1. There are many ways in which someone can make life miserable for their neighbors, even on a 3-4 acre lot. Burning plastic trash regularly, starting a large hog operation, playing loud music into the night, selling drugs on the property, etc.
-   5.2. We should implement either a private contract between owners, or an act of the LLC, functioning as a pseudo-HOA, not to be over-bearing Karens, but to keep life enjoyable in our neighborhood.  
-   5.3. Enforcement of rules should be focused on first intervention/mediation, and then monetary fine. We do not wish to fine anybody without first attempting to resolve the issue non-monetarily.  
-   5.4. There will be no unnecesary or arbitrary rules, or rules that govern activities that do not have a material/real and demonstrable effect on other residents of the property. Example: Forbidding hanging laundry on the line or living in tents. While one could argue that lowering property value is a "real effect," we will instead base our real effect criteria on values that are more important to our community. 
+5. Land Use Contract (pseudo-HOA)  
+   5.1. There are many ways in which someone can make life miserable for their neighbors, even on a 3-4 acre lot. Burning plastic trash regularly, starting a large hog operation, playing loud music into the night, selling drugs on the property, etc.  
+   5.2. We should implement either a private contract between owners, or an act of the LLC, functioning as a pseudo-HOA, not to be over-bearing Karens, but to keep life enjoyable in our neighborhood.    
+   5.3. Enforcement of rules should be focused on first intervention/mediation, and then monetary fine. We do not wish to fine anybody without first attempting to resolve the issue non-monetarily.    
+   5.4. There will be no unnecesary or arbitrary rules, or rules that govern activities that do not have a material/real and demonstrable effect on other residents of the property. Example: Forbidding hanging laundry on the line or living in tents.   While one could argue that lowering property value is a "real effect," we will instead base our real effect criteria on values that are more important to our community.   
 7. Publicity
 8. Physical Land Layout
 9. Action Plan
