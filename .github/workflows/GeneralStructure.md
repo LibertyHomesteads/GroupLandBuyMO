@@ -37,9 +37,9 @@
    4.1 Determine level and type of publicity desired  
    4.2 Determine "how we portray the community" 
 ## 5. Physical Land Layout 
-   5.1 Property boundary shall be a narrow right-of-way for security patrols if needed, and to maintain a fence funded by members 
-   5.2 Interior of property shall include sufficient rights-of-way for driveway access to all lots
-   5.3 Interior of property shall be filled with homestead lots for members, surveyed and mapped with GPS 
-   5.4 Members may decide to choose a common area to be used as a central meeting point, security post, etc. 
-   5.5 The total lot size allocated to each share shall be the total property size minus the area of all common elements (rights of way, community areas etc).
+   5.1 Property boundary shall be a narrow right-of-way for security patrols if needed, and to maintain a fence funded by members  
+   5.2 Interior of property shall include sufficient rights-of-way for driveway access to all lots  
+   5.3 Interior of property shall be filled with homestead lots for members, surveyed and mapped with GPS  
+   5.4 Members may decide to choose a common area to be used as a central meeting point, security post, etc.  
+   5.5 The lot size allocated to each share shall be the total property size minus the area of all common elements (rights of way, community areas etc), divided by the total number of shares.  
 ## 6. Action Plan
