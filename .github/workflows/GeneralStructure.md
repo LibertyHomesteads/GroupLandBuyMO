@@ -47,10 +47,19 @@
    * Gather a group together. Make financial pledges and agree upon a general property size / price. 
    * Research and determine several possible land candidates.
    * Pass a community budget, initial and yearly. 
-   * Pass community bylaws.
+   * Pass community bylaws. Include vision, mission, and goals. 
    * Register an LLC. Deposit the funds in the LLC's bank account. Any members who at this point cannot participate, are replaced. 
    * Purchase the decided-upon land.
    * Full survey and planning. Lots are mapped and photographed.
    * Members select their lots. If two members want one lot, they enter a bidding process. Proceeds go to community budget. 
    * Permit application for septic systems
-   * Widespread residency and construction may begin, provided septic system laws are complied with 
+   * Widespread residency and construction may begin, provided septic system laws are complied with  
+## 7. Community Ideals  
+   ### 7.1 Community Vision (sample)  
+         We are an intentional community of European-Americans intent on preserving our culture and heritage. Our path forward is returning to the land, building our houses, growing our food, and raising our families. We resist the values of globalist culture and instead seek to create a new future for our children. 
+   ### 7.2 Community Mission (sample)   
+         To preserve our people, our values, and our traditions. 
+   ### 7.3 Community Goals (sample)   
+      * To grow our community 
+      * To protect our children 
+      * To preserve our culture 
