@@ -27,8 +27,9 @@
    * If you meet the exemption and do not have a permit, you can still be issued a notice of violation if your system is not up to code, and you will be required to get a permit.
    * Per state law, all graywater must go into a septic system. We should act as if code inspectors are "out to get us" and ensure close to 100% compliance with state laws regarding graywater and blackwater, since it eliminates an easy way for state authorities to harass our community.
    * Determine whether septic permit jurisdiction is county or state, using the criteria on [this page.](https://dnr.mo.gov/water/business-industry-other-entities/permits-certification-engineering-fees/wastewater/wastewater-and-septic-systems)
-   ### 2.3 Lagoon 
-   * [This page](www.mosmallflows.org/lagoon-treatment-system.html) lists information about lagoon construction in Missouri. It is possible that a property we purchase fails a soil permeability test for a septic system, and we must then apply for a lagoon. This would take more land area and would probably cost more, and we may have to plan for a centralized sewer pipe network for the lagoon. 
+   ### 2.3 Lagoon  
+   * [This page](www.mosmallflows.org/lagoon-treatment-system.html) lists information about lagoon construction in Missouri. It is possible that a property we purchase fails a soil permeability test for a septic system, and we must then apply for a lagoon. This would take more land area and would probably cost more, and we may have to plan for a centralized sewer pipe network for the lagoon.  
+   * Relevant code: Missouri Department of Health Rule 19 CSR 20-3.060, Minimum Construction Standards for On-Site Sewage Disposal Systems.  
    ### 2.3. Access for Inspectors 
    * Despite our best efforts to comply with all zoning laws, we should still keep the property entirely fenced with a locked gate, and prevent any inspectors from entering without contacting the owners and making an appointment. This is to help prevent unfair harassment by state inspectors for political or religious reasons. 
 ## 3. Land Use Contract (pseudo-HOA)  
