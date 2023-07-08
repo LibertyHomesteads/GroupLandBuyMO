@@ -17,8 +17,12 @@
    ### 1.6 Jurisdiction 
    * Determine which state has the best LLC laws for our purposes. However, costs are increased for an out-of-state LLC since in addition to the filing and maintenance fees, you typically have to pay fees to register to do business in your state with an out-of-state LLC.  
 ## 2. Permits and Zoning  
-   2.1 Purchase land in an area with no county-level zoning laws  
-   2.2 Determine best way to comply with septic system law at the state level. Compel all members to comply, since failure to comply by an individual can result in a large daily fine to the LLC as a whole, not just to the individual.  
+   ### 2.1 Zoning Laws 
+   * Purchase land in an area with no county-level zoning laws  
+   ### 2.2 Septic Laws at State Level 
+   * Determine best way to comply with septic system law at the state level. Compel all members to comply, since failure to comply by an individual can result in a large daily fine to the LLC as a whole, not just to the individual.
+   ### 2.3. Access for Inspectors 
+   * Despite our best efforts to comply with all zoning laws, we should still keep the property entirely fenced with a locked gate, and prevent any inspectors from entering without contacting the owners and making an appointment. This is to help prevent unfair harassment by state inspectors for political or religious reasons. 
 ## 3. Land Use Contract (pseudo-HOA)  
    3.1. There are many ways in which someone can make life miserable for their neighbors, even on a 3-4 acre lot. Burning plastic trash regularly, starting a large hog operation with unbearable stench, playing loud music into the night regularly, selling drugs on the property, etc.  
    3.2. We should implement either a private contract between owners, or an act of the LLC, functioning as a pseudo-HOA, not to be over-bearing Karens, but to keep life enjoyable in our neighborhood.    
