@@ -22,6 +22,9 @@
    * Purchase land in an area with no county-level zoning laws  
    ### 2.2 Septic Laws at State Level 
    * Determine best way to comply with septic system law at the state level. Compel all members to comply, since failure to comply by an individual can result in a large daily fine to the LLC as a whole, not just to the individual.
+   * A single residence on 3 acres or more must have a septic system, but does not require a permit. For additional residences, 10 additional acres per residence is required, and 360 feet minimum distance between any points on the septic systems. Depending on share size, we will probably have to get permits. 
+   * If you meet the exemption and do not have a permit, you can still be issued a notice of violation if your system is not up to code, and you will be required to get a permit.
+   * Per state law, all graywater must go into a septic system. We should act as if code inspectors are "out to get us" and ensure close to 100% compliance with state laws regarding graywater and blackwater, since it eliminates an easy way for state authorities to harass our community. 
    ### 2.3. Access for Inspectors 
    * Despite our best efforts to comply with all zoning laws, we should still keep the property entirely fenced with a locked gate, and prevent any inspectors from entering without contacting the owners and making an appointment. This is to help prevent unfair harassment by state inspectors for political or religious reasons. 
 ## 3. Land Use Contract (pseudo-HOA)  
