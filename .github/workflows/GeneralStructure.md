@@ -2,7 +2,7 @@
 
 ## 1. Legal Ownership Structure  
    1.1 LLC (or similar) owns the property outright  
-   1.2 Co-owners can own their share of the LLC either as a person, or as an LLC/trust/etc  
+   1.2 Members can own their share of the LLC either as a person, or as an LLC/trust/etc  
    1.3 The primary land-owning LLC must include share transfer restrictions that are both fair to exiting parties and protective of existing owners  
    1.4 Risks:  
     * 1.4.1 Inheritance - a co-owner may pass away and his share of the LLC be passed on to an unknown family member  
@@ -11,7 +11,7 @@
    1.6 Jurisdiction: Determine which state has the best LLC laws for our purposes. However, costs are increased for an out-of-state LLC since in addition to the filing and maintenance fees, you typically have to pay fees to do business in your state with an out-of-state LLC.  
 ## 2. Permits and Zoning  
    2.1 Purchase land in an area with no county-level zoning laws  
-   2.2 Determine best way to comply with septic system law at the state level  
+   2.2 Determine best way to comply with septic system law at the state level. Compel all members to comply, since failure to comply by an individual can result in a large daily fine to the LLC as a whole, not just to the individual.  
 ## 3. Land Use Contract (pseudo-HOA)  
    3.1. There are many ways in which someone can make life miserable for their neighbors, even on a 3-4 acre lot. Burning plastic trash regularly, starting a large hog operation with unbearable stench, playing loud music into the night regularly, selling drugs on the property, etc.  
    3.2. We should implement either a private contract between owners, or an act of the LLC, functioning as a pseudo-HOA, not to be over-bearing Karens, but to keep life enjoyable in our neighborhood.    
