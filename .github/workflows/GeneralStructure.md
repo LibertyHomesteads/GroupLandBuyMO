@@ -12,7 +12,8 @@
    * 1.4.1 Inheritance - a co-owner may pass away and his share of the LLC be passed on to an unknown family member  
    * 1.4.2 Asset forfeiture - due to a civil or criminal case, a judge may order an individual's share of the LLC to be transferred to a creditor. We must examine Missouri LLC law to see if protections are possible. [This website](https://elsterlaw.com/missouri-law-blog/foreclosure-sale-membershipownership-llc/) states that a recent apellate court decision in MO intepreted MO's LLC statues in a way that made it not possible for a creditor to foreclose on and force the sale of a member's LLC ownership. However, it is unclear if this applies to SMLLCs (single-member LLCs) where a court may find that there are no other members whose rights would be violated by a foreclosure or dissolution of the LLC. 
    * 1.4.3 Fine from State Health Department for septic violations - see 2.2 below.
-   * 1.4.4 General disruption and correspondence fatigue caused by rogue actors, either mentally ill members or infiltrator/agent members. We must develop policies that shut down the type of disruption that these actors cause. 
+   * 1.4.4 Unanticipated necesity for a lagoon, depending on septic test results. This would affect costs, permitting, and usable land area. See 2.2 below. 
+   * 1.4.5 General disruption and correspondence fatigue caused by rogue actors, either mentally ill members or infiltrator/agent members. We must develop policies that shut down the type of disruption that these actors cause. 
    ### 1.5 Operating Agreement for LLC 
    * "It's very important for all LLC owners to draft and implement an operating agreement that takes into account the impact of a member filing bankruptcy or having a court judgment entered against him or her. For example, the LLC members may wish to include a provision in their operating agreement allowing for the expulsion of any member who files for bankruptcy; or allowing them to purchase the interest of any member who becomes subject to a charging order. A comprehensive operating agreement is particularly important for multi-member LLCs, since disputes may develop among the members."  
    ### 1.6 Jurisdiction 
@@ -26,6 +27,8 @@
    * If you meet the exemption and do not have a permit, you can still be issued a notice of violation if your system is not up to code, and you will be required to get a permit.
    * Per state law, all graywater must go into a septic system. We should act as if code inspectors are "out to get us" and ensure close to 100% compliance with state laws regarding graywater and blackwater, since it eliminates an easy way for state authorities to harass our community.
    * Determine whether septic permit jurisdiction is county or state, using the criteria on [this page.](https://dnr.mo.gov/water/business-industry-other-entities/permits-certification-engineering-fees/wastewater/wastewater-and-septic-systems)
+   ### 2.3 Lagoon 
+   * [This page](www.mosmallflows.org/lagoon-treatment-system.html) lists information about lagoon construction in Missouri. It is possible that a property we purchase fails a soil permeability test for a septic system, and we must then apply for a lagoon. This would take more land area and would probably cost more, and we may have to plan for a centralized sewer pipe network for the lagoon. 
    ### 2.3. Access for Inspectors 
    * Despite our best efforts to comply with all zoning laws, we should still keep the property entirely fenced with a locked gate, and prevent any inspectors from entering without contacting the owners and making an appointment. This is to help prevent unfair harassment by state inspectors for political or religious reasons. 
 ## 3. Land Use Contract (pseudo-HOA)  
@@ -48,7 +51,7 @@
    * 5.2.1 Interior of property shall include sufficient rights-of-way for driveway access to all lots  
    * 5.2.2 Interior of property shall be filled with homestead lots for members, surveyed and mapped with GPS  
    * 5.2.3 Members will choose a common area to be used as a central meeting point, security post, etc.  
-   * 5.2.4 The lot size allocated to each share shall be the total property size minus the area of all common elements (rights of way, community areas etc), divided by the total number of shares.  
+   * 5.2.4 The lot size allocated to each share shall be the total property size minus the area of all common elements (rights of way, community areas, lagoon if necessary, etc), divided by the total number of shares.  
 ## 6. Action Plan 
    ### 6.1 Land Purchase and Distribution 
    * Gather a group together. Make financial pledges and agree upon a general property size / price. 
