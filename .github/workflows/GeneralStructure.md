@@ -7,7 +7,7 @@
    * Members can own their share of the LLC either as a person, or as an LLC/trust/etc
    * Consider prohibiting members from owning their share via an SMLLC due to the increased risk of dissolution or foreclosure by a creditor
    ### 1.3 Share Transfer Restrictions 
-   * The primary land-owning LLC must include share transfer restrictions that are both fair to exiting parties and protective of existing owners  
+   * The primary land-owning LLC must include share transfer restrictions and buy-out options that balance the interests of exiting parties and existing members  
    ### 1.4 Risks    
    * 1.4.1 Inheritance - a co-owner may pass away and his share of the LLC be passed on to an unknown family member  
    * 1.4.2 Asset forfeiture - due to a civil or criminal case, a judge may order an individual's share of the LLC to be transferred to a creditor. We must examine Missouri LLC law to see if protections are possible. This website (https://elsterlaw.com/missouri-law-blog/foreclosure-sale-membershipownership-llc/) states that a recent apellate court decision in MO intepreted MO's LLC statues in a way that made it not possible for a creditor to foreclose on and force the sale of a member's LLC ownership. However, it is unclear if this applies to SMLLCs (single-member LLCs) where a court may find that there are no other members whose rights would be violated by a foreclosure or dissolution of the LLC. 
