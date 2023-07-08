@@ -25,10 +25,14 @@
    ### 2.3. Access for Inspectors 
    * Despite our best efforts to comply with all zoning laws, we should still keep the property entirely fenced with a locked gate, and prevent any inspectors from entering without contacting the owners and making an appointment. This is to help prevent unfair harassment by state inspectors for political or religious reasons. 
 ## 3. Land Use Contract (pseudo-HOA)  
-   3.1. There are many ways in which someone can make life miserable for their neighbors, even on a 3-4 acre lot. Burning plastic trash regularly, starting a large hog operation with unbearable stench, playing loud music into the night regularly, selling drugs on the property, etc.  
-   3.2. We should implement either a private contract between owners, or an act of the LLC, functioning as a pseudo-HOA, not to be over-bearing Karens, but to keep life enjoyable in our neighborhood.    
-   3.3. Enforcement of rules should be focused on first intervention/mediation, and then monetary fine. We do not wish to fine anybody without first attempting to resolve the issue non-monetarily.    
-   3.4. There will be no unnecesary or arbitrary rules, or rules that govern activities that do not have a material/real and demonstrable effect on other residents of the property. Example: Forbidding hanging laundry on the line or living in tents.   While one could argue that lowering property value is a "real effect," we will instead base our real effect criteria on values that are more important to our community.   
+   ### 3.1. Real Nuisance Regulations  
+   * There are many ways in which someone can make life miserable for their neighbors, even on a 3-4 acre lot. Burning plastic trash regularly, starting a large hog operation with unbearable stench, playing loud music into the night regularly, selling drugs on the property, etc.  
+   ### 3.2. Private Contract  
+   * We should implement either a private contract between members, or an act of the LLC, functioning as a pseudo-HOA, not to be over-bearing Karens, but to keep life enjoyable in our neighborhood.    
+   ### 3.3. Mediation-First Enforcement  
+   * Enforcement of rules should be focused on first intervention/mediation, and then monetary fine. We do not wish to fine anybody without first attempting to resolve the issue non-monetarily.    
+   ### 3.4. No unnecessary or arbitrary rules  
+   * There will be no unnecesary or arbitrary rules, or rules that govern activities that do not have a material/real and demonstrable effect on other residents of the property. Example: Forbidding hanging laundry on the line or living in tents.   While one could argue that lowering property value is a "real effect," we will instead base our real effect criteria on values that are more important to our community.   
 ## 4. Publicity
    4.1 Determine level and type of publicity desired 
    4.2 Determine "how we portray the community" 
