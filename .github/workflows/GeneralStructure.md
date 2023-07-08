@@ -70,4 +70,4 @@
    * To protect our children  
    * To preserve our culture  
    ### 7.4 Religious preferences  
-   * Determine religious preferences of members. Determine whether stating religious preferenes publically violates any state or federal discrimination laws. Determine whether any potential members have a strong preference towards prohibiting certain religions or ideologies. Determine a general strategy for addressing the question of religion in relation to the community.  
+   * Determine religious preferences of members. Determine whether stating religious preferences in official documents or advertising material violates any state or federal discrimination laws. Determine whether any potential members have a strong preference towards prohibiting certain religions or ideologies. Determine a general strategy for addressing the question of religion in relation to the community.  
