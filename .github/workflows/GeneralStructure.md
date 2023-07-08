@@ -1,4 +1,4 @@
-###General Structure 
+### General Structure 
 
 1. Legal Ownership Structure  
    1.1 LLC (or similar) owns the property outright  
