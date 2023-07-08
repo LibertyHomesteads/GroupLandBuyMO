@@ -25,5 +25,12 @@
    3.3. Enforcement of rules should be focused on first intervention/mediation, and then monetary fine. We do not wish to fine anybody without first attempting to resolve the issue non-monetarily.    
    3.4. There will be no unnecesary or arbitrary rules, or rules that govern activities that do not have a material/real and demonstrable effect on other residents of the property. Example: Forbidding hanging laundry on the line or living in tents.   While one could argue that lowering property value is a "real effect," we will instead base our real effect criteria on values that are more important to our community.   
 ## 4. Publicity
-## 5. Physical Land Layout
+   4.1 Determine level and type of publicity desired 
+   4.2 Determine "how we portray the community" 
+## 5. Physical Land Layout 
+   5.1 Property boundary shall be a narrow right-of-way for security patrols if needed, and to maintain a fence funded by members 
+   5.2 Interior of property shall include sufficient rights-of-way for driveway access to all lots
+   5.3 Interior of property shall be filled with homestead lots for members, surveyed and mapped with GPS 
+   5.4 Members may decide to choose a common area to be used as a central meeting point, security post, etc. 
+   5.5 The total lot size allocated to each share shall be the total property size minus the area of all common elements (rights of way, community areas etc).
 ## 6. Action Plan
