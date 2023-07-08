@@ -56,6 +56,7 @@
    * 5.2.4 The lot size allocated to each share shall be the total property size minus the area of all common elements (rights of way, community areas, lagoon if necessary, etc), divided by the total number of shares.  
 ## 6. Action Plan 
    ### 6.1 Land Purchase and Distribution 
+   * Complete research and finalize structure, create detailed prospectus 
    * Gather a group together. Make financial pledges and agree upon a general property size / price. 
    * Research and determine several possible land candidates.
    * Pass a community budget, initial and yearly. 
