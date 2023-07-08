@@ -42,4 +42,15 @@
    5.3 Interior of property shall be filled with homestead lots for members, surveyed and mapped with GPS  
    5.4 Members may decide to choose a common area to be used as a central meeting point, security post, etc.  
    5.5 The lot size allocated to each share shall be the total property size minus the area of all common elements (rights of way, community areas etc), divided by the total number of shares.  
-## 6. Action Plan
+## 6. Action Plan 
+   ### 6.1 Land Purchase and Distribution 
+   * Gather a group together. Make financial pledges and agree upon a general property size / price. 
+   * Research and determine several possible land candidates.
+   * Pass a community budget, initial and yearly. 
+   * Pass community bylaws.
+   * Register an LLC. Deposit the funds in the LLC's bank account. Any members who at this point cannot participate, are replaced. 
+   * Purchase the decided-upon land.
+   * Full survey and planning. Lots are mapped and photographed.
+   * Members select their lots. If two members want one lot, they enter a bidding process. Proceeds go to community budget. 
+   * Permit application for septic systems
+   * Widespread residency and construction may begin, provided septic system laws are complied with 
