@@ -62,12 +62,12 @@
    * Widespread residency and construction may begin, provided septic system laws are complied with  
 ## 7. Community Ideals  
    ### 7.1 Community Vision (sample)  
-      * We are an intentional community of European-Americans intent on preserving our culture and heritage. Our path forward is returning to the land, building our houses, growing our food, and raising our families. We resist the values of globalist culture and instead seek to create a new future for our children. 
+      * We are an intentional community of European-Americans intent on preserving our culture and heritage. Our path forward is returning to the land, building our houses, growing our food, and raising our families. We resist the values of globalist culture and instead seek to create a new future for our children.  
    ### 7.2 Community Mission (sample)   
-      * To preserve our people, our values, and our traditions. 
+      * To preserve our people, our values, and our traditions.  
    ### 7.3 Community Goals (sample)   
-      * To grow our community 
-      * To protect our children 
-      * To preserve our culture 
-   ### 7.4 Religious preferences 
-      * Determine religious preferences of members. Determine whether stating religious preferenes publically violates any state or federal discrimination laws. Determine whether any potential members have a strong preference towards prohibiting certain religions or ideologies. Determine a general strategy for addressing the question of religion in relation to the community. 
+      * To grow our community  
+      * To protect our children  
+      * To preserve our culture  
+   ### 7.4 Religious preferences  
+      * Determine religious preferences of members. Determine whether stating religious preferenes publically violates any state or federal discrimination laws. Determine whether any potential members have a strong preference towards prohibiting certain religions or ideologies. Determine a general strategy for addressing the question of religion in relation to the community.  
