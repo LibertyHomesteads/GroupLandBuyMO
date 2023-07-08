@@ -1,10 +1,11 @@
 # General Structure 
 
 ## 1. Legal Ownership Structure  
-   ### 1.1 Ownership of property
+   ### 1.1 Ownership of property  
    * LLC (or similar) owns the property outright  
    ### 1.2 Ownership of LLC 
-   * Members can own their share of the LLC either as a person, or as an LLC/trust/etc  
+   * Members can own their share of the LLC either as a person, or as an LLC/trust/etc
+   * Consider prohibiting members from owning their share via an SMLLC due to the increased risk of dissolution of foreclosure by a creditor
    ### 1.3 Share Transfer Restrictions 
    * The primary land-owning LLC must include share transfer restrictions that are both fair to exiting parties and protective of existing owners  
    ### 1.4 Risks    
