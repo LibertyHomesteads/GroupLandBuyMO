@@ -34,7 +34,7 @@
    ### 3.4. No unnecessary or arbitrary rules  
    * There will be no unnecesary or arbitrary rules, or rules that govern activities that do not have a material/real and demonstrable effect on other residents of the property. Example: Forbidding hanging laundry on the line or living in tents.   While one could argue that lowering property value is a "real effect," we will instead base our real effect criteria on values that are more important to our community.   
 ## 4. Publicity
-   4.1 Determine level and type of publicity desired 
+   4.1 Determine level and type of publicity desired  
    4.2 Determine "how we portray the community" 
 ## 5. Physical Land Layout 
    5.1 Property boundary shall be a narrow right-of-way for security patrols if needed, and to maintain a fence funded by members 
