@@ -2,7 +2,7 @@
 
 ## 1. Legal Ownership Structure  
    ### 1.1 Ownership of property  
-   * LLC/B Corp/Etc (or similar) owns the property outright  
+   * LLC (or similar) owns the property outright  
    ### 1.2 Ownership of LLC 
    * Members can own their share of the LLC either as a person, or as an LLC/trust/etc
    * Consider prohibiting members from owning their share via an SMLLC due to the increased risk of dissolution or foreclosure by a creditor
