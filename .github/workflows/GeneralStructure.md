@@ -76,3 +76,6 @@
    * 
    ### 7.4 Religious preferences  
    * Determine religious preferences of members. Determine whether stating religious preferences in official documents or advertising material violates any state or federal discrimination laws. Determine whether any potential members have a strong preference towards prohibiting certain religions or ideologies. Determine a general strategy for addressing the question of religion in relation to the community.  
+   ### 7.5 Political and philosophical preferences  
+   * No anarchists
+   * No nihilists  
