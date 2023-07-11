@@ -1,6 +1,11 @@
 # Proposed Group Land Buy Format  
+  
+This is a suggested group land buy format with research for Southern Missouri, following the ideas in the "Return to the Land" movement. This format, if successful, could be adopted in other regions. This is not an attempt to monopolize or force a single format. There are other potential formats that could be successful, such as a development / parcelation model. Others are welcome to develop and introduce their models and we can see which becomes more popular and viable. We can also do several different models in the same area to see how they work out in the long run.   
+This document was mostly written and researched by Peter Csere, using previous experience starting and managing several intentional communities and group land buy projects. If others feel that they can contribute research, please let me know. 
 
-This is a suggested group land buy format with research for Southern Missouri, following the ideas in the "Return to the Land" movement. This format, if successful, could be adopted in other regions. This is not an attempt to monopolize or force a single format. There are other potential formats that could be successful, such as a development / parcelation model. Others are welcome to develop and introduce their models and we can see which becomes more popular and viable. We can also do several different models in the same area to see how they work out in the long run. 
+## How does "Return To The Land" fit in?  
+  
+There are many options. RTTL could be an LLC or 501(c)3, that each of the affiliated property LLCs actually own a share in. They can unaffiliate any time they like via voluntary disassocation from the RTTL organization. RTTL could also be either a formal or informal organization that affiliated projects simply declare allegiance to. RTTL could publish a list of criteria that a community must satisfy in order to be considered an RTTL community. The list goes on; I'm sure you can think of some great ideas. 
 
 # General Structure 
 
