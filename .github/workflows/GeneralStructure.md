@@ -5,7 +5,7 @@ This document was mostly written and researched by Peter Csere, using previous e
 
 ## How does "Return To The Land" fit in?  
   
-There are many options. RTTL could be an LLC or 501(c)3, that each of the affiliated property LLCs actually own a share in. They can unaffiliate any time they like via voluntary disassocation from the RTTL organization. RTTL could also be either a formal or informal organization that affiliated projects simply declare allegiance to. RTTL could publish a list of criteria that a community must satisfy in order to be considered an RTTL community. The list goes on; I'm sure you can think of some great ideas. 
+There are many options. RTTL could be an LLC or 501(c)3, that each of the affiliated property LLCs actually own a share in. They can unaffiliate any time they like via voluntary disassocation from the RTTL organization. RTTL could also be either a formal or informal organization that affiliated projects simply declare allegiance to. RTTL could publish a list of criteria that a community must satisfy in order to be considered an RTTL community. The list goes on; I'm sure you can think of some great ideas. RTTL-affiliated communities could be required to provide a small amount of annual "dues" to RTTL to cover administrative and marketing costs. 
 
 # General Structure 
 
