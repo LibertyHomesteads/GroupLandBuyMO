@@ -1,3 +1,7 @@
+# Proposed Group Land Buy Format  
+
+This is a suggested group land buy format with research for Southern Missouri, following the ideas in the "Return to the Land" movement. This format, if successful, could be adopted in other regions. This is not an attempt to monopolize or force a single format. There are other potential formats that could be successful, such as a development / parcelation model. Others are welcome to develop and introduce their models and we can see which becomes more popular and viable. We can also do several different models in the same area to see how they work out in the long run. 
+
 # General Structure 
 
 ## 1. Legal Ownership Structure  
@@ -9,8 +13,8 @@
    * Forced buy-out clause if a member owns his share via an LLC but then changes the ownership of his LLC without obtaining approval of the members of the primary land-owning LLC. (effectively changing shareholders without approval, thus attempting to bypass the share transfer restrictions) 
    ### 1.3 Share Transfer Restrictions 
    * The primary land-owning LLC must include share transfer restrictions and buy-out options that balance the interests of exiting parties and existing members
-   * The share transfer restrictions must be crafted in the style of a [Limited Equity Housing Cooperative](https://localhousingsolutions.org/housing-policy-library/limited-equity-cooperatives/), to set a fixed profit margin for initial investors selling their shares. We want people to earn a fair return but we also want to keep the land affordable.
-   * See: [Mandatory Purchase of Stock By the Company or Other Shareholders](https://www.oflaherty-law.com/learn-about-law/stock-transfer-restrictions-in-closely-held-corporations-and-llcs-limitations-on-the-transfer-of-ownership-interests)
+   * The share transfer restrictions must be crafted in the style of a [Limited Equity Housing Cooperative](https://localhousingsolutions.org/housing-policy-library/limited-equity-cooperatives/), to set a fixed profit margin for initial investors selling their shares. We want people to earn a fair return but we also want to keep the land affordable.  
+   * See: [Mandatory Purchase of Stock By the Company or Other Shareholders](https://www.oflaherty-law.com/learn-about-law/stock-transfer-restrictions-in-closely-held-corporations-and-llcs-limitations-on-the-transfer-of-ownership-interests)  
    * Share transfer restriction must include the option of forced owner financing / promissory note in case a sale is not approved. All members must be aware of this from the start. 
    ### 1.4 Risks    
    * 1.4.1 Inheritance - a co-owner may pass away and his share of the LLC be passed on to an unknown family member. We could include a clause prohibiting entry of un-authorized heirs to the corporation's property, thus encouraging them to sell or rent if they do not receive approval to access. 
@@ -20,6 +24,8 @@
    * 1.4.5 General disruption and correspondence fatigue caused by rogue actors, either mentally ill members or infiltrator/agent members. We must develop policies that shut down the type of disruption that these actors cause. The bylaws may include a code of conduct. 
    ### 1.5 Operating Agreement for LLC 
    * "It's very important for all LLC owners to draft and implement an operating agreement that takes into account the impact of a member filing bankruptcy or having a court judgment entered against him or her. For example, the LLC members may wish to include a provision in their operating agreement allowing for the expulsion of any member who files for bankruptcy; or allowing them to purchase the interest of any member who becomes subject to a charging order. A comprehensive operating agreement is particularly important for multi-member LLCs, since disputes may develop among the members."  
+   * Code of Conduct: [This page](https://www.thebusinessdivorcelawyer.com/how-to-expel-an-llc-member/) has a lot of excellent information regarding involuntary dissociation from an LLC, where a member may be removed from decision-making activities due to a breach of contract (if there is a code of conduct in the bylaws or operating agreement) or a general "past or present conduct that makes it not “reasonably practicable” for the LLC to continue with that person as a member". It is easier to invoke this statutory clause when a member has management responsibilities rather than simply being an owner in an LLC that has appointed managers. However, a well-written operating agreement and by-laws can allow members to be removed from group discussions etc for engaging in the type of disruptive behavior that bad actors would generally use.  
+   * Our code of conduct would include such things as: Creating correspondence fatigue, long-winded constant emails and messages with delusional complaints or compulsive lies about other members, concern-trolling, accusations of financial or power mismanagement without evidence, [purity spirals](https://en.wikipedia.org/wiki/Purity_spiral), insisting on inclusion of values and ideologies that were not an original part of our vision and that other members do not agree with, harassment, unfounded targeting of those with power and responsibility, etc.  
    ### 1.6 Jurisdiction 
    * Determine which state has the best LLC laws for our purposes. However, costs are increased for an out-of-state LLC since in addition to the filing and maintenance fees, you typically have to pay fees to register to do business in your state with an out-of-state LLC.  
 ## 2. Permits and Zoning  
