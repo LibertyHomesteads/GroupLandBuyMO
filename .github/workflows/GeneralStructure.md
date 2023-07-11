@@ -98,4 +98,5 @@ There are many options. RTTL could be an LLC or 501(c)3, acting as a "network st
    * Determine religious preferences of members. Determine whether stating religious preferences in official documents or advertising material violates any state or federal discrimination laws. Determine whether any potential members have a strong preference towards prohibiting certain religions or ideologies. Determine a general strategy for addressing the question of religion in relation to the community.  
    ### 7.5 Political and philosophical preferences  
    * No anarchists
-   * No nihilists  
+   * No nihilists
+   * (Last two items added per RTTL rules) 
