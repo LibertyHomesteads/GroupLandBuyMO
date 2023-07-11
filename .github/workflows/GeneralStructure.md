@@ -82,6 +82,11 @@ There are many options. RTTL could be an LLC or 501(c)3, acting as a "network st
    * Members select their lots. If two members want one lot, they enter a bidding process. Proceeds go to community budget. 
    * Permit application for septic systems
    * Widespread residency and construction may begin, provided septic system laws are complied with  
+   ### 6.2 Anti-Corruption 
+   * Focus on all or most funds being managed by the LLC bank account rather than individuals
+   * LLC bank account must have dual signers or similar oversight 
+   * All transactions are accounted for using GAAP software with annual reports sent to members
+   * Adhere to operating agreeements and bylaws for formal decision making  
 ## 7. Community Ideals  
    ### 7.1 Community Vision  
    * 
