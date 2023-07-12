@@ -1,7 +1,7 @@
 # Proposed Group Land Buy Format  
   
 This is a suggested group land buy format with research for **Southern Missouri**, following the ideas in the **"Return to the Land"** movement. This format, if successful, could be adopted in other regions. This is not an attempt to monopolize or force a single format. There are other potential formats that could be successful, such as a development / parcelation model. I hope you will provide feedback to improve this model, it is a work in progress. Others are welcome to develop and introduce their models and we can see which becomes more popular and viable. We can also do several different models in the same area to see how they work out in the long run.   
-*This document was mostly written and researched by Peter Csere, using previous experience starting and managing several intentional communities and group land buy projects. If others feel that they can contribute research, please let me know.* 
+*If others feel that they can contribute research, please let me know.* 
 
 ## How does "Return To The Land" fit in?  
   
