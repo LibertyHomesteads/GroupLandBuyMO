@@ -13,7 +13,7 @@ There are many options. RTTL could be an LLC or 501(c)3, acting as a "network st
    ### 1.1 Ownership of property  
    * LLC (or similar) owns the property outright  
    ### 1.2 Ownership of LLC 
-   * Members can own their share of the LLC either as a person, or as an LLC/trust/etc
+   * Members can own their share of the LLC either as a person, or as an LLC/trust/etc. For relative anonymity they can own it via an LLC with a registered filing agent. 
    * Consider prohibiting members from owning their share via an SMLLC due to the increased risk of dissolution or foreclosure by a creditor
    * Forced buy-out clause if a member owns his share via an LLC but then changes the ownership of his LLC without obtaining approval of the members of the primary land-owning LLC. (effectively changing shareholders without approval, thus attempting to bypass the share transfer restrictions) 
    ### 1.3 Share Transfer Restrictions 
