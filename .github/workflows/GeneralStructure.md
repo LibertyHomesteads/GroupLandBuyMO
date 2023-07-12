@@ -1,4 +1,5 @@
 # Proposed Group Land Buy Format  
+### Zone of research: Missouri
   
 This is a suggested group land buy format with research for **Southern Missouri**, following the ideas in the **"Return to the Land"** movement. This format, if successful, could be adopted in other regions. This is not an attempt to monopolize or force a single format. There are other potential formats that could be successful, such as a development / parcelation model, or a managed economy / coop model. I hope you will provide feedback to improve this model, it is a work in progress. Others are welcome to develop and introduce their models and we can see which becomes more popular and viable. We can also do several different models in the same area to see how they work out in the long run.   
 *If others feel that they can contribute research, please let me know.* 
