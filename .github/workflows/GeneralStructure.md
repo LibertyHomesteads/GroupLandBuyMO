@@ -99,6 +99,7 @@ There are many options. RTTL could be an LLC or 501(c)3, acting as a "network st
    * According to cases brought under the FHA, it is illegal to use religious terms or suggestions in advertisements for rental housing or homes for sale. Consider whether we are primary selling homes or primarily selling a membership in an LLC.
    * The right to free association has to be a premeditated one and explicitly mentioned in the bylaws of a society or association at the time of its formation. Such a right and its subsequent restrictions cannot be imposed only after looking at who is now coming into the organization.
    * In 2014, the Hobby Lobby supreme court decision recognized a for-profit corporation's claim of religious belief.
+   * [Missouri RFRA](https://casetext.com/statute/missouri-revised-statutes/title-i-laws-and-statutes/chapter-1-laws-in-force-and-construction-of-statutes/section-1302-religious-freedom-restoration-act) 
    ### 7.5 Political and philosophical preferences  
    * No anarchists
    * No nihilists
