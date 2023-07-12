@@ -3,7 +3,7 @@
 
  ## 7.4 Religious and Political Preferences 
    ### 7.4.1 General Religious Preferences of Group
-   * Determine religious preferences of members. Determine whether stating religious preferences in official documents or advertising material violates any state or federal discrimination laws. Determine whether any potential members have a strong preference towards prohibiting certain religions or ideologies. Determine a general strategy for addressing the question of religion in relation to the community.  
+   * Determine religious preferences of members. Determine whether stating religious or other preferences in official documents or advertising material violates any state or federal discrimination laws. Determine whether any potential members have a strong preference towards prohibiting certain religions or ideologies. Determine a general strategy for addressing the question of religion in relation to the community.  
    ### 7.4.2 Commercial Real Estate and Housing Advertisements
    * According to cases brought under the FHA, it is illegal to use religious or other potentially discriminatory terms or suggestions in promotions for rental housing or homes for sale. Consider whether we are primary selling homes/land or primarily selling a membership in an LLC. Also, consider making all listings etc "private" i.e. not in the "public marketplace," and see if that legally qualifies us as a "private club." 
    ### 7.4.3 Right to Free Association 
