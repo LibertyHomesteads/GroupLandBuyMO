@@ -95,7 +95,10 @@ There are many options. RTTL could be an LLC or 501(c)3, acting as a "network st
    ### 7.3 Community Goals  
    * 
    ### 7.4 Religious preferences  
-   * Determine religious preferences of members. Determine whether stating religious preferences in official documents or advertising material violates any state or federal discrimination laws. Determine whether any potential members have a strong preference towards prohibiting certain religions or ideologies. Determine a general strategy for addressing the question of religion in relation to the community.  
+   * Determine religious preferences of members. Determine whether stating religious preferences in official documents or advertising material violates any state or federal discrimination laws. Determine whether any potential members have a strong preference towards prohibiting certain religions or ideologies. Determine a general strategy for addressing the question of religion in relation to the community.
+   * According to cases brought under the FHA, it is illegal to use religious terms or suggestions in advertisements for rental housing or homes for sale. Consider whether we are primary selling homes or primarily selling a membership in an LLC.
+   * The right to free association has to be a premeditated one and explicitly mentioned in the bylaws of a society or association at the time of its formation. Such a right and its subsequent restrictions cannot be imposed only after looking at who is now coming into the organization.
+   * 
    ### 7.5 Political and philosophical preferences  
    * No anarchists
    * No nihilists
