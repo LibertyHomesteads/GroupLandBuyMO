@@ -1,6 +1,6 @@
 # Religious and Political Preferences 
-### Relating to: [Proposed format](https://github.com/LibertyHomesteads/GroupLandBuyMO/blob/main/.github/workflows/GeneralStructure.md) for a group land buy under the "Return to the Land" movement. 
-### Zone of Research: Missouri
+#### Relating to: [Proposed format](https://github.com/LibertyHomesteads/GroupLandBuyMO/blob/main/.github/workflows/GeneralStructure.md) for a group land buy under the "Return to the Land" movement. 
+#### Zone of Research: Missouri
 
  ## 7.4 Religious and Political Preferences 
    ### 7.4.1 General Religious Preferences of Group
