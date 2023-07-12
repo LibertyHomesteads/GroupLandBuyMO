@@ -1,7 +1,7 @@
 # Religious and Political Preferences 
 ### Zone of Research: Missouri
 
- ### 7.4 Religious and Political Preferences (move to new document due to length?) 
+ ### 7.4 Religious and Political Preferences 
    * Determine religious preferences of members. Determine whether stating religious preferences in official documents or advertising material violates any state or federal discrimination laws. Determine whether any potential members have a strong preference towards prohibiting certain religions or ideologies. Determine a general strategy for addressing the question of religion in relation to the community.  
    * According to cases brought under the FHA, it is illegal to use religious terms or suggestions in advertisements for rental housing or homes for sale. Consider whether we are primary selling homes or primarily selling a membership in an LLC. Also, consider making all listings etc "private" i.e. not in the "public marketplace."  
    * The right to free association has to be a premeditated one and explicitly mentioned in the bylaws of a society or association at the time of its formation. Such a right and its subsequent restrictions cannot be imposed only after looking at who is now coming into the organization.  
