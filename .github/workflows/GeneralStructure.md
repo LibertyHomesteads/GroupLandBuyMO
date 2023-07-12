@@ -70,7 +70,7 @@ There are many options. RTTL could be an LLC or 501(c)3, acting as a "network st
    ### 5.2 Property interior  
    * 5.2.1 Interior of property shall include sufficient rights-of-way for driveway access to all lots  
    * 5.2.2 Interior of property shall be filled with homestead lots for members, surveyed and mapped with GPS  
-   * 5.2.3 Members will choose a common area to be used as a central meeting point, security post, etc.  
+   * 5.2.3 Members will choose a common area to be used as a central meeting point, security post, RV hookup for members to rent temporarily, etc.  
    * 5.2.4 The lot size allocated to each share shall be the total property size minus the area of all common elements (rights of way, community areas, lagoon if necessary, etc), divided by the total number of shares.  
 ## 6. Action Plan 
    ### 6.1 Land Purchase and Distribution 
