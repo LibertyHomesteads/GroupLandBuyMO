@@ -39,7 +39,8 @@ There are many options. RTTL could be an LLC or 501(c)3, acting as a "network st
    * Determine which state has the best LLC laws for our purposes. However, costs are increased for an out-of-state LLC since in addition to the filing and maintenance fees, you typically have to pay fees to register to do business in your state with an out-of-state LLC.  
 ## 2. Permits and Zoning  
    ### 2.1 Zoning Laws 
-   * Purchase land in an area with no county-level zoning laws  
+   * Purchase land in an area with no county-level zoning laws
+   * "South-Central Missouri: Douglas, Ozark, Texas, Wright, Webster, Oregon and Shannon do not have any type of code standard, permits needed or inspections outside of any city limit." Lawrence county also does not. 
    ### 2.2 Septic Laws at State Level 
    * Determine best way to comply with septic system law at the state level. Compel all members to comply, since failure to comply by an individual can result in a large daily fine to the LLC as a whole, not just to the individual.
    * A single residence on 3 acres or more must have a septic system, but does not require a permit. For additional residences, 10 additional acres per residence is required, and 360 feet minimum distance between any points on the septic systems. Depending on share size, we will probably have to get permits. 
