@@ -122,4 +122,5 @@ There are many options. RTTL could be an LLC or 501(c)3, acting as a "network st
   * This member may only participate in management decisions if he has been elected to the LLC management according to the processes established in the bylaws. 
   * This member may only receive the minimum information required by law (annual LLC financial report, etc.)
   * This member may continue buying additional Peasant Shares until they reach the Residency Threshold, at which point they are permitted to live on the land. This is an alternative to rent-to-own that provides members with more security.
-  * This member may sell their share provided they follow the approval procedures established in the LLC operating agreement and/or bylaws. 
+  * This member may sell their share provided they follow the approval procedures established in the LLC operating agreement and/or bylaws.
+  * Special "SHTF" clause: In particularly alarming societal situations, the LLC may vote as a whole to grant emergency access and residency rights to all or some Peasant Share members. 
