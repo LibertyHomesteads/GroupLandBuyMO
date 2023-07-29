@@ -80,10 +80,9 @@ There are many options. RTTL could be an LLC or 501(c)3, acting as a "network st
    ### 6.1 Land Purchase and Distribution 
    * Complete research and finalize structure, create detailed prospectus 
    * Gather a group together. Make financial pledges and agree upon a general property size / price.
-   * Draft LLC operating agreement and bylaws, vote on officer roles. 
+   * Draft LLC operating agreement and bylaws, vote on officer roles. Include vision, mission, and goals in the bylaws. 
    * Research and determine several possible land candidates. 
    * Pass a community budget, initial and yearly. 
-   * Pass community bylaws. Include vision, mission, and goals. 
    * Register an LLC. Deposit the funds in the LLC's bank account. Any members who at this point cannot participate, are replaced. 
    * Purchase the decided-upon land.
    * Full survey and planning. Lots are mapped and photographed.
