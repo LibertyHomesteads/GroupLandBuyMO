@@ -27,6 +27,8 @@ Linked from: [General Project Structure](https://github.com/LibertyHomesteads/Gr
    ### 2.2 Drinking Water 
    * Once a drinking water system begins to serve 15 connections or 25 people, it must comply with the SWDA. ([Read more](https://www.epa.gov/compliance/safe-drinking-water-act-sdwa-compliance-monitoring))
    * *"Private, individual household wells are not regulated by EPA."*
+   ### 2.3 Oil Product Storage 
+   * A farm that stores more than 2,500 gallons aboveground of oil products, and *"could reasonably be expected to discharge oil to waters of the United States or adjoining shorelines, such as interstate waters, intrastate lakes, rivers, and streams"* requires an [SPCC plan](could reasonably be expected to discharge oil to waters of the United States or adjoining shorelines, such as interstate waters, intrastate lakes, rivers, and streams). 
 
 ## 3. Missouri Corporate Farm Ownership Laws 
    * It is illegal for a corporation (for example, an LLC) to hold title to agriculturally-zoned land in Missouri, except under various circumstances that are listed in [Mo. Rev. Stat. §§ 350.010 to 350.040](https://nationalaglawcenter.org/wp-content/uploads/assets/aglandownership/Missouri.pdf).
