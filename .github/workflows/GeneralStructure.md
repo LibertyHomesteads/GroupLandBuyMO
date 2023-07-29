@@ -136,4 +136,9 @@ There are many options. RTTL could be an LLC or 501(c)3, acting as a "network st
   * Property perimeter fence and entrance gate  
   * Property perimeter path  
   * Administrative and IT infrastructure  
-  * Community office  (could be a construction trailer office)  
+  * Community office  (could be a construction trailer office)
+## 10. Documents Needed 
+  ## 10.1 LLC Operating Agreement: 
+  * "The core elements of an LLC operating agreement include provisions relating to equity structure (contributions, capital accounts, allocations of profits, losses and distributions), administration, voting, limitation on liability and indemnification, books or recordings, anti-dilution protections, if any, restrictions on transfer, buyouts, dissolution and liquidation, confidentiality and restrictive agreements, both general provisions similar as govt law or dispute solution." [Read more](https://canadianhunterwhisky.com/terms-of-llc-operating-agreement) 
+  ## 10.2 LLC Bylaws: 
+  
