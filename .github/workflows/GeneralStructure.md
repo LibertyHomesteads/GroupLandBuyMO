@@ -14,7 +14,8 @@ There are many options. RTTL could be an LLC or 501(c)3, acting as a "network st
    ### 1.1 Ownership of property  
    * LLC (or similar) owns the property outright
    * *"A common reason to form an LLC is that members can circumvent the double taxation that the IRS applies to corporations. LLCs, unlike a corporation, are not required to file income tax returns. Instead, the members of the LLC will pay personal income taxes after revenue has been distributed. This qualifies an LLC as a pass-through entity."* [Read more](https://www.upcounsel.com/is-an-llc-a-business-license)
-   * The federal ULLCA is used for default operating procedures when terms aren't detailed by the LLC's articles of organization or operating agreement. [Read more](https://www.upcounsel.com/how-to-remove-member-from-llc) 
+   * The federal ULLCA is used for default operating procedures when terms aren't detailed by the LLC's articles of organization or operating agreement. [Read more](https://www.upcounsel.com/how-to-remove-member-from-llc)
+   * The LLC should be specified as a pro forma corporation, and the lots should be leased to the members, to comply with 350.015(7) and 350.015(9) in [Mo. Rev. Stat. §§ 350.010 to 350.040](https://nationalaglawcenter.org/wp-content/uploads/assets/aglandownership/Missouri.pdf)
    ### 1.2 Ownership of LLC 
    * Members can own their share of the LLC either as a person, or as an LLC/trust/etc.
    * Anonymity: Members who wish to own anonymously, may form an LLC for themselves in a state that allows for anonymous LLC ownership (such as Wyoming), then register their LLC in Missouri for a $105 fee, and use that to own the group land buy LLC. 
