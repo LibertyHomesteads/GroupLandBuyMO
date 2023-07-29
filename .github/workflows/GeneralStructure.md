@@ -105,22 +105,21 @@ There are many options. RTTL could be an LLC or 501(c)3, acting as a "network st
    * The community must decide what its religious and political preferences are, if having such preferences as a group is necessary, and how to ensure that it is operating within the scope of the law. Please refer to [this working document](https://github.com/LibertyHomesteads/GroupLandBuyMO/blob/main/.github/workflows/religious-political-preferences.md).  
 ## 8. Share Categories (example names) 
   ### 8.1 Nobleman Share 
-  * An original founding member of the community. Earns a commission when shares are resold (also is contractually obligated to sell portions of his initial share until it reaches his desired ending share size.)
+  * An original founding member of the community.
+  * Earns a commission when shares are resold (also is contractually obligated to sell portions of his initial share until it reaches his desired ending share size.)
   * This member has rights to reside on his land and other community benefits.
-  * This member has voting rights in the LLC for decisions that pertain to all members and not just the LLC management. Their voting power corresponds to their share size. This member may only participate in management decisions if he has been elected to the LLC management according to the processes established in the bylaws.
-  * This member may sell their share provided they follow the approval procedures established in the LLC operating agreement and/or bylaws. 
   ### 8.2 Yeoman Share 
   * A non-founding LLC member with a share size above the residency threshold indicated in the bylaws. This member purchased a share from the Nobleman Share members. 
   * This member has rights to reside on his land and other community benefits. 
-  * This member has voting rights in the LLC for decisions that pertain to all members and not just the LLC management. Their voting power corresponds to their share size. This member may only participate in management decisions if he has been elected to the LLC management according to the processes established in the bylaws.
-  * This member may sell their share provided they follow the approval procedures established in the LLC operating agreement and/or bylaws. 
   ### 8.3 Peasant Share 
-  * An LLC member with a share size below the residency threshold indicated in the bylaws.
+  * An LLC member with a share size below the residency threshold indicated in the bylaws. 
   * This member has no rights to reside on the land or access the property unless invited by a Yeoman or Nobleman member to that member's own property, or otherwise approved by the LLC management.
   * No land is specifically allocated to this member; there is just a section of land that is allocated to the Peasant Shares as a whole, to which they do not have residency or access rights.
-  * This member has no voting power in the LLC; this is a non-voting share.
-  * This member may only participate in management decisions if he has been elected to the LLC management according to the processes established in the bylaws. 
+  * This member has no voting power in the LLC; this is a non-voting share. 
   * This member may only receive the minimum information required by law (annual LLC financial report, etc.)
   * This member may continue buying additional Peasant Shares until they reach the Residency Threshold, at which point they are permitted to live on the land. This is an alternative to rent-to-own that provides members with more security.
-  * This member may sell their share provided they follow the approval procedures established in the LLC operating agreement and/or bylaws.
-  * Special "SHTF" clause: In particularly alarming societal situations, the LLC may vote as a whole to grant emergency access and residency rights to all or some Peasant Share members. 
+  * Special "SHTF" clause: In particularly alarming societal situations, the LLC may vote as a whole to grant emergency access and residency rights to all or some Peasant Share members. This could be seen as a benefit fo Peasant Share ownership, in addition to the investment potential, or future potential of buying enough shares to reach the residency threshold. 
+  ### 8.4 Universal Rules 
+  * All members may sell their share provided they follow the approval procedures established in the LLC operating agreement and/or bylaws. 
+  * All members may only participate in management decisions if they have been elected to the LLC management according to the processes established in the bylaws.
+  * Only Nobleman and Yeoman members have voting rights in the LLC for decisions that pertain to all members and not just the LLC management (for example, normal board elections). Their voting power corresponds to their share size. 
