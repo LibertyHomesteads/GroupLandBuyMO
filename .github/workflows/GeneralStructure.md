@@ -16,8 +16,10 @@ There are many options. RTTL could be an LLC or 501(c)3, acting as a "network st
    * *"A common reason to form an LLC is that members can circumvent the double taxation that the IRS applies to corporations. LLCs, unlike a corporation, are not required to file income tax returns. Instead, the members of the LLC will pay personal income taxes after revenue has been distributed. This qualifies an LLC as a pass-through entity."* [Read more](https://www.upcounsel.com/is-an-llc-a-business-license)
    * The federal ULLCA is used for default operating procedures when terms aren't detailed by the LLC's articles of organization or operating agreement. [Read more](https://www.upcounsel.com/how-to-remove-member-from-llc) 
    ### 1.2 Ownership of LLC 
-   * Members can own their share of the LLC either as a person, or as an LLC/trust/etc. 
+   * Members can own their share of the LLC either as a person, or as an LLC/trust/etc.
+   * Anonymity: Members who wish to own anonymously, may form an LLC for themselves in a state that allows for anonymous LLC ownership (such as Wyoming), then register their LLC in Missouri for a $105 fee, and use that to own the group land buy LLC. 
    * Consider prohibiting members from owning their share via an SMLLC due to the increased risk of dissolution or foreclosure by a creditor
+   * The bylaws must have specific considerations for who is allowed to live on the property (register agent only) of an LLC-based member, so that a member who owns a share via an LLC cannot simply claim that gives them authorization to send whomever they want without prior approval. 
    * Forced buy-out clause if a member owns his share via an LLC but then changes the ownership of his LLC without obtaining approval of the members of the primary land-owning LLC. (effectively changing shareholders without approval, thus attempting to bypass the share transfer restrictions) 
    ### 1.3 Share Transfer Restrictions 
    * The primary land-owning LLC must include share transfer restrictions and buy-out options that balance the interests of exiting parties and existing members
