@@ -22,7 +22,8 @@ Linked from: [General Project Structure](https://github.com/LibertyHomesteads/Gr
    * Despite our best efforts to comply with all zoning laws, we should still keep the property entirely fenced with a locked gate, and prevent any inspectors from entering without contacting the owners and making an appointment. This is to help prevent unfair harassment by state inspectors for political or religious reasons. 
 
 ## 2. EPA Guidelines 
-   * 2.1 EPA guidelines regarding any centralized drinking water provision, or livestock / agriculture regulations ([read more](https://www.epa.gov/agriculture/laws-and-regulations-apply-your-agricultural-operation-farm-activity)) 
+   * 2.1 EPA guidelines regarding any centralized drinking water provision, or livestock / agriculture regulations ([read more](https://www.epa.gov/agriculture/laws-and-regulations-apply-your-agricultural-operation-farm-activity))
+       * Once a drinking water system begins to serve 15 connections or 25 people, it must comply with the SWDA. ([Read more](https://www.epa.gov/compliance/safe-drinking-water-act-sdwa-compliance-monitoring))
 
 ## 3. Missouri Corporate Farm Ownership Laws 
    * It is illegal for a corporation (for example, an LLC) to hold title to agriculturally-zoned land in Missouri, except under various circumstances that are listed in [Mo. Rev. Stat. §§ 350.010 to 350.040](https://nationalaglawcenter.org/wp-content/uploads/assets/aglandownership/Missouri.pdf).
