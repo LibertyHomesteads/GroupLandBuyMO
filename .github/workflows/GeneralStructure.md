@@ -80,9 +80,9 @@ There are many options. RTTL could be an LLC or 501(c)3, acting as a "network st
 ## 6. Action Plan 
    ### 6.1 Land Purchase and Distribution 
    * Complete research and finalize structure, create detailed prospectus 
-   * Gather a group together. Make financial pledges and agree upon a general property size / price.
+   * Gather a group together. Research and determine several possible land candidates. Make financial pledges and agree upon a general property size / price.
    * Draft LLC operating agreement and bylaws, vote on officer roles. Include vision, mission, and goals in the bylaws. 
-   * Research and determine several possible land candidates. 
+   * Consult a business lawyer and a real estate lawyer in MO, for a professional assessment of the legal assessment of our planned project. 
    * Pass a community budget, initial and yearly. 
    * Register an LLC. Deposit the funds in the LLC's bank account. Any members who at this point cannot participate, are replaced. 
    * Purchase the decided-upon land.
@@ -138,7 +138,8 @@ There are many options. RTTL could be an LLC or 501(c)3, acting as a "network st
   * Administrative and IT infrastructure  
   * Community office  (could be a construction trailer office)
 ## 10. Documents Needed 
-  ## 10.1 LLC Operating Agreement: 
-  * "The core elements of an LLC operating agreement include provisions relating to equity structure (contributions, capital accounts, allocations of profits, losses and distributions), administration, voting, limitation on liability and indemnification, books or recordings, anti-dilution protections, if any, restrictions on transfer, buyouts, dissolution and liquidation, confidentiality and restrictive agreements, both general provisions similar as govt law or dispute solution." [Read more](https://canadianhunterwhisky.com/terms-of-llc-operating-agreement) 
-  ## 10.2 LLC Bylaws: 
+  ## 10.1 Articles of Incorporation: 
+  * *"Articles of organization is a document that acts as a formal application to legally establish the existence of your LLC in your state and sets forth the primary details about your new enterprise. Filed as a single doc with the Secretary of State's Office (or similar state organization that handles business registration), the articles of organization describe the basic working traits of the LLC. As soon as the document is filed and accepted by the state, the articles of organization legally create the LLC as a registered business entity in that state."* [Read more](https://www.upcounsel.com/articles-of-organization)  
+  ## 10.2 LLC Operating Agreement: 
+  * *"The core elements of an LLC operating agreement include provisions relating to equity structure (contributions, capital accounts, allocations of profits, losses and distributions), administration, voting, limitation on liability and indemnification, books or recordings, anti-dilution protections, if any, restrictions on transfer, buyouts, dissolution and liquidation, confidentiality and restrictive agreements, both general provisions similar as govt law or dispute solution."* [Read more](https://canadianhunterwhisky.com/terms-of-llc-operating-agreement) 
   
