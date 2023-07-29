@@ -82,7 +82,7 @@ There are many options. RTTL could be an LLC or 501(c)3, acting as a "network st
    * Complete research and finalize structure, create detailed prospectus 
    * Gather a group together. Research and determine several possible land candidates. Make financial pledges and agree upon a general property size / price.
    * Draft LLC operating agreement and bylaws, vote on officer roles. Include vision, mission, and goals in the bylaws. 
-   * Consult a business lawyer and a real estate lawyer in MO, for a professional assessment of the legal assessment of our planned project. 
+   * Consult a business lawyer and a real estate lawyer in MO, for a professional assessment of the legal situation of our planned project. 
    * Pass a community budget, initial and yearly. 
    * Register an LLC. Deposit the funds in the LLC's bank account. Any members who at this point cannot participate, are replaced. 
    * Purchase the decided-upon land.
