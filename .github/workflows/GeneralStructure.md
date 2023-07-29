@@ -116,8 +116,8 @@ There are many options. RTTL could be an LLC or 501(c)3, acting as a "network st
   * This member may sell their share provided they follow the approval procedures established in the LLC operating agreement and/or bylaws. 
   ### 8.3 Peasant Share 
   * An LLC member with a share size below the residency threshold indicated in the bylaws.
-  * This member has no rights to reside on the land or access the property unless invited by a different member or otherwise approved by the LLC management.
-  * No land is specifically allocated to this member; there is just a section of land that is allocated to the Peasant Shares as a whole.
+  * This member has no rights to reside on the land or access the property unless invited by a Yeoman or Nobleman member to that member's own property, or otherwise approved by the LLC management.
+  * No land is specifically allocated to this member; there is just a section of land that is allocated to the Peasant Shares as a whole, to which they do not have residency or access rights.
   * This member has no voting power in the LLC; this is a non-voting share.
   * This member may only participate in management decisions if he has been elected to the LLC management according to the processes established in the bylaws. 
   * This member may only receive the minimum information required by law (annual LLC financial report, etc.)
