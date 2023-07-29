@@ -123,4 +123,17 @@ There are many options. RTTL could be an LLC or 501(c)3, acting as a "network st
   ### 8.4 Universal Rules 
   * All members may sell their share provided they follow the approval procedures established in the LLC operating agreement and/or bylaws. 
   * All members may only participate in management decisions if they have been elected to the LLC management according to the processes established in the bylaws.
-  * Only Nobleman and Yeoman members have voting rights in the LLC for decisions that pertain to all members and not just the LLC management (for example, normal board elections). Their voting power corresponds to their share size. 
+  * Only Nobleman and Yeoman members have voting rights in the LLC for decisions that pertain to all members and not just the LLC management (for example, normal board elections). Their voting power corresponds to their share size.
+## 9. Common Elements 
+  ##### This refers to elements of the property that are commonly funded and managed by the LLC.  
+  ## 9.1 Community Hub area 
+  * Well (drinking water could in the future be piped to different lots, to avoid individual well costs) - Check [EPA requirements](https://www.epa.gov/agriculture/laws-and-regulations-apply-your-agricultural-operation-farm-activity) for systems larger than 25 people or 15 connections
+  * Septic tank and bathroom / shower facility  
+  * Grid electric connection or solar system w/ backup generator  
+  * Small workshop / pavilion structure 
+  * RV hookup for members to rent while visiting or developing  
+  * Driveways for interior access  
+  * Property perimeter fence and entrance gate  
+  * Property perimeter path  
+  * Administrative and IT infrastructure  
+  * Community office  (could be a construction trailer office)  
