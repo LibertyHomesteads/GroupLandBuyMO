@@ -3,10 +3,7 @@ Decision-making - unanimity rules for important decisions to prevent deadlock et
 
 Profit and loss distribution.  
 Budget and funding process - both initial and continuous.  
-More detailed land use rules  
-SHTF clause for peasant shares  
-Bank unavailability clause for funds management 
-Inflation and hyperinflation clause for currency management and fine/valuation amounts  
+More detailed land use rules    
 Add a bunch of this stuff: https://www.hopb.co/sample-hoa-bylaws  
    
 ### Articles of Incorporation
@@ -138,8 +135,30 @@ This "Book Access and Audits" clause shall govern the access, management, and ex
 12. **Disruption of Official and Unofficial Communication:** If the parties in dispute insist on discussions of their dispute in public, and in formal or informal discussions of LLC business among all or most members or the board, the board may order the exclusion of either or both of the parties in dispute from such communications or take other punitive measures as is deemed reasonable, to ensure a healthy social atmosphere within the LLC.
    
 This "Dispute Resolution and Mediation" clause shall apply to all disputes among the LLC members and shall be binding on all parties. All members acknowledge and agree to abide by the terms and procedures set forth herein.
-   
-**Article XII: Dissolution**
+
+**Article XII: Force Majeure**
+This "Force Majeure" clause shall be applied to address unforeseen and catastrophic events, providing flexibility and adaptability to preserve the interests and well-being of the LLC and its members during challenging circumstances.  
+
+1. **Definition:** In the event of unforeseeable circumstances or events beyond the reasonable control of the LLC and its members, including but not limited to acts of God, natural disasters, economic collapses, hyperinflation, active war in the United States, terrorist attacks, solar flares, apocalyptic societal conditions, extreme social unrest and rioting, or any other catastrophic events (collectively referred to as "Force Majeure Events"), the provisions of this clause shall apply.
+
+2. **Adjustment of Appraisals and Fines:** In the event of hyperinflation or severe currency devaluation, the LLC board may, at its sole discretion, adjust the appraisals, fines, and other monetary values mentioned in the operating agreement or articles of organization to account for the changed economic conditions. Such adjustments shall be made in good faith and with the aim of preserving the economic viability of the LLC and its members.
+
+3. **Use of Alternative Currencies:** In case of a currency collapse or failure of the U.S. dollar, the LLC may, at its sole discretion, choose to accept and use alternative currencies or assets deemed suitable for conducting business and accounting, including but not limited to cryptocurrencies, precious metals (e.g., gold and silver), or any other medium of exchange considered appropriate under the circumstances.
+
+4. **Alternative Currency and Cash Management:** In the event of a bank collapse or loss of confidence in the traditional or electronic banking system, the LLC may, at its sole discretion, implement cash-only, gold, silver, and/or barter-based cash management and accounting procedures to ensure the continuity of financial operations and transactions.
+
+5. **Access and Residency Rights for Peasant Share Members:** In the case of serious economic and geopolitical situations or any catastrophic events as described in the definition of Force Majeure Events, the board of managers may, by a unanimous vote, grant access and residency rights to Peasant Share members. The board shall have the authority to determine the scope and duration of such access and residency rights based on the severity and nature of the Force Majeure Event.
+
+6. **Mandatory Access and Residency Rights:** Notwithstanding any other provision in the operating agreement, the board of managers is mandated to grant access and residency rights to Peasant Share members in the following very severe circumstances:
+   a. Active war in the United States. 
+   b. Widespread and long-term societal disruption in Missouri due to natural disasters or catastrophic events.
+   c. Solar flare or electromagnetic pulse (EMP) causing substantial damage to the planet's grid or critical infrastructure.
+
+7. **Notification and Documentation:** In the event of the activation of this Force Majeure clause and the granting of access and residency rights to Peasant Share members, the board shall provide written notification to all members, detailing the circumstances and the duration of the granted rights. Documentation of the board's decision shall be maintained in the LLC's records.
+
+8. **Duration of Force Majeure:** The Force Majeure provisions shall remain in effect for the duration of the Force Majeure Event, as determined by the board of managers. Upon the cessation of the Force Majeure Event, the normal operating procedures shall resume, and any adjustments or modifications made during the Force Majeure period shall be reevaluated based on the prevailing circumstances.  
+
+**Article XIII: Dissolution**
 In the event of LLC dissolution, the assets shall be distributed in accordance with the Share Transfer Restrictions and the interests of the members as specified in the Articles of Incorporation. The following procedures shall be followed:  
 
 1. **Voluntary Dissolution:** The LLC may be dissolved voluntarily with the approval of a vote of 90% or more of the members. Upon approval, the members shall proceed with the winding-up process in accordance with applicable laws and this operating agreement.
@@ -163,9 +182,9 @@ In the event of LLC dissolution, the assets shall be distributed in accordance w
 
 This dissolution clause shall govern the dissolution process of the LLC and shall be binding on all members. All members acknowledge and agree to abide by the terms and procedures set forth herein.
 
-**Article XIII: Amendments**
+**Article XIV: Amendments**
 This operating agreement may be amended with the consent of two-thirds of the Nobleman and Yeoman Shareholders.
 
-**Article XIV: Governing Law**
+**Article XV: Governing Law**
 This operating agreement shall be governed by and construed in accordance with the laws of the State of Missouri.
   
