@@ -39,7 +39,7 @@ There are many options. RTTL could be an LLC or 501(c)3, acting as a "network st
 ## 2. Permits and Zoning  
    * See [Legal Risks](https://github.com/LibertyHomesteads/GroupLandBuyMO/blob/main/.github/workflows/legalrisks.md) document
 ## 3. Land Use Rules (part of the LLC Operating Agreement)  
-     **We should implement either a private contract between members, or an act of the LLC, functioning as a pseudo-HOA, not to be over-bearing Karens, but to keep life enjoyable in our neighborhood.**   
+  *We should implement either a private contract between members, or an act of the LLC, functioning as a pseudo-HOA, not to be over-bearing Karens, but to keep life enjoyable in our neighborhood.*   
    ### 3.1. Real Nuisance Regulations  
    * There are many ways in which someone can make life miserable for their neighbors, even on a 3-4 acre lot. Burning plastic trash regularly, starting a large hog operation with unbearable stench, playing loud music into the night regularly, selling drugs on the property, etc.  
    ### 3.2. Mediation-First Enforcement  
