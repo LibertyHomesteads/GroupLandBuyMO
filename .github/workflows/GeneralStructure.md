@@ -138,6 +138,7 @@ There are many options. RTTL could be an LLC or 501(c)3, acting as a "network st
   * If an LLC wishes to change its registered agent, it cannot do so with an amendment form. Applicants also cannot change an LLC's principal office or mailing address in this manner. They must submit a [Statement of Change of Registered Agent and/or Registered Office By a Foreign or Domestic For-Profit or Nonprofit Corporation or a Limited Liability Company](https://www.sos.mo.gov/CMSImages/Business/corp59.pdf) form to the secretary of state by fax, mail or in person. Both have a $10 fee for processing. 
   * Missouri does not require the LLC Operating Agreement to be filed with the state, it is an internal document only: [Read more](https://www.sos.mo.gov/business/outreach/startup_guide#llc)
   * [Missouri LLC forms](https://www.sos.mo.gov/business/corporations/forms.asp#llc)
-  * Missouri requires nearly everything to go in the operating agreement, and the articles of organization are just a form? [see here](https://www.sos.mo.gov/CMSImages/Business/llc1.pdf?v=2) 
+  * Missouri requires nearly everything to go in the operating agreement, and the articles of organization are just a form? [see here](https://www.sos.mo.gov/CMSImages/Business/llc1.pdf?v=2)
+  * Need to register with IRS. Determine if there is a need to register with Missouri department of internal revenue? 
 
   
