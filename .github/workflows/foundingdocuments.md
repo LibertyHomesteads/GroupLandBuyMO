@@ -68,7 +68,7 @@ The jurisdiction of Based Community, LLC shall be in the State of Missouri, and 
 
 5. **Noise and Nuisance:**
    - Excessive noise that disturbs the peace and quiet of the community, especially during nighttime hours, is prohibited.
-   - Regular burning of trash and other materials is not allowed to avoid air pollution and unpleasant odors.
+   - Regular burning of trash and other materials is not allowed to avoid air pollution and unpleasant odors. Such burning can be organized on the last day of every month to coordinate and prevent multiple burnings. 
    - Anything that causes a "material and demonstrable" nuisance to other members can be considered as such 
 
 6. **Agriculture and Farming:**
