@@ -2,12 +2,12 @@ Notes / need to add:
 Decision-making - unanimity rules for important decisions to prevent deadlock etc. Such as: U-1 or U-2 or U-a percent, for operating agreement changes or expulsions etc. 75% or super-majority for some decisions like expulsions? Board v. members...   
 
 Profit and loss distribution.  
-Election, replacement, removal, terms etc for managers (or else MO statute defaults to majority vote among all members, including peasant share) 
-Authorization necessary to sell land or vehicles, other items 
+Election, replacement, removal, terms etc for managers (or else MO statute defaults to majority vote among all members, including peasant share)  
+Authorization necessary to sell land or vehicles, other items  
 Budget and funding process - both initial and continuous.  
-Land allocation rules 
+Land allocation rules  
 Add a bunch of this stuff: https://www.hopb.co/sample-hoa-bylaws  
-Add ULEX/common reference for governing law sections 
+Add ULEX/common reference for governing law sections  
    
 ## Articles of Organization
 
