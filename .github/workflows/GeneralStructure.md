@@ -122,14 +122,22 @@ There are many options. RTTL could be an LLC or 501(c)3, acting as a "network st
   * Administrative and IT infrastructure  
   * Community office  (could be a construction trailer office)
 ## 10. Documents Needed 
-  ## 10.1 Articles of Incorporation: 
+  ### 10.1 Articles of Incorporation: 
   * *"Articles of organization is a document that acts as a formal application to legally establish the existence of your LLC in your state and sets forth the primary details about your new enterprise. Filed as a single doc with the Secretary of State's Office (or similar state organization that handles business registration), the articles of organization describe the basic working traits of the LLC. As soon as the document is filed and accepted by the state, the articles of organization legally create the LLC as a registered business entity in that state."* [Read more](https://www.upcounsel.com/articles-of-organization)  
-  ## 10.2 LLC Operating Agreement: 
+  ### 10.2 LLC Operating Agreement: 
   * *"The core elements of an LLC operating agreement include provisions relating to equity structure (contributions, capital accounts, allocations of profits, losses and distributions), administration, voting, limitation on liability and indemnification, books or recordings, anti-dilution protections, if any, restrictions on transfer, buyouts, dissolution and liquidation, confidentiality and restrictive agreements, both general provisions similar as govt law or dispute solution."* [Read more](https://canadianhunterwhisky.com/terms-of-llc-operating-agreement)
-  ## 10.3 Term Sheet or Memorandum of Understanding:  
+  ### 10.3 Term Sheet or Memorandum of Understanding:  
   * This is needed after the LLC is formed and we want to sell shares. This is a short document that specifies the basic components of the purchase deal. It confirms the parties’ intentions and serves as a blueprint for a more formal contract.
-  ## 10.3 Purchase Agreement 
+  ### 10.3 Purchase Agreement 
   * *This is needed after the LLC is formed and we want to sell shares. When you have agreed on the major points of the transaction, it is time to memorialize the deal in a purchase agreement. A purchase agreement is a formal legal document that will encompass everything from the purchase price to what you are purchasing to your remedies if something goes wrong. Both you and the seller will sign the purchase agreement.* ([Read more](https://www.legalzoom.com/articles/how-to-buy-an-llc#4-the-term-sheet-or-memorandum-of-understanding))
-  * 
+
+## 11. Reporting 
+  ### 11.1 Amendment to or Restatement of Articles of Organization 
+  * [Missouri form LLC12](https://www.sos.mo.gov/CMSImages/Business/llc12.pdf?v=2)
+  ### 11.2 Amendment to an LLC registered agent, principal office, or mailing address 
+  * If an LLC wishes to change its registered agent, it cannot do so with an amendment form. Applicants also cannot change an LLC's principal office or mailing address in this manner. They must submit a [Statement of Change of Registered Agent and/or Registered Office By a Foreign or Domestic For-Profit or Nonprofit Corporation or a Limited Liability Company](https://www.sos.mo.gov/CMSImages/Business/corp59.pdf) form to the secretary of state by fax, mail or in person. Both have a $10 fee for processing. 
+  * Missouri does not require the LLC Operating Agreement to be filed with the state, it is an internal document only: [Read more](https://www.sos.mo.gov/business/outreach/startup_guide#llc)
+  * [Missouri LLC forms](https://www.sos.mo.gov/business/corporations/forms.asp#llc)
+  * Missouri requires nearly everything to go in the operating agreement, and the articles of organization are just a form? [see here](https://www.sos.mo.gov/CMSImages/Business/llc1.pdf?v=2) 
 
   
