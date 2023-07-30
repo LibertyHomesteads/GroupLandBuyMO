@@ -6,6 +6,7 @@ Decision-making - unanimity rules for important decisions to prevent deadlock et
 Mediation and arbitration clause for disputes between members.  
 Profit and loss distribution.  
 Budget and funding process - both initial and continuous.  
+More detailed land use rules  
 
 Book Access and Audits  
 Electronic signatures - required of all members to have and maintain   
@@ -76,7 +77,28 @@ The LLC shall follow the Action Plan outlined in Article 6 of the General Struct
 The Share Transfer Restrictions outlined in Article VI of the Articles of Incorporation shall be followed for all share transfers.
 
 **Article VIII: Dissolution**
-In the event of LLC dissolution, the assets shall be distributed in accordance with the Share Transfer Restrictions and the interests of the members as specified in the Articles of Incorporation.
+In the event of LLC dissolution, the assets shall be distributed in accordance with the Share Transfer Restrictions and the interests of the members as specified in the Articles of Incorporation. The following procedures shall be followed:  
+
+1. **Voluntary Dissolution:** The LLC may be dissolved voluntarily with the approval of a vote of 90% or more of the members. Upon approval, the members shall proceed with the winding-up process in accordance with applicable laws and this operating agreement.
+
+2. **Involuntary Dissolution:** The LLC may be dissolved involuntarily under circumstances allowed by law, including but not limited to court order, bankruptcy, or loss of required licenses. In such cases, the dissolution shall be carried out in compliance with the applicable state laws governing LLC dissolution.
+
+3. **Winding-Up Process:** Upon dissolution, the LLC shall immediately cease all business activities except those necessary for the winding-up process. The managers shall be responsible for liquidating the LLC's assets, satisfying its liabilities, and distributing the remaining assets to the members as outlined in this operating agreement.
+
+4. **Distribution of Assets:** After settling all debts and liabilities of the LLC, the remaining assets, except those covered in numeral 5, shall be distributed among the members in proportion to their ownership interests. The distribution shall be made in cash or in kind as determined by the managers, and it shall be documented and reported to all members.
+5. **Distribution of Land:** Homestead land allocated to each member shall be parcelled and titled to them or to a party assigned by them. Common boundary and road elements shall be attached to the adjacent homestead land and included as a right-of-way easement in their map and title during the parcelation process. Other common elements such as community hub, water system, etc may be sold, added to a new LLC formed by the members for common element administration, or another solution determined most fair and feasible by the LLC management. If parcelation is not possible due to zoning regulation or other legal restriction, the land asset distribution process will follow state and federal law. 
+
+6. **Final Tax Returns and Filings:** The managers shall be responsible for filing all necessary tax returns and final reports required by applicable state and federal authorities.
+
+7. **Termination of Operating Agreement:** The dissolution of the LLC shall result in the termination of this operating agreement, except for provisions that, by their nature, survive termination, including but not limited to any confidentiality, non-compete, and indemnification clauses.
+
+8. **Notice to State Authorities:** Upon completion of the winding-up process, the managers shall promptly file the appropriate dissolution documents with the state authorities to formalize the dissolution of the LLC.
+
+9. **Dispute Resolution:** Any disputes or disagreements arising from the dissolution process shall be resolved in accordance with the dispute resolution provisions outlined in this operating agreement.
+
+10. **Recordkeeping:** The LLC shall maintain all necessary records related to the dissolution process for a period of 10 years unless otherwise required by state or federal law, during which time all members shall have access to such records upon request.
+
+This dissolution clause shall govern the dissolution process of the LLC and shall be binding on all members. All members acknowledge and agree to abide by the terms and procedures set forth herein.
 
 **Article IX: Amendments**
 This operating agreement may be amended with the consent of two-thirds of the Nobleman and Yeoman Shareholders.
