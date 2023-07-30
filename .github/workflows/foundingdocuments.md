@@ -4,7 +4,7 @@ Decision-making - unanimity rules for important decisions to prevent deadlock et
 Profit and loss distribution.  
 Budget and funding process - both initial and continuous.  
 More detailed land use rules  
-SHTF clause for peasant shares
+SHTF clause for peasant shares  
 Bank unavailability clause for funds management 
 Inflation and hyperinflation clause for currency management and fine/valuation amounts  
 Add a bunch of this stuff: https://www.hopb.co/sample-hoa-bylaws  
