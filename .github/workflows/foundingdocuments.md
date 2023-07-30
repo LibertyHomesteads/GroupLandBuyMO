@@ -1,5 +1,17 @@
 Notes / need to add:   
-Dissolution, decision-making.  
+Dissolution: In case of deadlock, legal issues, etc.   
+Decision-making - unanimity rules for important decisions to prevent deadlock etc. Such as: U-1 or U-2 or U-a percent, for operating agreement changes or expulsions etc. 75% or super-majority for some decisions like expulsions? Board v. members...   
+
+
+Mediation and arbitration clause for disputes between members.  
+Profit and loss distribution.  
+Budget and funding process - both initial and continuous.  
+
+Book Access and Audits  
+  
+The operating agreement should include how and when the LLC’s books and records can be accessed and assessed, including meeting minutes and critical financial documents. Clearly outline where the books will be held, how members can access information, the notice required for access, and with whom they can share the information, including employees, secondees, and more. It should outline outside audits, including how often and by whom LLC records will be audited.  
+
+
    
 ### Articles of Incorporation
 
