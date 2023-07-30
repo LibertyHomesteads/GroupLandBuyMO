@@ -104,7 +104,9 @@ There are many options. RTTL could be an LLC or 501(c)3, acting as a "network st
   ### 8.4 Universal Rules 
   * All members may sell their share provided they follow the approval procedures established in the LLC operating agreement and/or bylaws. 
   * All members may only participate in management decisions if they have been elected to the LLC management according to the processes established in the bylaws.
-  * Only Nobleman and Yeoman members have voting rights in the LLC for decisions that pertain to all members and not just the LLC management (for example, normal board elections). Their voting power corresponds to their share size.
+  * Only Nobleman and Yeoman members have voting rights in the LLC for decisions that pertain to all members and not just the LLC management (for example, normal board elections). Their voting power corresponds to their share size. 
+  * Nobleman and Yeoman members who acquire additional ownership interest from a Peasant Share as part of a forced buy-out may not add additional land to their current lots nor do they have access/residency rights for the land that the Peasant Share is tied to. They will be considered as having a both a Nobleman or Yeoman share and a Peasant Share, with rights in accordance to those share types for each specific share and land allotment.
+  * Nobleman and Yeoman members who each acquire small portions of a split-up Nobleman or Yeoman share that underwent a buyout by other LLC members, jointly control the land alloted to that share. In the case that a Nobleman or Yeoman share is reduced via partial buyout or share dilution to an amount that changes its share class to Peasant, the LLC managers shall determine if the bought-out member can be granted occupancy rights as a special exception, and if so, what value the member should pay to the members who acquired part of his-her share to compensate them for the land use. 
 ## 9. Common Elements 
   ##### This refers to elements of the property that are commonly funded and managed by the LLC.  
   ## 9.1 Community Hub area 
