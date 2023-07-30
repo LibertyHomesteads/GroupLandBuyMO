@@ -151,7 +151,7 @@ The Share Transfer Restrictions outlined in Article VI of the Articles of Incorp
 ### **Article VIII: Buy/Sell Agreement**
 The following procedures shall be followed when selling shares of the LLC:  
 
-1. **New Member Share Transfer:** When a single or multiple LLC member(s) wish to voluntarily sell their share to a non-member, the following procedure shall be followed:
+1. **New Member Share Transfer:** When a single or multiple LLC member(s) wish to voluntarily sell their share to a non-member, the following procedure shall be followed: 
    1.1 The offering buyer shall fill out a standard application provided by the board of managers.  
    1.2 The application shall be sent to all members with Nobleman and Yeoman class shares for approval  
    1.3 If 75% approval is reached, the board of managers will provide a standard Term Sheet and Purchase Agreement in coordination with the seller  
@@ -187,9 +187,10 @@ The "Nobleman" shareholders (as outlined in Article III) shall have special cons
 
 8. **Confidentiality of Audit Reports:** Audit reports and any sensitive financial information obtained through audits shall be treated as confidential and shall not be disclosed to non-members or shared outside the LLC, except as required by law, and only after consulting with LLC management to obtain a legal opinion on the legality of the request. .
 
-9. **Dispute Resolution:** Any disputes or disagreements regarding access to records, audits, or examinations shall be resolved in accordance with the dispute resolution provisions outlined in the LLC operating agreement.
+9. **Dispute Resolution:** Any disputes or disagreements regarding access to records, audits, or examinations shall be resolved in accordance with the dispute resolution provisions outlined in the LLC operating agreement. 
 
 10. **Record Retention:** The LLC shall maintain all records related to financial transactions, business activities, and decision-making for a period of 10 years, or as otherwise required by applicable state or federal laws.
+11. **Document Conveyance:** As allowed by MO Rev Stat § 347.051(2) (2019), such documents as referred to in the cited Missouri statute must only be delivered electronically to Nobleman and Yeoman shareholders, within a period of 30 days, and should not be sent to Peasant shareholders unless otherwise required by law. 
 
 This "Book Access and Audits" clause shall govern the access, management, and examination of the LLC's records and shall be binding on all members. All members acknowledge and agree to abide by the terms and procedures set forth herein.
 
