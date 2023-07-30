@@ -101,11 +101,11 @@ The jurisdiction of Based Community, LLC shall be in the State of Missouri, and 
    - Home-based businesses that require physical client access to the common elements of the property must receive prior permission from the board of managers, which may place limits or requirements on access
    - Home-based businesses on allocated land that has direct public road front may allow client access without prior permission from the board of managers, provided that it does not create a material and demonstrable nuisance to the other members, and provided that it does not disrupt the security protection of any community-funded perimeter fence
 
-10. **Rental Policy:**
-   10.1 - **Purpose and Scope:**
+10. **Rental Policy:**  
+      10.1 - **Purpose and Scope:**
    This Rental Policy is established by the LLC to regulate and manage rental properties within the community. The policy aims to maintain the quality of living, preserve property values, and promote a safe and harmonious environment for all residents. 
 
-   10.2 - **Rental Approval Process:**
+      10.2 - **Rental Approval Process:**
    - Prior to leasing a property within the community, the homeowner (Landlord) must obtain written approval from the LLC management. The Landlord shall submit a rental application on behalf of the prospective tenant to the LLC for review.
    - The owner/lesee (LLC member) may not advertise or rent to the general public, only to PMA members or known individuals who meet the criteria to be approved for PMA membership
 
