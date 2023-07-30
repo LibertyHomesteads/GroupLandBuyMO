@@ -8,7 +8,6 @@ More detailed land use rules
 Buy/Sell agreement outlining various buy/sell processes for members  
 
 Book Access and Audits  
-Electronic signatures - required of all members to have and maintain   
   
 The operating agreement should include how and when the LLC’s books and records can be accessed and assessed, including meeting minutes and critical financial documents. Clearly outline where the books will be held, how members can access information, the notice required for access, and with whom they can share the information, including employees, secondees, and more. It should outline outside audits, including how often and by whom LLC records will be audited.  
 
@@ -51,7 +50,7 @@ The jurisdiction of Based Community, LLC shall be in the State of Missouri, and 
 **Article I: Management and Voting**
 1. The management of Based Community, LLC shall be vested in the board of managers, consisting of a president, vice president, treasurer, and secretary, as specified in Article V of the Articles of Incorporation. 
 2. Each Nobleman Share and Yeoman Share shall have voting rights, with voting power proportionate to their respective share size. Peasant Shares shall not have voting rights.
-3. All members shall be required to use an electronic signature for remote document signatures, proxies, and other official LLC business. 
+3. All members shall be required to maintain and use an electronic signature for remote document signatures, proxies, and other official LLC business. 
 
 **Article II: Code of Conduct**
 1. The LLC shall adhere to a Code of Conduct to maintain a harmonious and productive community. Disruptive behaviors, including concern controlling, compulsive lying, and purity spiraling, are strictly disallowed.
@@ -76,7 +75,24 @@ The LLC shall follow the Action Plan outlined in Article 6 of the General Struct
 **Article VII: Share Transfer Restrictions**
 The Share Transfer Restrictions outlined in Article VI of the Articles of Incorporation shall be followed for all share transfers.
 
-**Article VIII: Dissolution**
+**Article VIII: Buy/Sell Agreement**
+The following procedures shall be followed when selling shares of the LLC:  
+
+1. **New Member Share Transfer:** When a single or multiple LLC member(s) wish to voluntarily sell their share to a non-member, the following procedure shall be followed: 
+2. **In-House Share Transfer:** When a single or multiple LLC member(s) wish to voluntarily sell their share to an existing LLC member, the following procedure shall be followed:
+3. **Seed Investor Share Transfer:** When a non-member wishes to buy a share of the LLC as part of the pre-arranged seed investor share sales outlined in Article IX: Seed Investor Shares, the following procedure shall be followed:
+4. **Involuntary Buy-out:** When a member is forced to sell all or part of their share due to a board or member vote following various clauses in the Operating Agreement or Articles of Incorporation, the following procedure shall be followed: 
+
+**Article IX: Seed Investor Shares**  
+The "Nobleman" shareholders (as outlined in Article III) shall have special considerations and obligations to sell attached to part of their ownership interest in the LLC. 
+1. **Desired Ending Share:**
+2. **Funding Obligation for Common Elements:**
+3. **Partial Share Sale Obligation:**
+4. **Funds Management:**
+5. **Penalty:**
+
+   
+**Article X: Dissolution**
 In the event of LLC dissolution, the assets shall be distributed in accordance with the Share Transfer Restrictions and the interests of the members as specified in the Articles of Incorporation. The following procedures shall be followed:  
 
 1. **Voluntary Dissolution:** The LLC may be dissolved voluntarily with the approval of a vote of 90% or more of the members. Upon approval, the members shall proceed with the winding-up process in accordance with applicable laws and this operating agreement.
