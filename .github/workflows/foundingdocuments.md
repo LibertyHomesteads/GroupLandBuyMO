@@ -1,3 +1,6 @@
+Notes / need to add:   
+Dissolution, decision-making.  
+   
 ### Articles of Incorporation
 
 **Article I: Name**
