@@ -80,8 +80,8 @@ The jurisdiction of Based Community, LLC shall be in the State of Missouri, and 
    - Dangerous or aggressive animals that pose a threat to the safety of residents are not allowed.
 
 5. **General Aesthetics:**
-   - This being a gentlemanly community, using your property as a junkyard is prohibited.
-   - Prepping and collecting useful items and equipment is permitted, but hoarding is prohibited.
+   - This being a gentlemanly community, using your property as a junkyard, or letting your infrastructure collapse or rot away, is prohibited.
+   - Prepping and collecting useful items and equipment is permitted, but hoarding is prohibited. 
 
 6. **Trash and Recycling:**
    - Residents must dispose of trash and recyclables in a reasonable manner and timeframe.
