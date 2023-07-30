@@ -190,7 +190,7 @@ The "Nobleman" shareholders (as outlined in Article III) shall have special cons
 9. **Dispute Resolution:** Any disputes or disagreements regarding access to records, audits, or examinations shall be resolved in accordance with the dispute resolution provisions outlined in the LLC operating agreement. 
 
 10. **Record Retention:** The LLC shall maintain all records related to financial transactions, business activities, and decision-making for a period of 10 years, or as otherwise required by applicable state or federal laws.
-11. **Document Conveyance:** As allowed by MO Rev Stat § 347.051(2) (2019), such documents as referred to in the cited Missouri statute must only be delivered electronically to Nobleman and Yeoman shareholders, within a period of 30 days, and should not be sent to Peasant shareholders unless otherwise required by law. 
+11. **Document Conveyance:** As allowed by MO Rev Stat § 347.051(2) (2019), such documents as referred to in the cited Missouri statute must only be delivered electronically to Nobleman and Yeoman members, within a period of 30 days, and should not be sent to Peasant members unless otherwise required by law. 
 
 This "Book Access and Audits" clause shall govern the access, management, and examination of the LLC's records and shall be binding on all members. All members acknowledge and agree to abide by the terms and procedures set forth herein.
 
