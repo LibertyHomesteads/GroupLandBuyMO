@@ -7,7 +7,7 @@ Land allocation rules
 Add a bunch of this stuff: https://www.hopb.co/sample-hoa-bylaws  
 Add ULEX/common reference for governing law sections 
    
-## Articles of Incorporation
+## Articles of Organization
 
 ### **Article I: Name**
 The name of the Limited Liability Company is Based Community, LLC.
