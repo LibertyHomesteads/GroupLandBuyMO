@@ -5,13 +5,10 @@ Mediation and arbitration clause for disputes between members.
 Profit and loss distribution.  
 Budget and funding process - both initial and continuous.  
 More detailed land use rules  
-Buy/Sell agreement outlining various buy/sell processes for members  
-
-Book Access and Audits  
-  
-The operating agreement should include how and when the LLC’s books and records can be accessed and assessed, including meeting minutes and critical financial documents. Clearly outline where the books will be held, how members can access information, the notice required for access, and with whom they can share the information, including employees, secondees, and more. It should outline outside audits, including how often and by whom LLC records will be audited.  
-
-
+SHTF clause for peasant shares
+Bank unavailability clause for funds management 
+Inflation and hyperinflation clause for currency management and fine/valuation amounts  
+Add a bunch of this stuff: https://www.hopb.co/sample-hoa-bylaws  
    
 ### Articles of Incorporation
 
@@ -91,8 +88,31 @@ The "Nobleman" shareholders (as outlined in Article III) shall have special cons
 4. **Funds Management:**
 5. **Penalty:**
 
+**Article X: Book Access and Audits** 
+
+1. **Access to Records:** The LLC shall maintain accurate and complete records of all financial transactions, business activities, and decisions made by the LLC. These records shall be accessible to all members in good standing for review and examination, unless the member is of a restricted share class as described elsewhere in this article.
+
+2. **Electronic Access:** All LLC records, including financial statements, minutes of meetings, contracts, and other relevant documents, shall be stored electronically on a secure cloud server. Members in good standing shall receive access credentials to the cloud server, allowing them to view and download the records.
+
+3. **Access Restrictions for Peasant Share Members:** Peasant Share members shall have limited access to only those records required by state law. Such access may include annual financial reports, tax filings, and other documents necessary for legal compliance. Peasant Share members shall not have access to other sensitive financial or operational records of the LLC.
+
+4. **Member Responsibilities:** All members with access to the electronic records are responsible for maintaining the confidentiality and security of their access credentials. Members shall not share their access credentials with any third party or unauthorized individual. Members shall not share records with non-members unless required by state or federal law, and only after consulting with LLC management to obtain a legal opinion on the legality of the request. 
+
+5. **Audits and Examinations:** The LLC shall conduct periodic audits or examinations of its financial records to ensure accuracy and compliance with applicable laws. Audits may be performed by independent third-party auditors or by a committee of members designated by the managers.
+
+6. **Audit Results and Reports:** The results of audits and examinations, including any recommendations for improvements or corrections, shall be documented in written reports. These reports shall be made available to all members in good standing upon completion of the audit.
+
+7. **Frequency of Audits:** The frequency of audits or examinations shall be determined by the managers and may be conducted annually or at other intervals as deemed necessary for the proper financial management of the LLC.
+
+8. **Confidentiality of Audit Reports:** Audit reports and any sensitive financial information obtained through audits shall be treated as confidential and shall not be disclosed to non-members or shared outside the LLC, except as required by law, and only after consulting with LLC management to obtain a legal opinion on the legality of the request. .
+
+9. **Dispute Resolution:** Any disputes or disagreements regarding access to records, audits, or examinations shall be resolved in accordance with the dispute resolution provisions outlined in the LLC operating agreement.
+
+10. **Record Retention:** The LLC shall maintain all records related to financial transactions, business activities, and decision-making for a period of 10 years, or as otherwise required by applicable state or federal laws.
+
+This "Book Access and Audits" clause shall govern the access, management, and examination of the LLC's records and shall be binding on all members. All members acknowledge and agree to abide by the terms and procedures set forth herein.
    
-**Article X: Dissolution**
+**Article XI: Dissolution**
 In the event of LLC dissolution, the assets shall be distributed in accordance with the Share Transfer Restrictions and the interests of the members as specified in the Articles of Incorporation. The following procedures shall be followed:  
 
 1. **Voluntary Dissolution:** The LLC may be dissolved voluntarily with the approval of a vote of 90% or more of the members. Upon approval, the members shall proceed with the winding-up process in accordance with applicable laws and this operating agreement.
