@@ -46,7 +46,16 @@ The jurisdiction of Based Community, LLC shall be in the State of Missouri, and 
 ### **Article I: Management and Voting**
 1. The management of Based Community, LLC shall be vested in the board of managers, consisting of a president, vice president, treasurer, and secretary, as specified in Article V of the Articles of Incorporation. 
 2. Each Nobleman Share and Yeoman Share shall have voting rights, with voting power proportionate to their respective share size. Peasant Shares shall not have voting rights.
-3. All members shall be required to maintain and use an electronic signature for remote document signatures, proxies, and other official LLC business. 
+3. All members shall be required to maintain and use an electronic signature for remote document signatures, proxies, and other official LLC business.
+4. A 2/3 vote of the board of managers shall be required for the following:  
+   4.1 - Amend a written operating agreement for the purposes of changing membership after a legitimate sale of membership interest following the Operating Agreement  
+   4.2 - Issue an interest in the limited liability company to any person and admit such person as a member  
+   4.3 - Authorize any transaction, agreement or action on behalf of the limited liability company that is unrelated to its purpose as set forth in the articles of organization, that otherwise contravenes the operating agreement or that is not within the usual course of the business of the limited liability company
+   4.4 - Determine, modify, compromise or release the amount and character of the contributions which a member shall make, or shall promise to make, as the consideration for the issuance of an interest in the limited liability company  
+5. A vote of all Nobleman and Yeoman class members minus one possible dissenter shall be required for the following: 
+   5.1 - Change the status of the limited liability company from one in which management is vested in the members to one in which management is vested in one or more managers, or vice versa  
+   5.2 Dissolution of the LLC
+6. To decide any matter connected with the business or affairs of the limited liability company, including those listed in the previous clauses of this article, the Peasant class members shall have no vote, and the Nobleman and Yeoman class shares shall each have a vote that is equal in power to the proportion of their ownership interest divided by the total proportion of all Nobleman and Yeoman class ownership interests. (e.g. if total Nobleman + Yeoman interest is 60%, a 10% Nobleman owner shall have approximately 16.67% of the total votes.) 
 
 ### **Article II: Code of Conduct**
 1. The LLC shall adhere to a Code of Conduct to maintain a harmonious and productive community. Disruptive behaviors, including concern controlling, compulsive lying, and purity spiraling, are strictly disallowed.
