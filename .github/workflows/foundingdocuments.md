@@ -5,6 +5,7 @@ Profit and loss distribution.
 Budget and funding process - both initial and continuous.  
 More detailed land use rules    
 Add a bunch of this stuff: https://www.hopb.co/sample-hoa-bylaws  
+Add ULEX/common reference for governing law sections 
    
 ## Articles of Incorporation
 
