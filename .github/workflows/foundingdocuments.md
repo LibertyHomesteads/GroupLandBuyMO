@@ -121,10 +121,11 @@ The Share Transfer Restrictions outlined in Article VI of the Articles of Incorp
 The following procedures shall be followed when selling shares of the LLC:  
 
 1. **New Member Share Transfer:** When a single or multiple LLC member(s) wish to voluntarily sell their share to a non-member, the following procedure shall be followed:
-   1.1 The offering buyer shall fill out a standard application provided by the board of managers.
-   1.2 The application shall be sent to all members with Nobleman and Yeoman class shares for approval
-   1.3 If 75% approval is reached, the board of managers will provide a standard Term Sheet and Purchase Agreement in coordination with the seller
-   1.4 Assuming payment is made, all members will sign a new 
+   1.1 The offering buyer shall fill out a standard application provided by the board of managers.  
+   1.2 The application shall be sent to all members with Nobleman and Yeoman class shares for approval  
+   1.3 If 75% approval is reached, the board of managers will provide a standard Term Sheet and Purchase Agreement in coordination with the seller  
+   1.4 Assuming payment is made, and the purchase agreement is signed, the board shall sign and issue a new Operating Agreement with the sole changes being the new ownership
+   1.5 Members of Nobleman and Yeoman share classes will be notified; sale and other information will be recorded into LLC records  
 3. **In-House Share Transfer:** When a single or multiple LLC member(s) wish to voluntarily sell their share to an existing LLC member, the following procedure shall be followed:
 4. **Seed Investor Share Transfer:** When a non-member wishes to buy a share of the LLC as part of the pre-arranged seed investor share sales outlined in Article IX: Seed Investor Shares, the following procedure shall be followed:
 5. **Involuntary Buy-out:** When a member is forced to sell all or part of their share due to a board or member vote following various clauses in the Operating Agreement or Articles of Incorporation, the following procedure shall be followed: 
