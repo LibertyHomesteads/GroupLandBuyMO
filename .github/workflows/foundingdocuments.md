@@ -79,57 +79,57 @@ The jurisdiction of Based Community, LLC shall be in the State of Missouri, and 
    - Owners are responsible for any property damage or bodily harm that their pets or farm animals may cause. 
    - Dangerous or aggressive animals that pose a threat to the safety of residents are not allowed.
 
-5. **General Aesthetics:**
+8. **General Aesthetics:**
    - This being a gentlemanly community, using your property as a junkyard, or letting your infrastructure collapse or rot away, is prohibited.
    - Prepping and collecting useful items and equipment is permitted, but hoarding is prohibited. 
 
-6. **Trash and Recycling:**
+9. **Trash and Recycling:**
    - Residents must dispose of trash and recyclables in a reasonable manner and timeframe.
    - Large items or hazardous materials must be properly disposed of at designated facilities.
 
-7. **Parking:**
+10. **Parking:**
    - Vehicles must be parked in designated parking areas and not obstruct shared driveways or common areas.
 
-8. **Common Area Usage:**
+11. **Common Area Usage:**
    - Common areas, such as parks or community facilities, are for the enjoyment of all members and must be respected and kept clean.
    - Private events or gatherings in common areas must be coordinated with the HOA.
    - Events open to the general public may NOT be held in common areas of the property
    - Events open to the general public may only be held on privately allocated / leased land with prior permission of the board of managers
 
-9. **Home Businesses:**
+12. **Home Businesses:**
    - Home-based businesses that do not require physical client access to the property are allowed, provided they comply with local laws and regulations
    - Home-based businesses that require physical client access to the common elements of the property must receive prior permission from the board of managers, which may place limits or requirements on access
    - Home-based businesses on allocated land that has direct public road front may allow client access without prior permission from the board of managers, provided that it does not create a material and demonstrable nuisance to the other members, and provided that it does not disrupt the security protection of any community-funded perimeter fence
 
-10. **Rental Policy:**  
-      10.1 - **Purpose and Scope:**
+13. **Rental Policy:**  
+      13.1 - **Purpose and Scope:**
    This Rental Policy is established by the LLC to regulate and manage rental properties within the community. The policy aims to maintain the quality of living, preserve property values, and promote a safe and harmonious environment for all residents. 
 
-      10.2 - **Rental Approval Process:**
+      13.2 - **Rental Approval Process:**
    - Prior to leasing a property within the community, the homeowner (Landlord) must obtain written approval from the LLC management. The Landlord shall submit a rental application on behalf of the prospective tenant to the LLC for review.
    - The owner/lesee (LLC member) may not advertise or rent to the general public, only to PMA members or known individuals who meet the criteria to be approved for PMA membership
 
-   10.3 - **Rental Application Requirements:**
+      13.3 - **Rental Application Requirements:**
    The member must submit a rental application provided by the board of managers, and it must include the following information about the prospective tenant(s): Full name, contact information (phone and email), proof of identification (e.g., driver's license or passport), indication of previous employment/income/rental/criminal history at the board's discretion  
 
-   10.4 - **Tenant Screening and Approval:**
+      13.4 - **Tenant Screening and Approval:**
    - The LLC management will conduct a tenant screening process to assess the prospective tenant's suitability for residency within the community.
    - The LLC management shall approve or deny the rental application within a reasonable time frame.
 
-   10.5 - **Rental Term and Renewals:**  
+      13.5 - **Rental Term and Renewals:**  
    - Rental agreements shall be for a minimum term of three (3) months.  
    - If the tenant intends to renew the lease, the member must notify the LLC management in writing before the lease expiration date for reevaluation and approval.
      
-   10.6 - **Responsibility for Compliance:**
+      13.6 - **Responsibility for Compliance:**
    - The member is responsible for ensuring that the tenant complies with all LLC rules, regulations, and operating agreement.
    - The member must provide a copy of the LLC's rules and regulations to the tenant at the beginning of the lease term.
    - Tenants must adhere to all community rules and regulations and shall be held accountable for any violations.
    - The member is responsible for addressing and resolving any tenant violations promptly.
      
-   10.7 - **Right to Deny Rental:**
+      13.7 - **Right to Deny Rental:**
     - The LLC management reserves the right to deny any rental application that does not meet their established criteria or poses a potential risk to the community.
 
-   10.8 - **Enforcement and Penalties:**
+      13.8 - **Enforcement and Penalties:**
     - Violation of this Rental Policy may result in penalties, fines, or other enforcement actions, as outlined in the LLC's operating agreement.
 
 12. **Enforcement and Mediation:**
