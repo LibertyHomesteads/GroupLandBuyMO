@@ -102,34 +102,34 @@ The jurisdiction of Based Community, LLC shall be in the State of Missouri, and 
    - Home-based businesses on allocated land that has direct public road front may allow client access without prior permission from the board of managers, provided that it does not create a material and demonstrable nuisance to the other members, and provided that it does not disrupt the security protection of any community-funded perimeter fence
 
 10. **Rental Policy:**
-    - **Purpose and Scope:**
+   10.1 - **Purpose and Scope:**
    This Rental Policy is established by the LLC to regulate and manage rental properties within the community. The policy aims to maintain the quality of living, preserve property values, and promote a safe and harmonious environment for all residents. 
 
-    - **Rental Approval Process:**
+   10.2 - **Rental Approval Process:**
    - Prior to leasing a property within the community, the homeowner (Landlord) must obtain written approval from the LLC management. The Landlord shall submit a rental application on behalf of the prospective tenant to the LLC for review.
    - The owner/lesee (LLC member) may not advertise or rent to the general public, only to PMA members or known individuals who meet the criteria to be approved for PMA membership
 
-   - **Rental Application Requirements:**
+   10.3 - **Rental Application Requirements:**
    The member must submit a rental application provided by the board of managers, and it must include the following information about the prospective tenant(s): Full name, contact information (phone and email), proof of identification (e.g., driver's license or passport), indication of previous employment/income/rental/criminal history at the board's discretion  
 
-   - **Tenant Screening and Approval:**
+   10.4 - **Tenant Screening and Approval:**
    - The LLC management will conduct a tenant screening process to assess the prospective tenant's suitability for residency within the community.
    - The LLC management shall approve or deny the rental application within a reasonable time frame.
 
-   - **Rental Term and Renewals:**  
+   10.5 - **Rental Term and Renewals:**  
    - Rental agreements shall be for a minimum term of three (3) months.  
    - If the tenant intends to renew the lease, the member must notify the LLC management in writing before the lease expiration date for reevaluation and approval.
      
-   - **Responsibility for Compliance:**
+   10.6 - **Responsibility for Compliance:**
    - The member is responsible for ensuring that the tenant complies with all LLC rules, regulations, and operating agreement.
    - The member must provide a copy of the LLC's rules and regulations to the tenant at the beginning of the lease term.
    - Tenants must adhere to all community rules and regulations and shall be held accountable for any violations.
    - The member is responsible for addressing and resolving any tenant violations promptly.
      
-   - **Right to Deny Rental:**
+   10.7 - **Right to Deny Rental:**
     - The LLC management reserves the right to deny any rental application that does not meet their established criteria or poses a potential risk to the community.
 
-   - **Enforcement and Penalties:**
+   10.8 - **Enforcement and Penalties:**
     - Violation of this Rental Policy may result in penalties, fines, or other enforcement actions, as outlined in the LLC's operating agreement.
 
 12. **Enforcement and Mediation:**
