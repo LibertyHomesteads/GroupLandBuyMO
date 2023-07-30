@@ -1,7 +1,6 @@
 Notes / need to add:    
 Decision-making - unanimity rules for important decisions to prevent deadlock etc. Such as: U-1 or U-2 or U-a percent, for operating agreement changes or expulsions etc. 75% or super-majority for some decisions like expulsions? Board v. members...   
 
-Mediation and arbitration clause for disputes between members.  
 Profit and loss distribution.  
 Budget and funding process - both initial and continuous.  
 More detailed land use rules  
@@ -111,8 +110,36 @@ The "Nobleman" shareholders (as outlined in Article III) shall have special cons
 10. **Record Retention:** The LLC shall maintain all records related to financial transactions, business activities, and decision-making for a period of 10 years, or as otherwise required by applicable state or federal laws.
 
 This "Book Access and Audits" clause shall govern the access, management, and examination of the LLC's records and shall be binding on all members. All members acknowledge and agree to abide by the terms and procedures set forth herein.
+
+**Article XI: Dispute Resolution and Mediation** 
+
+1. **Informal Resolution:** In the event of any dispute, controversy, or claim arising out of or relating to this operating agreement, the LLC's business activities, or the relationship between members, the parties involved shall first attempt to resolve the matter amicably through informal discussions and negotiations.
+
+2. **Mediation:** If the parties are unable to reach a resolution through informal discussions within [specify timeframe, e.g., 30 days] from the date the dispute arose, the parties shall submit the dispute to mediation. Mediation shall be conducted by a neutral mediator mutually agreed upon by the parties.
+
+3. **Mediation Process:** The mediation shall take place at a location and time agreed upon by the parties, and it shall be conducted in good faith with the aim of reaching a mutually acceptable resolution. The mediator's role is to facilitate communication and assist the parties in reaching a resolution, but the mediator shall not have the authority to impose a decision.
+
+4. **Confidentiality:** All communications, negotiations, and proceedings related to the mediation shall be confidential and shall not be used as evidence in any subsequent legal proceedings, except as required by law, and only after consulting with LLC management to obtain a legal opinion on the legality of the request. ..
+
+5. **Costs of Mediation:** The costs and expenses of the mediation, including the mediator's fees, shall be shared equally between the parties, unless otherwise agreed upon.
+
+6. **Binding Nature:** If the parties reach a resolution through mediation, the terms of the resolution shall be reduced to writing and signed by all parties. The resolution shall be binding on the parties and enforceable as a separate agreement.
+
+7. **Litigation as Last Resort:** If mediation does not result in a resolution within 60 days from the initiation of the mediation process, any unresolved dispute shall be subject to litigation.
+
+8. **Jurisdiction and Venue:** Any legal action or proceeding arising from or related to this operating agreement or the LLC's business activities shall be brought in the state or federal courts having jurisdiction over the location of the LLC's principal place of business.
+
+9. **Attorneys' Fees:** In the event of litigation or arbitration, the prevailing party shall be entitled to recover its reasonable attorneys' fees and costs incurred in connection with the dispute.
+
+10. **Waiver of Jury Trial:** To the fullest extent permitted by law, the parties hereby waive their right to a jury trial in any legal action or proceeding arising from or related to this operating agreement or the LLC's business activities. This reduces the time spent on dispute resolution and increases the chance that a solution will be reached without going to trial. 
+
+11. **Continuation of Business:** During the resolution process, the LLC's business activities shall continue unaffected to the extent possible, unless otherwise agreed upon by the parties or required by law, and only after consulting with LLC management to obtain a legal opinion on the legality of the request. 
+
+12. **Disruption of Official and Unofficial Communication:** If the parties in dispute insist on discussions of their dispute in public, and in formal or informal discussions of LLC business among all or most members or the board, the board may order the exclusion of either or both of the parties in dispute from such communications or take other punitive measures as is deemed reasonable, to ensure a healthy social atmosphere within the LLC.
    
-**Article XI: Dissolution**
+This "Dispute Resolution and Mediation" clause shall apply to all disputes among the LLC members and shall be binding on all parties. All members acknowledge and agree to abide by the terms and procedures set forth herein.
+   
+**Article XII: Dissolution**
 In the event of LLC dissolution, the assets shall be distributed in accordance with the Share Transfer Restrictions and the interests of the members as specified in the Articles of Incorporation. The following procedures shall be followed:  
 
 1. **Voluntary Dissolution:** The LLC may be dissolved voluntarily with the approval of a vote of 90% or more of the members. Upon approval, the members shall proceed with the winding-up process in accordance with applicable laws and this operating agreement.
@@ -136,9 +163,9 @@ In the event of LLC dissolution, the assets shall be distributed in accordance w
 
 This dissolution clause shall govern the dissolution process of the LLC and shall be binding on all members. All members acknowledge and agree to abide by the terms and procedures set forth herein.
 
-**Article IX: Amendments**
+**Article XIII: Amendments**
 This operating agreement may be amended with the consent of two-thirds of the Nobleman and Yeoman Shareholders.
 
-**Article X: Governing Law**
+**Article XIV: Governing Law**
 This operating agreement shall be governed by and construed in accordance with the laws of the State of Missouri.
   
