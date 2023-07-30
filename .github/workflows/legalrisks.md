@@ -9,7 +9,8 @@ Linked from: [General Project Structure](https://github.com/LibertyHomesteads/Gr
    ### 1.1 Zoning Laws 
    * Purchase land in an area with no county-level zoning laws
    * "South-Central Missouri: Douglas, Ozark, Texas, Wright, Webster, Oregon and Shannon do not have any type of code standard, permits needed or inspections outside of any city limit." Lawrence county also does not.
-   * [This Missouri law](https://law.justia.com/codes/missouri/2021/title-vii/chapter-71/section-71-270/) seems to prohibit city-like subdivisions with roads/streets/alleys/etc outside of city limits, however, only if the land has been legally subdivided and the features have been added to the recorded plat at the county registrar, which would make it an illegal subdivision for general public sale.  
+   * [This Missouri law](https://law.justia.com/codes/missouri/2021/title-vii/chapter-71/section-71-270/) seems to prohibit city-like subdivisions with roads/streets/alleys/etc outside of city limits, however, only if the land has been legally subdivided and the features have been added to the recorded plat at the county registrar, which would make it an illegal subdivision for general public sale.
+   * Check if Missouri has any subdivision regulation ordinance that would apply to our situation 
    ### 1.2 Septic Laws at State Level 
    * Determine best way to comply with septic system law at the state level. Compel all members to comply, since failure to comply by an individual can result in a large daily fine to the LLC as a whole, not just to the individual.
    * A single residence on 3 acres or more must have a septic system, but does not require a permit. For additional residences, 10 additional acres per residence is required, and 360 feet minimum distance between any points on the septic systems. Depending on share size, we will probably have to get permits. 
