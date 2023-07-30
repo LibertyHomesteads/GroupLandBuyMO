@@ -1,7 +1,5 @@
-Notes / need to add:   
-Dissolution: In case of deadlock, legal issues, etc.   
+Notes / need to add:    
 Decision-making - unanimity rules for important decisions to prevent deadlock etc. Such as: U-1 or U-2 or U-a percent, for operating agreement changes or expulsions etc. 75% or super-majority for some decisions like expulsions? Board v. members...   
-
 
 Mediation and arbitration clause for disputes between members.  
 Profit and loss distribution.  
