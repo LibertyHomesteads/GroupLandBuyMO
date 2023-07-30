@@ -139,6 +139,7 @@ There are many options. RTTL could be an LLC or 501(c)3, acting as a "network st
   * Missouri does not require the LLC Operating Agreement to be filed with the state, it is an internal document only: [Read more](https://www.sos.mo.gov/business/outreach/startup_guide#llc)
   * [Missouri LLC forms](https://www.sos.mo.gov/business/corporations/forms.asp#llc)
   * Missouri requires nearly everything to go in the operating agreement, and the articles of organization are just a form? [see here](https://www.sos.mo.gov/CMSImages/Business/llc1.pdf?v=2)
-  * Need to register with IRS. Determine if there is a need to register with Missouri department of internal revenue? 
+  * Need to register with IRS. Determine if there is a need to register with Missouri department of internal revenue?
+  * [MO Section 347.051 Delivery of documents to secretary of state, format, duties.](https://law.justia.com/codes/missouri/2019/title-xxiii/chapter-347/section-347-051/): *"Upon the return by the secretary of any articles, notices, documents or judicial decree of amendment marked "Filed", the person or persons executing such documents shall promptly deliver or mail a copy thereof to each member unless the operating agreement provides otherwise."*
 
   
