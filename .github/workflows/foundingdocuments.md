@@ -130,9 +130,9 @@ The jurisdiction of Based Community, LLC shall be in the State of Missouri, and 
     - The LLC management reserves the right to deny any rental application that does not meet their established criteria or poses a potential risk to the community.
 
       13.8 - **Enforcement and Penalties:**
-    - Violation of this Rental Policy may result in penalties, fines, or other enforcement actions, as outlined in the LLC's operating agreement.
+       - Violation of this Rental Policy may result in penalties, fines, or other enforcement actions, as outlined in the LLC's operating agreement.
 
-12. **Enforcement and Mediation:**
+14. **Enforcement and Mediation:**
     - The HOA shall use a mediation-first approach to resolve disputes among members.
     - Fines or penalties may be imposed for violations of the rules, with appropriate due process.
     - The board of managers shall administer these judgments, and may skip steps if the severity of the infraction warrants it: 
