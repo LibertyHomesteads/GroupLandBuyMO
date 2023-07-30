@@ -5,6 +5,7 @@ Mediation and arbitration clause for disputes between members.
 Profit and loss distribution.  
 Budget and funding process - both initial and continuous.  
 More detailed land use rules  
+Buy/Sell agreement outlining various buy/sell processes for members  
 
 Book Access and Audits  
 Electronic signatures - required of all members to have and maintain   
@@ -31,11 +32,11 @@ Address: 123 Main Street, Springfield, MO 12345
 
 
 **Article V: Management**
-Based Community, LLC shall be managed by a board of managers. The board shall consist of four members who will be appointed for a management period of two years each. The initial managers of the LLC are as follows:
-1. John Smith
-2. Emma Johnson
-3. Alexander Brown
-4. Isabella Anderson
+Based Community, LLC shall be managed by a board of managers. The board shall consist of four members who will be appointed for a management period of two years each. The initial managers of the LLC and their positions are as follows:
+1. John Smith (president) 
+2. Emma Johnson (vice president) 
+3. Alexander Brown (treasurer) 
+4. Isabella Anderson (secretary) 
 
 **Article VI: Share Transfer Restrictions**
 1. Shareholders may not transfer their shares without first offering them to the LLC or other shareholders with a right of first refusal. The LLC or other shareholders shall have 30 days to accept or decline the offer.
@@ -48,8 +49,9 @@ The jurisdiction of Based Community, LLC shall be in the State of Missouri, and 
 ### LLC Operating Agreement
 
 **Article I: Management and Voting**
-1. The management of Based Community, LLC shall be vested in the board of managers, consisting of four members as specified in Article V of the Articles of Incorporation.
+1. The management of Based Community, LLC shall be vested in the board of managers, consisting of a president, vice president, treasurer, and secretary, as specified in Article V of the Articles of Incorporation. 
 2. Each Nobleman Share and Yeoman Share shall have voting rights, with voting power proportionate to their respective share size. Peasant Shares shall not have voting rights.
+3. All members shall be required to use an electronic signature for remote document signatures, proxies, and other official LLC business. 
 
 **Article II: Code of Conduct**
 1. The LLC shall adhere to a Code of Conduct to maintain a harmonious and productive community. Disruptive behaviors, including concern controlling, compulsive lying, and purity spiraling, are strictly disallowed.
