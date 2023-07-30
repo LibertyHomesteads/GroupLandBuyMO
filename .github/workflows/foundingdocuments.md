@@ -186,5 +186,46 @@ This dissolution clause shall govern the dissolution process of the LLC and shal
 This operating agreement may be amended with the consent of two-thirds of the Nobleman and Yeoman Shareholders.
 
 **Article XV: Governing Law**
-This operating agreement shall be governed by and construed in accordance with the laws of the State of Missouri.
+This operating agreement shall be governed by and construed in accordance with the laws of the State of Missouri. 
+
+**Article XVI: Members** 
+The following is a list of LLC members. All members are required to sign the new iterations of the operating agreements if the only change has been an update of the member list based on signed sales documents. Failure to do so for any reason will be considered obstruction of LLC operations and the board of managers may expel the refusing member from the LLC as per the forced buy-out allowances in the Articles of Organization and/or Operation Agreement. 
+
+1. **Nobleman Share (Founder):**
+   - Name: John Smith
+   - Share Percentage: 25%
+
+2. **Nobleman Share (Founder):**
+   - Name: William Johnson
+   - Share Percentage: 25%
+
+3. **Yeoman Share:**
+   - Name: Alexander Müller
+   - Share Percentage: 15%
+
+4. **Yeoman Share:**
+   - Name: Sofia Rossi
+   - Share Percentage: 15%
+
+5. **Yeoman Share:**
+   - Name: Henri Leblanc
+   - Share Percentage: 10%
+
+6. **Peasant Share:**
+   - Name: Marta Kowalski
+   - Share Percentage: 2.5%
+
+7. **Peasant Share:**
+   - Name: Erik Andersen
+   - Share Percentage: 2.5%
+
+8. **Peasant Share:**
+   - Name: Isabella Ivanova
+   - Share Percentage: 2.5%
+
+9. **Peasant Share:**
+   - Name: Michael Ferreira
+   - Share Percentage: 2.5%
+
+
   
