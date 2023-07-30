@@ -8,6 +8,7 @@ Profit and loss distribution.
 Budget and funding process - both initial and continuous.  
 
 Book Access and Audits  
+Electronic signatures - required of all members to have and maintain   
   
 The operating agreement should include how and when the LLC’s books and records can be accessed and assessed, including meeting minutes and critical financial documents. Clearly outline where the books will be held, how members can access information, the notice required for access, and with whom they can share the information, including employees, secondees, and more. It should outline outside audits, including how often and by whom LLC records will be audited.  
 
