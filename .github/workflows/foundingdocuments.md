@@ -98,7 +98,7 @@ The jurisdiction of Based Community, LLC shall be in the State of Missouri, and 
 
 9. **Home Businesses:**
    - Home-based businesses that do not require physical client access to the property are allowed, provided they comply with local laws and regulations
-   - Home-based businesses that require physical client access to the common elements of the property must receive prior permission from the board of managers, which may place limits or requireents on access
+   - Home-based businesses that require physical client access to the common elements of the property must receive prior permission from the board of managers, which may place limits or requirements on access
    - Home-based businesses on allocated land that has direct public road front may allow client access without prior permission from the board of managers, provided that it does not create a material and demonstrable nuisance to the other members, and provided that it does not disrupt the security protection of any community-funded perimeter fence
 
 10. **Enforcement and Mediation:**
