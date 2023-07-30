@@ -38,14 +38,13 @@ There are many options. RTTL could be an LLC or 501(c)3, acting as a "network st
    * Determine which state has the best LLC laws for our purposes. However, costs are increased for an out-of-state LLC since in addition to the filing and maintenance fees, you typically have to pay fees to register to do business in your state with an out-of-state LLC.  
 ## 2. Permits and Zoning  
    * See [Legal Risks](https://github.com/LibertyHomesteads/GroupLandBuyMO/blob/main/.github/workflows/legalrisks.md) document
-## 3. Land Use Contract (pseudo-HOA)  
+## 3. Land Use Rules (part of the LLC Operating Agreement)  
+     **We should implement either a private contract between members, or an act of the LLC, functioning as a pseudo-HOA, not to be over-bearing Karens, but to keep life enjoyable in our neighborhood.**   
    ### 3.1. Real Nuisance Regulations  
    * There are many ways in which someone can make life miserable for their neighbors, even on a 3-4 acre lot. Burning plastic trash regularly, starting a large hog operation with unbearable stench, playing loud music into the night regularly, selling drugs on the property, etc.  
-   ### 3.2. Private Contract  
-   * We should implement either a private contract between members, or an act of the LLC, functioning as a pseudo-HOA, not to be over-bearing Karens, but to keep life enjoyable in our neighborhood.    
-   ### 3.3. Mediation-First Enforcement  
+   ### 3.2. Mediation-First Enforcement  
    * Enforcement of rules should be focused on first intervention/mediation, and then monetary fine. We do not wish to fine anybody without first attempting to resolve the issue non-monetarily.    
-   ### 3.4. No unnecessary or arbitrary rules  
+   ### 3.3. No unnecessary or arbitrary rules  
    * There will be no unnecesary or arbitrary rules, or rules that govern activities that do not have a material/real and demonstrable effect on other residents of the property. Example: Forbidding hanging laundry on the line or living in tents.   While one could argue that lowering property value is a "real effect," we will instead base our real effect criteria on values that are more important to our community.   
 ## 4. Publicity
    4.1 Determine level and type of publicity desired  
