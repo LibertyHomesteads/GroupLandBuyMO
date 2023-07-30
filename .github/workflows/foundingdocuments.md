@@ -3,7 +3,7 @@ Decision-making - unanimity rules for important decisions to prevent deadlock et
 
 Profit and loss distribution.  
 Budget and funding process - both initial and continuous.  
-More detailed land use rules    
+Land allocation rules 
 Add a bunch of this stuff: https://www.hopb.co/sample-hoa-bylaws  
 Add ULEX/common reference for governing law sections 
    
@@ -59,9 +59,57 @@ The jurisdiction of Based Community, LLC shall be in the State of Missouri, and 
 1. The LLC shall establish common elements for the benefit of all members, including a community hub area with well, septic system, electric connection, workshop, RV hookup, driveways, perimeter fence, and administrative infrastructure.
 
 ### **Article V: Land Use Regulations**
-1. The LLC shall implement and enforce a set of land use regulations, functioning as a pseudo-HOA, to maintain an enjoyable and harmonious environment.
-2. Members shall adhere to the regulations, including no regular burning of trash, no loud music late at night, and adherence to agricultural and residential use of the leased lots.
-3. Members shall reimburse the LLC for any fines levied due to their transgressions.
+1. The LLC shall implement and enforce a set of land use regulations, functioning as an HOA, to maintain an enjoyable and harmonious environment.
+2. Members and their invitees shall adhere to the following regulations or face progressive consequences as defined below. 
+3. Members shall reimburse the LLC for any fines levied on the LLC due to their transgressions, including but not limited to fines from county zoning officials, state health department, EPA, etc.
+4. **General Conduct:**
+   - Members and residents shall conduct themselves in a manner that promotes a safe, peaceful, and harmonious living environment.
+   - Respect for neighbors' privacy and property boundaries shall be maintained at all times.
+
+5. **Noise and Nuisance:**
+   - Excessive noise that disturbs the peace and quiet of the community, especially during nighttime hours, is prohibited.
+   - Regular burning of trash and other materials is not allowed to avoid air pollution and unpleasant odors.
+   - Anything that causes a "material and demonstrable" nuisance to other members can be considered as such 
+
+6. **Agriculture and Farming:**
+   - Members are allowed to engage in agriculture and farming activities on their property, provided they comply with local zoning and local/state/federal environmental regulations, and all other applicable local, state, and federal law
+   - Large-scale concentrated agricultural operations that create noise, smell, or groundwater pollution are not permitted. Large hog operations in particular are worth mentioning as a probable infactor. 
+
+7. **Pets and Animals:**
+   - Owners are responsible for any property damage or bodily harm that their pets or farm animals may cause. 
+   - Dangerous or aggressive animals that pose a threat to the safety of residents are not allowed.
+
+5. **General Aesthetics:**
+   - This being a gentlemanly community, using your property as a junkyard is prohibited.
+   - Prepping and collecting useful items and equipment is permitted, but hoarding is prohibited.
+
+6. **Trash and Recycling:**
+   - Residents must dispose of trash and recyclables in a reasonable manner and timeframe.
+   - Large items or hazardous materials must be properly disposed of at designated facilities.
+
+7. **Parking:**
+   - Vehicles must be parked in designated parking areas and not obstruct shared driveways or common areas.
+
+8. **Common Area Usage:**
+   - Common areas, such as parks or community facilities, are for the enjoyment of all members and must be respected and kept clean.
+   - Private events or gatherings in common areas must be coordinated with the HOA.
+   - Events open to the general public may NOT be held in common areas of the property
+   - Events open to the general public may only be held on privately allocated / leased land with prior permission of the board of managers
+
+9. **Home Businesses:**
+   - Home-based businesses that do not require physical client access to the property are allowed, provided they comply with local laws and regulations
+   - Home-based businesses that require physical client access to the common elements of the property must receive prior permission from the board of managers, which may place limits or requireents on access
+   - Home-based businesses on allocated land that has direct public road front may allow client access without prior permission from the board of managers, provided that it does not create a material and demonstrable nuisance to the other members, and provided that it does not disrupt the security protection of any community-funded perimeter fence
+
+10. **Enforcement and Mediation:**
+    - The HOA shall use a mediation-first approach to resolve disputes among members.
+    - Fines or penalties may be imposed for violations of the rules, with appropriate due process.
+    - The board of managers shall administer these judgments, and may skip steps if the severity of the infraction warrants it: 
+      - Formal notification and mediation attempt, with a 30 day timeframe
+      - Monetary fine imposed by the board of managers
+      - Removal of access to common element benefits
+      - Removal of access/residency rights to their leased / allocated land
+      - Expulsion from the LLC per forced buy-out regulations elsewhere in the LLC Operating Agreement or Articles of Organization 
 
 ### **Article VI: Action Plan**
 The LLC shall follow the Action Plan outlined in Article 6 of the General Structure to execute the land purchase, distribution, and development process.
