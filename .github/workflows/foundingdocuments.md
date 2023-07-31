@@ -82,7 +82,9 @@ The jurisdiction of Homestead Community, LLC shall be in the State of Missouri, 
 5. **Noise and Nuisance:**
    - Excessive noise that disturbs the peace and quiet of the community, especially during nighttime hours, is prohibited.
    - Regular burning of trash and other materials is not allowed to avoid air pollution and unpleasant odors. Such burning can be organized on the last day of every month to coordinate and prevent multiple burnings. 
-   - Anything that causes a "material and demonstrable" nuisance to other members can be considered as such 
+   - Anything that causes a "material and demonstrable" nuisance to other members can be considered as such
+   - Generators must be installed inside a baffle box or similar structure that significantly reduces the noise, after no more than a 30 day period which included occasional operation
+   - Long-term heavy duty machinery use that will generate continuous noise could be considered a violation, please consult with LLC management before planning this type of operation.  
 
 6. **Agriculture and Farming:**
    - Members are allowed to engage in agriculture and farming activities on their property, provided they comply with local zoning and local/state/federal environmental regulations, and all other applicable local, state, and federal law
