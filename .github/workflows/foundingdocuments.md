@@ -67,9 +67,24 @@ The jurisdiction of Homestead Community, LLC shall be in the State of Missouri, 
 3. Class C members may purchase additional shares until they reach the Residency Threshold of [XX%], at which point they are permitted to live on the land.
 4. Other restrictions or benefits of different member interests are discussed elsewhere in this Operating Agreement.  
 
-### **Article IV: Common Elements**
-1. The LLC shall establish common elements for the benefit of all members, including a community hub area with well, septic system, electric connection, workshop, RV hookup, driveways, perimeter fence, and administrative infrastructure.
-2. The common interests will be funded by contributions from members according to their percent of ownership interest. 
+### **Article IV: Common Elements and Contributions**
+1. **Common elements:** The LLC shall establish common elements for the benefit of all members, including a community hub area with well, septic system, electric connection, workshop, RV hookup, driveways, perimeter fence, and administrative infrastructure.
+2. **Other common expenses:** The LLC will be responsible for other common expenses such as property taxes, administration costs, and legal costs.   
+3. **Contributions:** The common interests will be funded by contributions from members according to their percent of ownership interest.  
+4. **Initial Budget and Seed Budget:** The founding members wil pass an initial development budget (IDB), and a tentative operating budget for the years after, which will be reviewed when necessary. Of the IDB, a small portion of initial costs will be identified as urgent, and referred to as the Seed Development Budget, or "SDB." So, the SDB is a part of the IDB. 
+5. **Financial Obligation:** All members are financially responsible to contribute what is necessary, according to their ownership interest, to maintain the perfect operation of common elements, pay property taxes, meet all legal and administrative requirements of ongoing operations of the LLC and its assets, etc.
+6. **Total Projected Initial Investment:** The "total projected initial investment" (TPII) will be the cost of the land that is purchased as per Article VI, plus the budget expenditures in the initial development budget. (e.g. Land cost + IDB = TPII)  
+7. **Total Seed Investment**: The "Total Seed Investment"  is equal to the land cost plus the Seed Development Budget. (e.g. Land cost + SDB = TSI)
+8. **Founding Member Contribution:** The founding members (consisting of Class A and Class C interests) must contribute the total TSI amount. After the Class A members sell off the remaining shares to reach their Desired Ending Interest, the total amount invested in the LLC will be the TPII or Total Projected Initial Investment.  
+9. **Founding Ownership Interest Calculation:** A founding member (Class A or C) will have an ownership interest percentage that is equal to the amount they contribute divided by the TSI.
+10. **Gradual Sale of Class A Excess Interest:** As ownership interests are sold off, a small amount is shaved off of the ownership interest of each Class A member, until their ownership interest is equal to their Desired Ending Interest. At that point, they have no more obligation to sell any interest, per this Operating Agreement. 
+11. **Allocation of Funds and Rationale:** Since the Class A's initial investment went entirely towards the land and the SDB, and later Class B investors' funds will go proportionally more towards the IDB, funds received from people buying Class B shares will mostly go towards funding the IDB, with a preset percentage beign distributed directly to the Class A members as a benefit of having contributed early.
+12. **Normal Interest Transfer:** If a Class A member sells any of his Desired Ending Interest, it is considered a normal transfer of ownership interest, he can sell it at any price he desires (barring the invocation of a forced-buyout at a set value) and the entirety of the funds will be sent by the buyer directly to the Class A member who is selling. It would be the same as if a Class B or Class C member sold their interest.
+13. **Total Class A Investment Amount:** In the end, the Class A member's total projected investment will end up being the following: (Land cost + IDB) * Desired Ending Interest % 
+14. **Desired Ending Interest Limitation:** A Class A Member's Desired Ending Interest cannot be greater than his initial contribution to the LLC divided by the sum of the land cost and the initial development budget. If for some reason this ends up being the case, the Class A member must contribute more to the LLC in order to fund the IDB appropriately per the size of his Desired Ending Interest.
+15. **Limitation of Class A Contributions:** Class A Members will not be obliged to pay more than their desired ending interest's share of the TPII, in the case that not all shares are sold. In this case, the members must pass a budget allowing for contribution based on the current share size of Class B and C members, and the desired ending share size of Class A members.
+16. **IDB Ratification:** The IDB must be passed unanimously by all founding members.
+17. **Future Budget Ratification:** Any future operating budget, such as the one described in numeral 15, may be passed by a 2/3 majority of all Class A and B votes, and must be done on an annual basis. 
 
 ### **Article V: Land Use Regulations**
 1. The LLC shall implement and enforce a set of land use regulations, functioning as an HOA, to maintain an enjoyable and harmonious environment.
@@ -277,18 +292,20 @@ This "Force Majeure" clause shall be applied to address unforeseen and catastrop
 
 3. **Use of Alternative Currencies:** In case of a currency collapse or failure of the U.S. dollar, the LLC may, at its sole discretion, choose to accept and use alternative currencies or assets deemed suitable for conducting business and accounting, including but not limited to cryptocurrencies, precious metals (e.g., gold and silver), or any other medium of exchange considered appropriate under the circumstances.
 
-4. **Alternative Currency and Cash Management:** In the event of a bank collapse or loss of confidence in the traditional or electronic banking system, the LLC may, at its sole discretion, implement cash-only, gold, silver, and/or barter-based cash management and accounting procedures to ensure the continuity of financial operations and transactions.
+4. **Alternative Currency and Cash Management:** In the event of a bank collapse or loss of confidence in the traditional or electronic banking system, the LLC may, at its sole discretion, implement cash-only, gold, silver, and/or barter-based cash management and accounting procedures to ensure the continuity of financial operations and transactions. 
 
-5. **Access and Residency Rights for Class C Members:** In the case of serious economic and geopolitical situations or any catastrophic events as described in the definition of Force Majeure Events, the board of managers may, by a unanimous vote, grant access and residency rights to Class C members. The board shall have the authority to determine the scope and duration of such access and residency rights based on the severity and nature of the Force Majeure Event.
+5. **Absence of Legal Framework** In the event that the United States Government or the Missouri State Govenment are unable to maintain a functioning legal system in geopolitically challenging circumstances, this LLC and its member will continue to operate under the open-source standard "ULEX Law," which is a collection of Uniform Law Commission and other generally accepted legal texts and case law, based on common law and uniform law standards. The LLC will also continue to operate under Missouri's LLC statutes, since this document was written under their jurisdiction.  
 
-6. **Mandatory Access and Residency Rights:** Notwithstanding any other provision in the operating agreement, the board of managers is mandated to grant access and residency rights to Class C members in the following very severe circumstances:
+6. **Access and Residency Rights for Class C Members:** In the case of serious economic and geopolitical situations or any catastrophic events as described in the definition of Force Majeure Events, the board of managers may, by a unanimous vote, grant access and residency rights to Class C members. The board shall have the authority to determine the scope and duration of such access and residency rights based on the severity and nature of the Force Majeure Event.
+
+7. **Mandatory Access and Residency Rights:** Notwithstanding any other provision in the operating agreement, the board of managers is mandated to grant access and residency rights to Class C members in the following very severe circumstances:
    a. Active war in the United States. 
    b. Widespread and long-term societal disruption in Missouri due to natural disasters or catastrophic events.
-   c. Solar flare or electromagnetic pulse (EMP) causing substantial damage to the planet's grid or critical infrastructure.
+   c. Solar flare or electromagnetic pulse (EMP) causing substantial damage to the planet's grid or critical infrastructure. 
 
-7. **Notification and Documentation:** In the event of the activation of this Force Majeure clause and the granting of access and residency rights to Class C members, the board shall provide written notification to all members, detailing the circumstances and the duration of the granted rights. Documentation of the board's decision shall be maintained in the LLC's records.
+8. **Notification and Documentation:** In the event of the activation of this Force Majeure clause and the granting of access and residency rights to Class C members, the board shall provide written notification to all members, detailing the circumstances and the duration of the granted rights. Documentation of the board's decision shall be maintained in the LLC's records.
 
-8. **Duration of Force Majeure:** The Force Majeure provisions shall remain in effect for the duration of the Force Majeure Event, as determined by the board of managers. Upon the cessation of the Force Majeure Event, the normal operating procedures shall resume, and any adjustments or modifications made during the Force Majeure period shall be reevaluated based on the prevailing circumstances.  
+9. **Duration of Force Majeure:** The Force Majeure provisions shall remain in effect for the duration of the Force Majeure Event, as determined by the board of managers. Upon the cessation of the Force Majeure Event, the normal operating procedures shall resume, and any adjustments or modifications made during the Force Majeure period shall be reevaluated based on the prevailing circumstances.  
 
 ### **Article XIV: Dissolution**
 In the event of LLC dissolution, the assets shall be distributed in accordance with the Share Transfer Restrictions and the interests of the members as specified elsewhere in this Operating Agreement. The following procedures shall be followed:  
@@ -367,5 +384,4 @@ Notes / need to add:
 Budget and funding process - both initial and continuous.  
 Land allocation rules  
 Add a bunch of this stuff: https://www.hopb.co/sample-hoa-bylaws  
-Add ULEX/common reference for governing law sections  
   
