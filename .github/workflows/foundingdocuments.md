@@ -70,7 +70,8 @@ The jurisdiction of Homestead Community, LLC shall be in the State of Missouri, 
 4. Class C has no voting rights, and no rights to profit or loss distribution. Class A and B have limited voting rights on certain items that are described in Article I and elsewhere in this Operating Agreement. 
 5. Anyone who is a member or a non-member can be assigned as a manager, in which case their voting rights take on those as described in Article 1, superceding the limitations described in this Article.
 6. Class C members have no right to participate in official group decision making and discussion processes, unless they have been elected or assigned to the board of managers. 
-7. Other restrictions or benefits of different member interests are discussed elsewhere in this Operating Agreement.  
+7. Other restrictions or benefits of different member interests are discussed elsewhere in this Operating Agreement.
+8. A member who is found to have lied or misrepresented themselves in a way that would have otherwise made them ineligible to join the LLC under the criteria of the board of managers, may be expelled from the LLC with a forced buy-out, at the discretion of the board of managers.  
 
 ### **Article IV: Common Elements and Contributions**
 1. **Common elements:** The LLC shall establish common elements for the benefit of all members, including a community hub area with well, septic system, electric connection, workshop, RV hookup, driveways, perimeter fence, and administrative infrastructure.
