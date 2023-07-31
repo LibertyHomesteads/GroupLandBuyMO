@@ -94,19 +94,20 @@ The jurisdiction of Homestead Community, LLC shall be in the State of Missouri, 
 17. **Voting by Proxy:** Proxies for voting in absence must be communicated to the Secretary before the start of a meeting in order to be valid, and must be written by the member or their power of attorney. Proxy notifications are valid for a maximum period of 11 months. Proxy revocations must be communicated to the Secretary before being considered valid.
 18. **Severability Clause:** In the event that any provision of this entire Operating Agreement, or the application thereof, becomes or is declared by a court of competent jurisdiction to be illegal, void or unenforceable, the remainder of this Agreement will continue in full force and effect and the application of such provision to other Persons or circumstances will be interpreted so as reasonably to effect the intent of the parties hereto. The parties further agree to replace such void or unenforceable provision of this Agreement with a valid and enforceable provision that will achieve, to the extent possible, the economic, business and other purposes of such void or unenforceable provision. 
 
-### **Article II: Code of Conduct**
-1. The LLC shall adhere to a Code of Conduct to maintain a harmonious and productive community. Disruptive behaviors, including concern controlling, compulsive lying, and purity spiraling, are strictly disallowed. 
+### **Article II: Code of Conduct**  
+1. The LLC shall adhere to a Code of Conduct to maintain a harmonious and productive community. Disruptive behaviors, including concern controlling, compulsive lying, and purity spiraling, are strictly disallowed.  
 2. Any member found engaging in disruptive behaviors may be subject to disciplinary actions, including exclusion from LLC internal communications, suspension of decision-making activities or total expulsion from the LLC. 
 
 ### **Article III: Member Interests**
-1. Homestead Community, LLC shall have three classes of interest: Class A or "Nobleman Share", Class B or "Yeoman Share", and Class C or "Peasant Share". Each class has a colloquial label, however in this Operating Agreement they shall be referred to as a Class for official purposes and to follow convention. 
+1. Homestead Community, LLC shall have three classes of interest: Class A, Class B, and Class C.  
 2. Class A and B members have rights to reside on their allocated land and other community benefits. Class C members do not have residency or access rights.
 3. Class C members may purchase additional shares until they reach the Residency Threshold of [XX%], at which point they are permitted to live on the land. 
 4. Class C has no voting rights, and no rights to profit or loss distribution. Class A and B have limited voting rights on certain items that are described in Article I and elsewhere in this Operating Agreement. 
 5. Anyone who is a member or a non-member can be assigned as a manager, in which case their voting rights take on those as described in Article 1, superceding the limitations described in this Article.
 6. Class C members have no right to participate in official group decision making and discussion processes, unless they have been elected or assigned to the board of managers. 
 7. Other restrictions or benefits of different member interests are discussed elsewhere in this Operating Agreement.
-8. A member who is found to have lied or misrepresented themselves in a way that would have otherwise made them ineligible to join the LLC under the criteria of the board of managers, may be expelled from the LLC with a forced buy-out, at the discretion of the board of managers.  
+8. A member who is found to have lied or misrepresented themselves in a way that would have otherwise made them ineligible to join the LLC under the criteria of the board of managers, may be expelled from the LLC with a forced buy-out, at the discretion of the board of managers.
+9. Colloquial class nomenclature: For internal LLC use, or as otherwise desired, classes of interest shall be colloquially referred to as "Nobleman Share," "Yeoman Share," and "Peasant Share," for Classes A, B, and C, respectively. For official purposes, the conventional nomenclature shall be used.   
 
 ### **Article IV: Common Elements and Contributions**  
 1. **Common elements:** The LLC shall establish common elements for the benefit of all members, including a community hub area with well, septic system, electric connection, workshop, RV hookup, driveways, perimeter fence, and administrative infrastructure.  
