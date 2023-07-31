@@ -342,7 +342,7 @@ This operating agreement may be amended with the consent or abstention vote of 3
 ### **Article XVI: Governing Law**
 This operating agreement shall be governed by and construed in accordance with the laws of the State of Missouri. 
 
-### **Article XVIII: Members** 
+### **Article XVII: Members** 
 The following is a list of LLC members. The board of managers shall maintain a historical record of all past members and transfers of membership interests. 
 
 1. **Nobleman Share (Founder):**
@@ -381,7 +381,7 @@ The following is a list of LLC members. The board of managers shall maintain a h
    - Name: Michael Ferreira
    - Share Percentage: 2.5%
 
-### *This LLC Operating Agreement shall forthwith govern the formation, operation, management, dissolution, and all other aspects of Homestead Community LLC, and shall be binding on all members. All members acknowledge and agree to abide by the terms and procedures set forth herein.* 
+#### *This LLC Operating Agreement shall forthwith govern the formation, operation, management, dissolution, and all other aspects of Homestead Community LLC, and shall be binding on all members. All members acknowledge and agree to abide by the terms and procedures set forth herein.* 
 
 
 Notes / need to add:    
