@@ -1,7 +1,41 @@
 # Homestead Community, LLC 
 #### Founding Documents: Articles of Organization and LLC Operating Agreement
   
+Use new order for articles of operation: 
 
+Management and Voting 
+
+Share Transfer Restrictions 
+
+Buy / Sell Agreement 
+
+Member Interests 
+
+Action Plan 
+
+Common Elements and Contributions 
+
+Seed Investor Ownership Interests 
+
+Land Use Regulations 
+
+Profit and Loss Distribution 
+
+Code of Conduct 
+
+Book Access and Audits 
+
+Dispute Resolution and Mediation 
+
+Force Majeure 
+
+Dissolution 
+
+Amendments 
+
+Governing Law 
+
+Ratification
 
         
 ## Articles of Organization
@@ -418,6 +452,6 @@ The following is a list of LLC members. The board of managers shall maintain a h
 
 Notes / need to add:    
  
-Land allocation rules  
+Land allocation rules - add to land use regulations
 Add a bunch of this stuff: https://www.hopb.co/sample-hoa-bylaws  
   
