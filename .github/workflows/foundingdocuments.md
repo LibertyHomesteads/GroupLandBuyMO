@@ -1,43 +1,7 @@
 # Homestead Community, LLC 
 #### Founding Documents: Articles of Organization and LLC Operating Agreement
   
-Use new order for operating agreement: 
-
-Management and Voting 
-
-Member Interests  
-
-Share Transfer Restrictions 
-
-Buy / Sell Agreement 
-
-Plan of Action 
-
-Common Elements and Contributions 
-
-Seed Investor Ownership Interests 
-
-Land Use Regulations 
-
-Profit and Loss Distribution 
-
-Code of Conduct 
-
-Book Access and Audits 
-
-Dispute Resolution and Mediation 
-
-Force Majeure 
-
-Dissolution 
-
-Amendments 
-
-Governing Law 
-
-Ratification
-
-        
+       
 ## Articles of Organization
 
 ### **Article I: Name**
@@ -94,11 +58,7 @@ The jurisdiction of Homestead Community, LLC shall be in the State of Missouri, 
 17. **Voting by Proxy:** Proxies for voting in absence must be communicated to the Secretary before the start of a meeting in order to be valid, and must be written by the member or their power of attorney. Proxy notifications are valid for a maximum period of 11 months. Proxy revocations must be communicated to the Secretary before being considered valid.
 18. **Severability Clause:** In the event that any provision of this entire Operating Agreement, or the application thereof, becomes or is declared by a court of competent jurisdiction to be illegal, void or unenforceable, the remainder of this Agreement will continue in full force and effect and the application of such provision to other Persons or circumstances will be interpreted so as reasonably to effect the intent of the parties hereto. The parties further agree to replace such void or unenforceable provision of this Agreement with a valid and enforceable provision that will achieve, to the extent possible, the economic, business and other purposes of such void or unenforceable provision. 
 
-### **Article II: Code of Conduct**  
-1. The LLC shall adhere to a Code of Conduct to maintain a harmonious and productive community. Disruptive behaviors, including concern controlling, compulsive lying, and purity spiraling, are strictly disallowed.  
-2. Any member found engaging in disruptive behaviors may be subject to disciplinary actions, including exclusion from LLC internal communications, suspension of decision-making activities or total expulsion from the LLC. 
-
-### **Article III: Member Interests**
+### **Article II: Member Interests**
 1. Homestead Community, LLC shall have three classes of interest: Class A, Class B, and Class C.  
 2. Class A and B members have rights to reside on their allocated land and other community benefits. Class C members do not have residency or access rights.
 3. Class C members may purchase additional shares until they reach the Residency Threshold of [XX%], at which point they are permitted to live on the land. 
@@ -109,13 +69,76 @@ The jurisdiction of Homestead Community, LLC shall be in the State of Missouri, 
 8. A member who is found to have lied or misrepresented themselves in a way that would have otherwise made them ineligible to join the LLC under the criteria of the board of managers, may be expelled from the LLC with a forced buy-out, at the discretion of the board of managers.
 9. Colloquial class nomenclature: For internal LLC use, or as otherwise desired, classes of interest shall be colloquially referred to as "Nobleman Share," "Yeoman Share," and "Peasant Share," for Classes A, B, and C, respectively. For official purposes, the conventional nomenclature shall be used.   
 
-### **Article IV: Common Elements and Contributions**  
+### **Article III: Share Transfer Restrictions**
+1. **New member approval:** Any new members must be approved by the board of managers with a 2/3 vote, or they are prohibited from becoming a member. The board must use exclusive and specific criteria, and membership in Homestead Community, LLC is not open to the general public. Individuals or legal entities who become asignees due to matters of litigation, death, or dissolution, may not become members unless approved by the board of managers, and may be obligated to transfer their interest and withdraw from the LLC.  
+2. **Right of first refusal:** Members may not transfer their shares without first offering them to the LLC or other shareholders with a right of first refusal. The LLC or other members shall have 30 days to accept or decline the offer.  
+3. **Forced transfer with mandated owner financing:** In the event a members's interest is subject to forced buy-out due to extreme circumstances requiring unanimity (minus 5% possible allowable dissent) among the board or members, or due to the interest being seized by a creditor or transferred to a heir or ex-spouse etc, the LLC may offer the shareholder an option of owner financing through a promissory note, and the shareholder must accept provided the offer is reasonable and follows the operating agreement.  
+4. **Value determination:** The forced buy-out value shall be the original investment adjusted for inflation, plus the appraised value of any improvements to the member's leased land, minus any liabilities or debts the owners has to the LLC or that are present on the leased land.
+5. **Share dilution to pay debt:** Any debts owed by a member to the LLC must be paid in LLC ownership interest if the member fails to make payment, with value determined as already described in this Article.
+6. **Class A transference of seed investor obligations:** A Class A interest, if it is sold, is transferred along with its existing forced sale obligations under Article VI. The Board of Managers must duly inform the buyer of this interest of such obligation.
+7. A Class A member, for the sake of simplicity, may not sell just the percentage of his ownership that is considered as tied to the obligations under Article VI, unless authorized and approved by a 3/4 vote of the board of managers, with a written plan from the board regarding how to rectify the considerations of Article VI as applied to the interest being transferred.
+8. A Class A member, if he sells his "Desired Ending Interest" that is considered as being tied to and therefore granting his land usage allocation benefits, and retains his "excess interested" that is obligated for sale under Article VI, still has the sale obligation under Article VI and will not be compensated as it is sold to fund his required IDB contribution, except in such case where his contribution is already met and additional funds are then owed to the Class A member.
+9. **Effect of death or incompetence of member, assignability of interest** - If a member who is an individual dies or a court of competent jurisdiction judges the member to be incompetent to manage his or her person or property, the member's executor, administrator, guardian, conservator, or other legal representative shall not have any power the member had to give his assignee the right to become a member, and shall have none of the rights of an assignee of the member's interest. Instead, the board of managers shall select a new assignee to take on those rights until such time as the ownership interest of the deceased or incompetent is transferred to a member whom the board of directors approve. The managers via a 3/4 vote may decide to obligate the sale of the interest of the deceased or incompetent individual, with a fair price determined as already specified in this Article.  
+10. **Business organization as member, dissolution and subsequent assignability of interest** - If a member is a corporation, partnership, limited liability company, trust or other entity and is dissolved or terminated, its legal representative or successor shall not have any power the member had to give his assignee the right to become a member and shall have none of the rights of an assignee of the member's interest. Instead, the board of managers shall select a new assignee to take on those rights until such time as the ownership interest of the former entity is transferred to a member whom the board of directors approve. The managers via a 3/4 vote may decide to obligate the sale of the interest of the former entity, with a fair price determined as already specified in this Article.
+
+### **Article IV: Buy/Sell Agreement**
+The following procedures shall be followed when transferring ownership interest of the LLC:  
+
+1. **New Member Ownership Transfer:** When a single or multiple LLC member(s) wish to voluntarily sell all or part of their interest to a non-member, the following procedure shall be followed:  
+   1.1 - The offering buyer shall fill out a standard application provided by the board of managers.  
+   1.2 - The application shall be sent to all members with Class A and B interests for review. As per the Share Transfer Restrictions, it is up to the board to approve with a 2/3 majority vote.   
+   1.3 - If approval is reached, the board of managers will provide a standard Term Sheet and Purchase Agreement in coordination with the seller(s).  
+   1.4 - The buyer will pay a fee of $200 to the LLC, to cover administration expenses regarding the transfer of ownership interest, and other overhead administration costs.  
+   1.5 - Assuming payment is made, and the purchase agreement is signed, the board shall sign and issue a new Operating Agreement with the sole changes being the new ownership, and is hereby authorized to do so. The board shall issue and require the signing of any contribution document as required by this Operating Agreement and Missouri state statutes.   
+   1.6 - Class A and B members will be notified; sale and other information will be recorded appropriately. Any government reporting requirements due to the new ownership will be complied with by the board of managers.  
+2. **In-House Ownership Transfer:** When a single or multiple LLC member(s) wish to voluntarily sell their share to an existing LLC member, the following procedure shall be followed:  
+   2.1 - If the purchasing member is in good standing with the LLC according to the board of managers, no approval is required. If the purchasing member is not in good standing, the transfer is prohibited.  
+   2.2 - The buyer wil pay a fee of $150 to the LLC, to cover administration expenses regarding the transfer of ownership interest, and other overhead administration costs.  
+   2.3 - The board of managers will provide a standard Term Sheet and Purchase Agreement in coordination with the seller(s).   
+   2.4 - Assuming payment is made, and the purchase agreement is signed, the board shall sign and issue a new Operating Agreement with the sole changes being the new ownership, and is hereby authorized to do so. The board shall issue and require the signing of any contribution document as required by this Operating Agreement and Missouri state statutes.   
+   2.5 - Class A and B members will be notified; sale and other information will be recorded appropriately. Any government reporting requirements due to the new ownership will be complied with by the board of managers.     
+3. **Seed Investor Ownership Transfer:** When a non-member wishes to buy an ownership interest of the LLC as part of the pre-arranged seed investor interest sales outlined in Article IX: Seed Investor Ownership Interests, the following procedure shall be followed:  
+   3.1 - The offering buyer shall fill out a standard application provided by the board of managers.  
+   3.2 - The application shall be sent to all members with Class A and B interests for review. As per the Share Transfer Restrictions, it is up to the board to approve with a 2/3 majority vote.  
+   3.3 - The board of managers will provide a standard Term Sheet and Purchase Agreement in coordination with the seller(s).
+   3.4 - The buyer will pay a fee of $250 to the LLC, to cover administration expenses regarding the transfer of ownership interest, and other overhead administration costs.  
+   3.4 - The board of managers will determine the appropriate division of interest to be sold by each Class A member, which will be calculated according to the weighting of their original investment percentage.  
+   3.4 - The board of managers will determine the appropriate division of funds. Class A members will receive some or all of the funds if the total required contribution of their required ending interest is less than their current total amount invested. Otherwise, funds will be applied to development as per the budget.  
+   3.5 - Assuming payment is made, and the purchase agreement is signed, the board shall sign and issue a new Operating Agreement with the sole changes being the new ownership, and is hereby authorized to do so. The board shall issue and require the signing of any contribution document as required by this Operating Agreement and Missouri state statutes.  
+   3.6 - Class A and B members will be notified; sale and other information will be recorded appropriately. Any government reporting requirements due to the new ownership will be complied with by the board of managers.   
+   
+6. **Involuntary Buy-out:** When a member is forced to sell all or part of their share due to a board or member vote following the relevant clauses in the Operating Agreement, the following procedure shall be followed:  
+    6.1 - A buyer will be identified, whether it is a new member after having been approved by the board of managers and reviewed by Class A and B members, or some or all existing members.   
+    6.2 - A buyer may be suggested by the member being forced to sell, in which case it shall be permitted if and only if the board of managers approves the buyer to be a member following the application / review / approval process described elsewherein this Operating Agreement.  
+    6.3 - The board of managers will provide a standard Term Sheet and Purchase Agreement in coordination with the seller(s).  
+    6.4 - The buyer will pay a fee of $100 to the LLC, to cover administration expenses regarding the transfer of ownership interest, and other overhead administration costs. The board of managers may waive this fee at their discretion if the circumstances warrant it.  
+    6.5 - If the member being forced to sell refuses to sign the necessary paperwork to sell his share, the board of managers will take legal action against the member, forcing them to follow the Operating Agreement.  
+    6.6 - Assuming payment is made, and the purchase agreement is signed, the board shall sign and issue a new Operating Agreement with the sole changes being the new ownership, and is hereby authorized to do so. The board shall issue and require the signing of any contribution document as required by this Operating Agreement and Missouri state statutes.  
+    6.7 - Class A and B members will be notified; sale and other information will be recorded appropriately. Any government reporting requirements due to the new ownership will be complied with by the board of managers.   
+
+### **Article V: Plan of Action**  
+The LLC shall follow this Action Plan during its initial period of formation:   
+
+  1. Complete legal research and draft documents to present to potential members  
+  2. Gather a group together. Research and determine several possible land candidates. Make financial pledges and agree upon a general property size / price.  
+  3. Finalize LLC articles of organization and operating agreement, vote on officer roles. Include vision, mission, and goals in the operating agreement. 
+  4. Raise funds for initial administrative expenses, pass initial administrative budget. 
+  5. Consult a business lawyer and a real estate lawyer in Missouri, for a professional assessment of the legal situation of our planned project.  
+  6. Pass a community budget, initial and yearly.  
+  7. Register an LLC. Deposit the funds in the LLC's bank account. Any members who at this point cannot participate, are replaced, and this clause hereby authorizes a forced buy-out at a token price of $1.  
+  8. Purchase the decided-upon land. Any references to land, access, residency, etc throughout this entire Operating Agreement, refer to this parcel of land that the LLC plans to purchase for the purposes of operation of a private club organization of homesteaders, for their own benefit.  
+  9. Rough survey and planning. Homestead areas are mapped and photographed. Common elements are planned.  
+  10. Members select their homestead areas. If two members want one area, they enter a bidding process. Proceeds go to community fund.  
+  11. Permit application for septic systems, wells, anything else required.  
+  12. Widespread residency and construction may begin, provided all relevant laws are complied with  
+
+### **Article VI: Common Elements and Contributions**  
 1. **Common elements:** The LLC shall establish common elements for the benefit of all members, including a community hub area with well, septic system, electric connection, workshop, RV hookup, driveways, perimeter fence, and administrative infrastructure.  
 2. **Other common expenses:** The LLC will be responsible for other common expenses such as property taxes, administration costs, and legal costs.   
 3. **Contributions:** The common interests will be funded by contributions from members according to their percent of ownership interest.  
 4. **Financial Obligation:** All members are financially responsible to contribute what is necessary, according to their ownership interest, to maintain the perfect operation of common elements, pay property taxes, meet all legal and administrative requirements of ongoing operations of the LLC and its assets, etc.  
 5. **Initial Budget and Seed Budget:** The founding members wil pass an initial development budget (IDB), and a tentative operating budget for the years after, which will be reviewed when necessary. Of the IDB, a small portion of initial costs will be identified as urgent, and referred to as the Seed Development Budget, or "SDB." So, the SDB is a part of the IDB. (For an example, we will use a land cost of $200k, IDB of $100k, and SDB of $20k.)  
-6. **Total Projected Initial Investment:** The "total projected initial investment" (TPII) will be the cost of the land that is purchased as per Article VI, plus the budget expenditures in the initial development budget. (e.g. Land cost + IDB = TPII. In our previous example, $200k land + $100k IDB = $300k Total Projected Initial Investment.)  
+6. **Total Projected Initial Investment:** The "total projected initial investment" (TPII) will be the cost of the land that is purchased as per Article V, plus the budget expenditures in the initial development budget. (e.g. Land cost + IDB = TPII. In our previous example, $200k land + $100k IDB = $300k Total Projected Initial Investment.)  
 7. **Total Seed Investment**: The "Total Seed Investment"  is equal to the land cost plus the Seed Development Budget. *(e.g. Land cost + SDB = TSI. Following our examples, $200k + $20k = $220k Total Seed Investment, which is less than the $300k TPII.)*  
 8. **Founding Member Contribution:** The founding members (consisting of Class A and Class C interests) must contribute the total TSI amount. After the Class A members sell off the remaining shares to reach their Desired Ending Interest, the total amount invested in the LLC will be the TPII or Total Projected Initial Investment. *(e.g. the founding members in total must invest $220k to get the project off the ground, but after selling interest later on, the total amount raised will have been $300k.)*  
 9. **Founding Ownership Interest Calculation:** A founding member (Class A or C) will have an ownership interest percentage that is equal to the amount they contribute divided by the TSI. *(e.g. someone who invests $22k when the TSI is $220k, will have an ownership interest percentage of 10% initially.)*   
@@ -131,7 +154,16 @@ The jurisdiction of Homestead Community, LLC shall be in the State of Missouri, 
 19. **Asignee contributions:** An assignee who has not become a member is still liable for any obligations of his assignor to make contributions, until such time as he transfers his share to another individual or entity, or is forced to transfer his share to another individual or entity as allowed in this Operating Agreement. Even if the asignee receives no other rights or benefits for his LLC interest, he is still obligated to contribute as per his interest.  
 20. **Contribution promises in writing:** To comply with MO Rev Stat § 347.099 (2019), all contributions listed above shall be detailed in this Article to be signed by all founding members, and any future operating budgets requiring contributions from members, assuming they have been properly ratified as per this Operating Agreement, shall be codified into this Article, but shall also be presented to all affected members to be signed.  
 
-### **Article V: Land Use Regulations**  
+### **Article VII: Seed Investor Ownership Interests**  
+The Class A members shall have special considerations and obligations to sell part of their initial ownership interest. 
+1. **Desired Ending Interest:** The Class A members shall decide initially what their desired ending ownership interest shall be, and the percentage shall be expressed here in this Operating Agreement before the inception of the LLC. 
+2. **Funding Obligation for Common Elements:** 
+3. **Partial Share Sale Obligation:** 
+4. **Funds Management:** All funds from the sale of interest above the desired ending interest shall be deposited to the LLC's bank account. If any adjustment needs to be made, or commission paid to Class A members, this will be done within 30 days after the funds are received by the LLC. Class A members reserve the exclusive right to receive distributions of commissions based on the sale of their ownership interest above the desired ending interest. 
+5. **Penalty:**
+6. 
+
+### **Article VIII: Land Use Regulations**  
 1. The LLC shall implement and enforce a set of land use regulations, functioning as an HOA, to maintain an enjoyable and harmonious environment.  
 2. Members and their invitees shall adhere to the following regulations or face progressive consequences as defined below.  
 3. Members shall reimburse the LLC for any fines levied on the LLC due to their transgressions, including but not limited to fines from county zoning officials, state health department, EPA, etc.  
@@ -217,99 +249,27 @@ The jurisdiction of Homestead Community, LLC shall be in the State of Missouri, 
       - Removal of access/residency rights to their leased / allocated land  
       - Expulsion from the LLC per forced buy-out regulations elsewhere in the LLC Operating Agreement or Articles of Organization   
 
-### **Article VI: Action Plan**  
-The LLC shall follow this Action Plan during its initial period of formation:   
+### **Article IX: Profit and Loss Distribution**  
 
-  1. Complete legal research and draft documents to present to potential members  
-  2. Gather a group together. Research and determine several possible land candidates. Make financial pledges and agree upon a general property size / price.  
-  3. Finalize LLC articles of organization and operating agreement, vote on officer roles. Include vision, mission, and goals in the operating agreement. 
-  4. Raise funds for initial administrative expenses, pass initial administrative budget. 
-  5. Consult a business lawyer and a real estate lawyer in Missouri, for a professional assessment of the legal situation of our planned project.  
-  6. Pass a community budget, initial and yearly.  
-  7. Register an LLC. Deposit the funds in the LLC's bank account. Any members who at this point cannot participate, are replaced, and this clause hereby authorizes a forced buy-out at a token price of $1.  
-  8. Purchase the decided-upon land. Any references to land, access, residency, etc throughout this entire Operating Agreement, refer to this parcel of land that the LLC plans to purchase for the purposes of operation of a private club organization of homesteaders, for their own benefit.  
-  9. Rough survey and planning. Homestead areas are mapped and photographed. Common elements are planned.  
-  10. Members select their homestead areas. If two members want one area, they enter a bidding process. Proceeds go to community fund.  
-  11. Permit application for septic systems, wells, anything else required.  
-  12. Widespread residency and construction may begin, provided all relevant laws are complied with  
+1. **Profit Distribution:**
+   All profits generated by the LLC shall be distributed to the Class A and Class B members in proportion to their respective ownership percentages as stated in the LLC's Articles of Organization or as subsequently amended by the members.
 
-### **Article VII: Share Transfer Restrictions**
-1. **New member approval:** Any new members must be approved by the board of managers with a 2/3 vote, or they are prohibited from becoming a member. The board must use exclusive and specific criteria, and membership in Homestead Community, LLC is not open to the general public. Individuals or legal entities who become asignees due to matters of litigation, death, or dissolution, may not become members unless approved by the board of managers, and may be obligated to transfer their interest and withdraw from the LLC.  
-2. **Right of first refusal:** Members may not transfer their shares without first offering them to the LLC or other shareholders with a right of first refusal. The LLC or other members shall have 30 days to accept or decline the offer.  
-3. **Forced transfer with mandated owner financing:** In the event a members's interest is subject to forced buy-out due to extreme circumstances requiring unanimity (minus 5% possible allowable dissent) among the board or members, or due to the interest being seized by a creditor or transferred to a heir or ex-spouse etc, the LLC may offer the shareholder an option of owner financing through a promissory note, and the shareholder must accept provided the offer is reasonable and follows the operating agreement.  
-4. **Value determination:** The forced buy-out value shall be the original investment adjusted for inflation, plus the appraised value of any improvements to the member's leased land, minus any liabilities or debts the owners has to the LLC or that are present on the leased land.
-5. **Share dilution to pay debt:** Any debts owed by a member to the LLC must be paid in LLC ownership interest if the member fails to make payment, with value determined as already described in this Article.
-6. **Class A transference of seed investor obligations:** A Class A interest, if it is sold, is transferred along with its existing forced sale obligations under Article IV. The Board of Managers must duly inform the buyer of this interest of such obligation.
-7. A Class A member, for the sake of simplicity, may not sell just the percentage of his ownership that is considered as tied to the obligations under Article IV, unless authorized and approved by a 3/4 vote of the board of managers, with a written plan from the board regarding how to rectify the considerations of Article IV as applied to the interest being transferred.
-8. A Class A member, if he sells his "Desired Ending Interest" that is considered as being tied to and therefore granting his land usage allocation benefits, and retains his "excess interested" that is obligated for sale under Article IV, still has the sale obligation under Article IV and will not be compensated as it is sold to fund his required IDB contribution, except in such case where his contribution is already met and additional funds are then owed to the Class A member.
-9. **Effect of death or incompetence of member, assignability of interest** - If a member who is an individual dies or a court of competent jurisdiction judges the member to be incompetent to manage his or her person or property, the member's executor, administrator, guardian, conservator, or other legal representative shall not have any power the member had to give his assignee the right to become a member, and shall have none of the rights of an assignee of the member's interest. Instead, the board of managers shall select a new assignee to take on those rights until such time as the ownership interest of the deceased or incompetent is transferred to a member whom the board of directors approve. The managers via a 3/4 vote may decide to obligate the sale of the interest of the deceased or incompetent individual, with a fair price determined as already specified in this Article.  
-10. **Business organization as member, dissolution and subsequent assignability of interest** - If a member is a corporation, partnership, limited liability company, trust or other entity and is dissolved or terminated, its legal representative or successor shall not have any power the member had to give his assignee the right to become a member and shall have none of the rights of an assignee of the member's interest. Instead, the board of managers shall select a new assignee to take on those rights until such time as the ownership interest of the former entity is transferred to a member whom the board of directors approve. The managers via a 3/4 vote may decide to obligate the sale of the interest of the former entity, with a fair price determined as already specified in this Article.  
+2. **Loss Distribution:**
+   In the event of any losses incurred by the LLC, such losses shall be allocated to the Class A and Class B members in proportion to their respective ownership percentages as stated in the LLC's Articles of Organization or as subsequently amended by the members.
 
-### **Article VIII: Buy/Sell Agreement**
-The following procedures shall be followed when transferring ownership interest of the LLC:  
+3. **Class C Membership Interests:**
+   Class C members shall not be entitled to receive any profits or losses of the LLC. Their membership interests are non-participating and shall not have any rights to share in the financial results of the company.
 
-1. **New Member Ownership Transfer:** When a single or multiple LLC member(s) wish to voluntarily sell all or part of their interest to a non-member, the following procedure shall be followed:  
-   1.1 - The offering buyer shall fill out a standard application provided by the board of managers.  
-   1.2 - The application shall be sent to all members with Class A and B interests for review. As per the Share Transfer Restrictions, it is up to the board to approve with a 2/3 majority vote.   
-   1.3 - If approval is reached, the board of managers will provide a standard Term Sheet and Purchase Agreement in coordination with the seller(s).  
-   1.4 - The buyer will pay a fee of $200 to the LLC, to cover administration expenses regarding the transfer of ownership interest, and other overhead administration costs.  
-   1.5 - Assuming payment is made, and the purchase agreement is signed, the board shall sign and issue a new Operating Agreement with the sole changes being the new ownership, and is hereby authorized to do so. The board shall issue and require the signing of any contribution document as required by this Operating Agreement and Missouri state statutes.   
-   1.6 - Class A and B members will be notified; sale and other information will be recorded appropriately. Any government reporting requirements due to the new ownership will be complied with by the board of managers.  
-2. **In-House Ownership Transfer:** When a single or multiple LLC member(s) wish to voluntarily sell their share to an existing LLC member, the following procedure shall be followed:  
-   2.1 - If the purchasing member is in good standing with the LLC according to the board of managers, no approval is required. If the purchasing member is not in good standing, the transfer is prohibited.  
-   2.2 - The buyer wil pay a fee of $150 to the LLC, to cover administration expenses regarding the transfer of ownership interest, and other overhead administration costs.  
-   2.3 - The board of managers will provide a standard Term Sheet and Purchase Agreement in coordination with the seller(s).   
-   2.4 - Assuming payment is made, and the purchase agreement is signed, the board shall sign and issue a new Operating Agreement with the sole changes being the new ownership, and is hereby authorized to do so. The board shall issue and require the signing of any contribution document as required by this Operating Agreement and Missouri state statutes.   
-   2.5 - Class A and B members will be notified; sale and other information will be recorded appropriately. Any government reporting requirements due to the new ownership will be complied with by the board of managers.     
-3. **Seed Investor Ownership Transfer:** When a non-member wishes to buy an ownership interest of the LLC as part of the pre-arranged seed investor interest sales outlined in Article IX: Seed Investor Ownership Interests, the following procedure shall be followed:  
-   3.1 - The offering buyer shall fill out a standard application provided by the board of managers.  
-   3.2 - The application shall be sent to all members with Class A and B interests for review. As per the Share Transfer Restrictions, it is up to the board to approve with a 2/3 majority vote.  
-   3.3 - The board of managers will provide a standard Term Sheet and Purchase Agreement in coordination with the seller(s).
-   3.4 - The buyer will pay a fee of $250 to the LLC, to cover administration expenses regarding the transfer of ownership interest, and other overhead administration costs.  
-   3.4 - The board of managers will determine the appropriate division of interest to be sold by each Class A member, which will be calculated according to the weighting of their original investment percentage.  
-   3.4 - The board of managers will determine the appropriate division of funds. Class A members will receive some or all of the funds if the total required contribution of their required ending interest is less than their current total amount invested. Otherwise, funds will be applied to development as per the budget.  
-   3.5 - Assuming payment is made, and the purchase agreement is signed, the board shall sign and issue a new Operating Agreement with the sole changes being the new ownership, and is hereby authorized to do so. The board shall issue and require the signing of any contribution document as required by this Operating Agreement and Missouri state statutes.  
-   3.6 - Class A and B members will be notified; sale and other information will be recorded appropriately. Any government reporting requirements due to the new ownership will be complied with by the board of managers.   
-   
-6. **Involuntary Buy-out:** When a member is forced to sell all or part of their share due to a board or member vote following the relevant clauses in the Operating Agreement, the following procedure shall be followed:  
-    6.1 - A buyer will be identified, whether it is a new member after having been approved by the board of managers and reviewed by Class A and B members, or some or all existing members.   
-    6.2 - A buyer may be suggested by the member being forced to sell, in which case it shall be permitted if and only if the board of managers approves the buyer to be a member following the application / review / approval process described elsewherein this Operating Agreement.  
-    6.3 - The board of managers will provide a standard Term Sheet and Purchase Agreement in coordination with the seller(s).  
-    6.4 - The buyer will pay a fee of $100 to the LLC, to cover administration expenses regarding the transfer of ownership interest, and other overhead administration costs. The board of managers may waive this fee at their discretion if the circumstances warrant it.  
-    6.5 - If the member being forced to sell refuses to sign the necessary paperwork to sell his share, the board of managers will take legal action against the member, forcing them to follow the Operating Agreement.  
-    6.6 - Assuming payment is made, and the purchase agreement is signed, the board shall sign and issue a new Operating Agreement with the sole changes being the new ownership, and is hereby authorized to do so. The board shall issue and require the signing of any contribution document as required by this Operating Agreement and Missouri state statutes.  
-    6.7 - Class A and B members will be notified; sale and other information will be recorded appropriately. Any government reporting requirements due to the new ownership will be complied with by the board of managers.   
+4. **Timing of Distributions:**
+   Profit distributions shall be made to the Class A and Class B members on a regular basis as determined by the LLC management. Loss distributions, if any, shall be accounted for and allocated in accordance with applicable tax regulations. 
 
-### **Article IX: Seed Investor Ownership Interests**  
-The Class A members shall have special considerations and obligations to sell part of their initial ownership interest. 
-1. **Desired Ending Interest:** The Class A members shall decide initially what their desired ending ownership interest shall be, and the percentage shall be expressed here in this Operating Agreement before the inception of the LLC. 
-2. **Funding Obligation for Common Elements:** 
-3. **Partial Share Sale Obligation:** 
-4. **Funds Management:** All funds from the sale of interest above the desired ending interest shall be deposited to the LLC's bank account. If any adjustment needs to be made, or commission paid to Class A members, this will be done within 30 days after the funds are received by the LLC. Class A members reserve the exclusive right to receive distributions of commissions based on the sale of their ownership interest above the desired ending interest. 
-5. **Penalty:** 
+5. **Method of Distribution:**
+   Profit and loss distributions shall be made in accordance with the LLC's operating procedures and the preferences of the members. Distributions may be made in cash, property, or other assets as deemed appropriate by the LLC management.
 
-### **Article X: Book Access and Audits** 
 
-1. **Access to Records:** The LLC shall maintain accurate and complete records of all financial transactions, business activities, and decisions made by the LLC. These records shall be accessible to all members in good standing for review and examination, unless the member is of a restricted share class as described elsewhere in this article.
-
-2. **Electronic Access:** All LLC records, including financial statements, minutes of meetings, contracts, and other relevant documents, shall be stored electronically on a secure cloud server. Members in good standing shall receive access credentials to the cloud server, allowing them to view and download the records.
-
-3. **Access Restrictions for "Peasant Share" Members:** Class C members shall have limited access to only those records required by state law. Such access may include annual financial reports, tax filings, and other documents necessary for legal compliance. Class C members shall not have access to other sensitive financial or operational records of the LLC.
-
-4. **Member Responsibilities:** All members with access to the electronic records are responsible for maintaining the confidentiality and security of their access credentials. Members shall not share their access credentials with any third party or unauthorized individual. Members shall not share records with non-members unless required by state or federal law, and only after consulting with LLC management to obtain a legal opinion on the legality of the request. 
-
-5. **Audits and Examinations:** The LLC shall conduct periodic audits or examinations of its financial records to ensure accuracy and compliance with applicable laws. Audits may be performed by independent third-party auditors or by a committee of members designated by the managers.
-
-6. **Audit Results and Reports:** The results of audits and examinations, including any recommendations for improvements or corrections, shall be documented in written reports. These reports shall be made available to all members in good standing upon completion of the audit.
-
-7. **Frequency of Audits:** The frequency of audits or examinations shall be determined by the managers and may be conducted annually or at other intervals as deemed necessary for the proper financial management of the LLC.
-
-8. **Confidentiality of Audit Reports:** Audit reports and any sensitive financial information obtained through audits shall be treated as confidential and shall not be disclosed to non-members or shared outside the LLC, except as required by law, and only after consulting with LLC management to obtain a legal opinion on the legality of the request. .
-
-9. **Dispute Resolution:** Any disputes or disagreements regarding access to records, audits, or examinations shall be resolved in accordance with the dispute resolution provisions outlined in the LLC operating agreement. 
-
-10. **Record Retention:** The LLC shall maintain all records related to financial transactions, business activities, and decision-making for a period of 10 years, or as otherwise required by applicable state or federal laws.
-11. **Document Conveyance:** As allowed by MO Rev Stat § 347.051(2) (2019), such documents as referred to in the cited Missouri statute must only be delivered electronically to Class A and B members, within a period of 30 days, and should not be sent to Class C members unless otherwise required by law. 
+### **Article X: Code of Conduct**  
+1. The LLC shall adhere to a Code of Conduct to maintain a harmonious and productive community. Disruptive behaviors, including concern controlling, compulsive lying, and purity spiraling, are strictly disallowed.  
+2. Any member found engaging in disruptive behaviors may be subject to disciplinary actions, including exclusion from LLC internal communications, suspension of decision-making activities or total expulsion from the LLC. 
 
 ### **Article XI: Dispute Resolution and Mediation** 
 
@@ -337,22 +297,30 @@ The Class A members shall have special considerations and obligations to sell pa
 
 12. **Disruption of Official and Unofficial Communication:** If the parties in dispute insist on discussions of their dispute in public, and in formal or informal discussions of LLC business among all or most members or the board, the board may order the exclusion of either or both of the parties in dispute from such communications or take other punitive measures as is deemed reasonable, to ensure a healthy social atmosphere within the LLC. The previously discussed mediation processes should be sufficient for these members to solve their problems, without causing correspondence fatigue among all members. 
 
-### **Article XII: Profit and Loss Distribution**  
 
-1. **Profit Distribution:**
-   All profits generated by the LLC shall be distributed to the Class A and Class B members in proportion to their respective ownership percentages as stated in the LLC's Articles of Organization or as subsequently amended by the members.
+### **Article XII: Book Access and Audits** 
 
-2. **Loss Distribution:**
-   In the event of any losses incurred by the LLC, such losses shall be allocated to the Class A and Class B members in proportion to their respective ownership percentages as stated in the LLC's Articles of Organization or as subsequently amended by the members.
+1. **Access to Records:** The LLC shall maintain accurate and complete records of all financial transactions, business activities, and decisions made by the LLC. These records shall be accessible to all members in good standing for review and examination, unless the member is of a restricted share class as described elsewhere in this article.
 
-3. **Class C Membership Interests:**
-   Class C members shall not be entitled to receive any profits or losses of the LLC. Their membership interests are non-participating and shall not have any rights to share in the financial results of the company.
+2. **Electronic Access:** All LLC records, including financial statements, minutes of meetings, contracts, and other relevant documents, shall be stored electronically on a secure cloud server. Members in good standing shall receive access credentials to the cloud server, allowing them to view and download the records.
 
-4. **Timing of Distributions:**
-   Profit distributions shall be made to the Class A and Class B members on a regular basis as determined by the LLC management. Loss distributions, if any, shall be accounted for and allocated in accordance with applicable tax regulations. 
+3. **Access Restrictions for "Peasant Share" Members:** Class C members shall have limited access to only those records required by state law. Such access may include annual financial reports, tax filings, and other documents necessary for legal compliance. Class C members shall not have access to other sensitive financial or operational records of the LLC.
 
-5. **Method of Distribution:**
-   Profit and loss distributions shall be made in accordance with the LLC's operating procedures and the preferences of the members. Distributions may be made in cash, property, or other assets as deemed appropriate by the LLC management.
+4. **Member Responsibilities:** All members with access to the electronic records are responsible for maintaining the confidentiality and security of their access credentials. Members shall not share their access credentials with any third party or unauthorized individual. Members shall not share records with non-members unless required by state or federal law, and only after consulting with LLC management to obtain a legal opinion on the legality of the request. 
+
+5. **Audits and Examinations:** The LLC shall conduct periodic audits or examinations of its financial records to ensure accuracy and compliance with applicable laws. Audits may be performed by independent third-party auditors or by a committee of members designated by the managers.
+
+6. **Audit Results and Reports:** The results of audits and examinations, including any recommendations for improvements or corrections, shall be documented in written reports. These reports shall be made available to all members in good standing upon completion of the audit.
+
+7. **Frequency of Audits:** The frequency of audits or examinations shall be determined by the managers and may be conducted annually or at other intervals as deemed necessary for the proper financial management of the LLC.
+
+8. **Confidentiality of Audit Reports:** Audit reports and any sensitive financial information obtained through audits shall be treated as confidential and shall not be disclosed to non-members or shared outside the LLC, except as required by law, and only after consulting with LLC management to obtain a legal opinion on the legality of the request. .
+
+9. **Dispute Resolution:** Any disputes or disagreements regarding access to records, audits, or examinations shall be resolved in accordance with the dispute resolution provisions outlined in the LLC operating agreement. 
+
+10. **Record Retention:** The LLC shall maintain all records related to financial transactions, business activities, and decision-making for a period of 10 years, or as otherwise required by applicable state or federal laws.
+11. **Document Conveyance:** As allowed by MO Rev Stat § 347.051(2) (2019), such documents as referred to in the cited Missouri statute must only be delivered electronically to Class A and B members, within a period of 30 days, and should not be sent to Class C members unless otherwise required by law. 
+
 
 ### **Article XIII: Force Majeure**
 This "Force Majeure" clause shall be applied to address unforeseen and catastrophic events, providing flexibility and adaptability to preserve the interests and well-being of the LLC and its members during challenging circumstances.  
@@ -447,7 +415,7 @@ The following is a list of LLC members. The board of managers shall maintain a h
    - Name: Michael Ferreira
    - Share Percentage: 2.5%
 
-### **XVIII: Ratification**  
+### **Article XVIII: Ratification**  
 ***This LLC Operating Agreement shall forthwith govern the formation, operation, management, dissolution, and all other aspects of Homestead Community LLC, and shall be binding on all members. All members acknowledge and agree to abide by the terms and procedures set forth herein.*** 
 
 
