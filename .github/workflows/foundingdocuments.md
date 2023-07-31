@@ -1,7 +1,9 @@
 # Homestead Community, LLC 
-#### Founding Documents  
+#### Founding Documents: Articles of Organization and LLC Operating Agreement
+  
 
-    
+
+        
 ## Articles of Organization
 
 ### **Article I: Name**
