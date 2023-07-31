@@ -224,7 +224,13 @@ The following procedures shall be followed when selling ownership interest of th
    2.3 - The board of managers will provide a standard Term Sheet and Purchase Agreement in coordination with the seller(s).  
    2.4 - Assuming payment is made, and the purchase agreement is signed, the board shall sign and issue a new Operating Agreement with the sole changes being the new ownership, and is hereby authorized to do so. The board shall issue and require the signing of any contribution document as required by this Operating Agreement and Missouri state statutes.  
    2.5 - Class A and B members will be notified; sale and other information will be recorded appropriately. Any government reporting requirements due to the new ownership will be complied with by the board of managers.   
-5. **Seed Investor Ownership Transfer:** When a non-member wishes to buy an ownership interest of the LLC as part of the pre-arranged seed investor interest sales outlined in Article IX: Seed Investor Ownership Interests, the following procedure shall be followed:
+3. **Seed Investor Ownership Transfer:** When a non-member wishes to buy an ownership interest of the LLC as part of the pre-arranged seed investor interest sales outlined in Article IX: Seed Investor Ownership Interests, the following procedure shall be followed:  
+   3.1 - The offering buyer shall fill out a standard application provided by the board of managers.  
+   3.2 - The application shall be sent to all members with Class A and B interests for review. As per the Share Transfer Restrictions, it is up to the board to approve with a 2/3 majority vote.
+   3.3 - The board of managers will provide a standard Term Sheet and Purchase Agreement in coordination with the seller(s).
+   3.4 - The board of managers will determine the appropriate division of interest to be sold by each Class A member, which will be calculated according to the weighting of their original investment percentage.
+   3.4 - The board of managers will determine the appropriate division of funds. Class A members will receive funds if the total required contribution of their required ending interest is less than their current total amount invested. Otherwise, funds will be applied to development as per the budget.
+   
 6. **Involuntary Buy-out:** When a member is forced to sell all or part of their share due to a board or member vote following the relevant clauses in the Operating Agreement, the following procedure shall be followed: 
 
 ### **Article IX: Seed Investor Ownership Interests**  
