@@ -381,7 +381,8 @@ The following is a list of LLC members. The board of managers shall maintain a h
    - Name: Michael Ferreira
    - Share Percentage: 2.5%
 
-#### *This LLC Operating Agreement shall forthwith govern the formation, operation, management, dissolution, and all other aspects of Homestead Community LLC, and shall be binding on all members. All members acknowledge and agree to abide by the terms and procedures set forth herein.* 
+### **XVIII: Ratification**  
+***This LLC Operating Agreement shall forthwith govern the formation, operation, management, dissolution, and all other aspects of Homestead Community LLC, and shall be binding on all members. All members acknowledge and agree to abide by the terms and procedures set forth herein.*** 
 
 
 Notes / need to add:    
