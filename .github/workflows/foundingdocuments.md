@@ -1,4 +1,7 @@
-  
+# Homestead Community, LLC 
+#### Founding Documents  
+
+    
 ## Articles of Organization
 
 ### **Article I: Name**
