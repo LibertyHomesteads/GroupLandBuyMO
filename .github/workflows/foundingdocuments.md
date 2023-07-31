@@ -1,7 +1,5 @@
 Notes / need to add:    
-Decision-making - unanimity rules for important decisions to prevent deadlock etc. Such as: U-1 or U-2 or U-a percent, for operating agreement changes or expulsions etc. 75% or super-majority for some decisions like expulsions? Board v. members...   
 
-Members should go at the beginning? Or, management, then members, then management representation rights, voting rights, then the rest. 
 Profit and loss distribution.  
 Election, replacement, removal, terms etc for managers (or else MO statute defaults to majority vote among all members, including peasant share)  
 Authorization necessary to sell land or vehicles, other items  
@@ -13,70 +11,69 @@ Add ULEX/common reference for governing law sections
 ## Articles of Organization
 
 ### **Article I: Name**
-The name of the Limited Liability Company is Based Community, LLC.
+The name of the Limited Liability Company is Homestead Community, LLC.
 
 ### **Article II: Duration**
 The duration of the LLC shall be perpetual.
 
 ### **Article III: Purpose**
-The primary purpose of Based Community, LLC is to incorporate a private club organization formed by the members and facilitate their ability to homestead and live off the land. The LLC will purchase a large piece of farmland in southern Missouri, allocate a piece of land to each member, and lease the respective pieces of land to them. The LLC will also establish common elements, including a driveway and community hub, to benefit all members.
+The primary purpose of Homestead Community, LLC is to operate as a private club organization formed by its members, and facilitate their ability to homestead and engage in agricultural activities in a beautiful natural environment. 
 
 ### **Article IV: Registered Agent**
 The name and street address of the initial registered agent of the LLC are as follows:  
 Registered Agent Name: John Doe  
 Address: 123 Main Street, Springfield, MO 12345  
 
-
 ### **Article V: Management**
-Based Community, LLC shall be managed by a board of managers. The board shall consist of four members who will be appointed for a management period of two years each. The initial managers of the LLC and their positions are as follows:
-1. John Smith (president) 
-2. Emma Johnson (vice president) 
-3. Alexander Brown (treasurer) 
-4. Isabella Anderson (secretary) 
+The members of Homestead Community, LLC shall vest its management powers in a board of managers, which will be specified in the Operating Agreement. 
 
-### **Article VI: Share Transfer Restrictions**
-1. Shareholders may not transfer their shares without first offering them to the LLC or other shareholders with a right of first refusal. The LLC or other shareholders shall have 30 days to accept or decline the offer.
-2. In the event a shareholder's shares are subject to forced buy-out due to extreme circumstances requiring unanimity among the board or members, or due to the share being seized by a creditor or transferred to a heir, the LLC shall offer the shareholder an option of owner financing through a promissory note.
-3. Any debts owed by shareholders to the LLC may be paid in LLC ownership if the shareholder fails to make payment.
-
-### **Article VII: Jurisdiction**
-The jurisdiction of Based Community, LLC shall be in the State of Missouri, and it shall abide by all applicable laws and regulations.
+### **Article VI: Jurisdiction**
+The jurisdiction of Homestead Community, LLC shall be in the State of Missouri, and it shall abide by all applicable laws and regulations.
 
 ## LLC Operating Agreement
 
 ### **Article I: Management and Voting**
-1. The management of Based Community, LLC shall be vested in the board of managers, consisting of a president, vice president, treasurer, and secretary, as specified in Article V of the Articles of Incorporation.
-2. Both the president and vice president's signature, with either the secretary or treasurer signing in one but not both of their stead should one not be available, shall be required to sign all manner of legally binding contracts public and private, title deeds, sale contracts, or any other official document.
-3. Either the president or treasurer may sign checks or make online transfers from the LLC's bank account
-4. For the sale of real estate, the president's signature is required, and it must be authorized by the totality of Nobleman and Yeoman shareholders minus one possible vote unit of dissent.
-5. For the sale of vehicles or other titled quipment, the president or vice president's signature is required, and it must be authorized by a 2/3 vote of the board of managers.  
-6. Each Nobleman Share and Yeoman Share shall have voting rights, with voting power proportionate to their respective share size. Peasant Shares shall not have voting rights.
-7. All members shall be required to maintain and use an electronic signature for remote document signatures, proxies, and other official LLC business.
-8. A 2/3 vote of the board of managers shall be required for the following:  
-   4.1 - Amend a written operating agreement for the purposes of changing membership after a legitimate sale of membership interest following the Operating Agreement  
-   4.2 - Issue an interest in the limited liability company to any person and admit such person as a member  
-   4.3 - Authorize any transaction, agreement or action on behalf of the limited liability company that is unrelated to its purpose as set forth in the articles of organization, that otherwise contravenes the operating agreement or that is not within the usual course of the business of the limited liability company
-   4.4 - Determine, modify, compromise or release the amount and character of the contributions which a member shall make, or shall promise to make, as the consideration for the issuance of an interest in the limited liability company  
-9. An affirmative or abstention vote from all Nobleman and Yeoman class member interests minus one possible dissenter shall be required for the following: 
-   5.1 - Change the status of the limited liability company from one in which management is vested in the members to one in which management is vested in one or more managers, or vice versa  
-   5.2 Dissolution of the LLC  
-10. An affirmative or abstention vote from 2/3 of all Nobleman and Yeoman class member interests shall be required to amend the operating agreement or articles of organization for any reason other than that mentioned in the previous clauses in this article. 
-11. To decide any matter connected with the business or affairs of the limited liability company, including those listed in the previous clauses of this article, the Peasant class members shall have no vote, and the Nobleman and Yeoman class shares shall each have a vote that is equal in power to the proportion of their ownership interest divided by the total proportion of all Nobleman and Yeoman class ownership interests. (e.g. if total Nobleman + Yeoman interest is 60%, a 10% Nobleman owner shall have approximately 16.67% of the total votes.)
-12. If a member with voting power does not respond to requests for a vote within 30 days, his vote may be considered an abstention vote for the purposes of allowing a measure to pass.
-13. Proxies for voting in absence must be communicated to the Secretary before the start of a meeting in order to be valid, and must be written by the member or their power of attorney. Proxy notifications are valid for a maximum period of 11 months. Proxy revocations must be communicated to the Secretary before being considered valid.
-14. **Severability.** In the event that any provision of this entire Operating Agreement, or the application thereof, becomes or is declared by a court of competent jurisdiction to be illegal, void or unenforceable, the remainder of this Agreement will continue in full force and effect and the application of such provision to other Persons or circumstances will be interpreted so as reasonably to effect the intent of the parties hereto. The parties further agree to replace such void or unenforceable provision of this Agreement with a valid and enforceable provision that will achieve, to the extent possible, the economic, business and other purposes of such void or unenforceable provision.
+1. The management of Based Community, LLC shall be vested in the board of managers, consisting of a president, vice president, treasurer, and secretary.
+2. The board shall consist of four members who will be appointed for a management period of two years each. The initial managers of the LLC and their positions are as follows:
+   1. John Smith (president) 
+   2. Emma Johnson (vice president) 
+   3. Alexander Brown (treasurer) 
+   4. Isabella Anderson (secretary)
+3. 60 days before the end of the board's term, elections shall be held. Class A and B members may vote, with a simple majority being necessary for a candidate to win. If no candidate in a given race achieves a simple majority, a run-off election will be held.
+4. The board may remove a manager with a 3/4 majority vote, and may replace the manager for the remainder of that term with someone of their choosing. The Class A and B members may remove a manager with a vote of unanimity of their total interest minus a possible 5% dissenting votes. Class C members may not participate in any management decisions (unless one is appointed as a manager) and may not officially vote on any matter relating to the LLC. 
+5. **Authorized Representative:** Both the president and vice president's signature, with either the secretary or treasurer signing in one but not both of their stead should one not be available, shall be required to sign all manner of legally binding contracts public and private, title deeds, sale contracts, or any other official document.
+6. **Checks:** Either the president or treasurer may sign checks or make online transfers from the LLC's bank account, and may request and receive payment for services, invoices, etc. 
+7. **Sale of real estate:** For the sale of real estate, the president's signature is required, and it must be authorized by the totality of Class A and B shareholders minus a possible maximum of 5% of dissent of their total interest. 
+8. For the sale of vehicles or other titled and valuable equipment, the president or vice president's signature is required, and it must be authorized by a 2/3 vote of the board of managers. For any non-titled or less valuable assets, any manager is authorized to dispose of, sell, or otherwise administer on behalf of the LLC. 
+9. **Voting Rights:** Class A and Class B members shall have voting rights, with voting power proportionate to their respective share size. Class C members shall not have voting rights.
+10. **Electronic Signatures:** All members shall be required to maintain and use an electronic signature for remote document signatures, proxies, and other official LLC business.
+11. A 2/3 vote of the board of managers shall be required for the following:  
+   11.1 - Amend/restate a written operating agreement for the purposes of changing membership after a legitimate sale of membership interest following the Operating Agreement  
+   11.2 - Issue an interest in the limited liability company to any person and admit such person as a member  
+   11.3 - Authorize any transaction, agreement or action on behalf of the limited liability company that is unrelated to its purpose as set forth in the articles of organization, that otherwise contravenes the operating agreement or that is not within the usual course of the business of the limited liability company
+   11.4 - Determine, modify, compromise or release the amount and character of the contributions which a member shall make, or shall promise to make, as the consideration for the issuance of an interest in the limited liability company  
+12. An affirmative or abstention vote from all Class A and Class B member interests minus a possible 5% of dissenting votes shall be required for the following: 
+   12.1 - Change the status of the limited liability company from one in which management is vested in the members to one in which management is vested in one or more managers, or vice versa  
+   12.2 - Dissolution of the LLC (See the relevant article in this Operating Agreement.)   
+13. An affirmative or abstention vote from 3/4 of all Class A and B member interests shall be required to amend the operating agreement or articles of organization for any reason other than that mentioned in the previous clauses in this article. 
+14. To decide any matter connected with the business or affairs of the limited liability company, including those listed in the previous clauses of this article, the Class C members shall have no vote, and the Class A and B shares shall each have a vote that is equal in power to their ownership interest divided by the total of all Class A and B interests. (e.g. if total Class A + B interest is 60%, a 10% Class A owner shall have approximately 16.67% of the total vote.)
+15. If a member with voting power does not respond to requests for a vote within 30 days, and has not legitimately assigned a proxy, his vote may be considered an abstention vote for the purposes of allowing a measure to pass. 
+16. Proxies for voting in absence must be communicated to the Secretary before the start of a meeting in order to be valid, and must be written by the member or their power of attorney. Proxy notifications are valid for a maximum period of 11 months. Proxy revocations must be communicated to the Secretary before being considered valid.
+17. **Severability.** In the event that any provision of this entire Operating Agreement, or the application thereof, becomes or is declared by a court of competent jurisdiction to be illegal, void or unenforceable, the remainder of this Agreement will continue in full force and effect and the application of such provision to other Persons or circumstances will be interpreted so as reasonably to effect the intent of the parties hereto. The parties further agree to replace such void or unenforceable provision of this Agreement with a valid and enforceable provision that will achieve, to the extent possible, the economic, business and other purposes of such void or unenforceable provision. 
 
 ### **Article II: Code of Conduct**
-1. The LLC shall adhere to a Code of Conduct to maintain a harmonious and productive community. Disruptive behaviors, including concern controlling, compulsive lying, and purity spiraling, are strictly disallowed.
-2. Any member found engaging in disruptive behaviors may be subject to disciplinary actions, including suspension of decision-making activities or expulsion from the LLC.
+1. The LLC shall adhere to a Code of Conduct to maintain a harmonious and productive community. Disruptive behaviors, including concern controlling, compulsive lying, and purity spiraling, are strictly disallowed. 
+2. Any member found engaging in disruptive behaviors may be subject to disciplinary actions, including exclusion from LLC internal communications, suspension of decision-making activities or total expulsion from the LLC. 
 
-### **Article III: Share Categories**
-1. Based Community, LLC shall have three share categories: Nobleman Share, Yeoman Share, and Peasant Share, as described in Article 8 of the General Structure.
-2. Nobleman and Yeoman Shares have rights to reside on their allocated land and other community benefits. Peasant Shares do not have residency or access rights.
-3. Peasant Share members may purchase additional shares until they reach the Residency Threshold, at which point they are permitted to live on the land.
+### **Article III: Member Interests**
+1. Homestead Community, LLC shall have three classes of interest: Class A or "Nobleman Share", Class B or "Yeoman Share", and Class C or "Peasant Share". Each class has a colloquial label, however in this Operating Agreement they shall be referred to as a Class for official purposes and to follow convention. 
+2. Class A and B members have rights to reside on their allocated land and other community benefits. Class C members do not have residency or access rights.
+3. Class C members may purchase additional shares until they reach the Residency Threshold of [XX%], at which point they are permitted to live on the land.
+4. Other restrictions or benefits of different member interests are discussed elsewhere in this Operating Agreement.  
 
 ### **Article IV: Common Elements**
 1. The LLC shall establish common elements for the benefit of all members, including a community hub area with well, septic system, electric connection, workshop, RV hookup, driveways, perimeter fence, and administrative infrastructure.
+2. The common interests will be funded by contributions from members according to their percent of ownership interest. 
 
 ### **Article V: Land Use Regulations**
 1. The LLC shall implement and enforce a set of land use regulations, functioning as an HOA, to maintain an enjoyable and harmonious environment.
@@ -153,7 +150,7 @@ The jurisdiction of Based Community, LLC shall be in the State of Missouri, and 
        - Violation of this Rental Policy may result in penalties, fines, or other enforcement actions, as outlined in the LLC's operating agreement.
 
 14. **Enforcement and Mediation:**
-    - The HOA shall use a mediation-first approach to resolve disputes among members.
+    - The LLC shall use a mediation-first approach to resolve disputes among members.
     - Fines or penalties may be imposed for violations of the rules, with appropriate due process.
     - The board of managers shall administer these judgments, and may skip steps if the severity of the infraction warrants it: 
       - Formal notification and mediation attempt, with a 30 day timeframe
@@ -163,31 +160,48 @@ The jurisdiction of Based Community, LLC shall be in the State of Missouri, and 
       - Expulsion from the LLC per forced buy-out regulations elsewhere in the LLC Operating Agreement or Articles of Organization 
 
 ### **Article VI: Action Plan**
-The LLC shall follow the Action Plan outlined in Article 6 of the General Structure to execute the land purchase, distribution, and development process.
+The LLC shall follow this Action Plan during its initial period of formation:  
+
+    1. Complete legal research and draft documents to present to potential members  
+    2. Gather a group together. Research and determine several possible land candidates. Make financial pledges and agree upon a general property size / price.  
+    3. Finalize LLC articles of organization and operating agreement, vote on officer roles. Include vision, mission, and goals in the operating agreement. 
+    4. Raise funds for initial administrative expenses, pass initial administrative budget. 
+    5. Consult a business lawyer and a real estate lawyer in Missouri, for a professional assessment of the legal situation of our planned project.  
+    6. Pass a community budget, initial and yearly.  
+    7. Register an LLC. Deposit the funds in the LLC's bank account. Any members who at this point cannot participate, are replaced, and this clause hereby authorizes a forced buy-out at a token price of $1.  
+    8. Purchase the decided-upon land.  
+    9. Rough survey and planning. Homestead areas are mapped and photographed. Common elements are planned. 
+    10. Members select their homestead areas. If two members want one area, they enter a bidding process. Proceeds go to community fund.  
+    11. Permit application for septic systems, wells, anything else required.  
+    12. Widespread residency and construction may begin, provided all relevant laws are complied with  
 
 ### **Article VII: Share Transfer Restrictions**
-The Share Transfer Restrictions outlined in Article VI of the Articles of Incorporation shall be followed for all share transfers.
+1. Any new members must be approved by the board of managers with a 2/3 vote, or they are prohibited from becoming a member. The board must use exclusive and specific criteria, and membership in Homestead Community, LLC is not open to the general public. 
+2. Members may not transfer their shares without first offering them to the LLC or other shareholders with a right of first refusal. The LLC or other members shall have 30 days to accept or decline the offer.  
+3. In the event a members's interest is subject to forced buy-out due to extreme circumstances requiring unanimity (minus 5% possible allowable dissent) among the board or members, or due to the interest being seized by a creditor or transferred to a heir or ex-spouse etc, the LLC may offer the shareholder an option of owner financing through a promissory note, and the shareholder must accept provided the offer is reasonable and follows the operating agreement.  
+4. The forced buy-out value shall be the original investment adjusted for inflation, plus the appraised value of any improvements to the member's leased land, minus any liabilities or debts the owners has to the LLC or that are present on the leased land.
+5. Any debts owed by a member to the LLC must be paid in LLC ownership interest if the member fails to make payment.  
 
 ### **Article VIII: Buy/Sell Agreement**
-The following procedures shall be followed when selling shares of the LLC:  
+The following procedures shall be followed when selling ownership interest of the LLC:  
 
-1. **New Member Share Transfer:** When a single or multiple LLC member(s) wish to voluntarily sell their share to a non-member, the following procedure shall be followed: 
+1. **New Member Ownership Transfer:** When a single or multiple LLC member(s) wish to voluntarily sell all or part of their interest to a non-member, the following procedure shall be followed: 
    1.1 The offering buyer shall fill out a standard application provided by the board of managers.  
-   1.2 The application shall be sent to all members with Nobleman and Yeoman class shares for approval  
-   1.3 If 75% approval is reached, the board of managers will provide a standard Term Sheet and Purchase Agreement in coordination with the seller  
-   1.4 Assuming payment is made, and the purchase agreement is signed, the board shall sign and issue a new Operating Agreement with the sole changes being the new ownership
-   1.5 Members of Nobleman and Yeoman share classes will be notified; sale and other information will be recorded into LLC records  
-3. **In-House Share Transfer:** When a single or multiple LLC member(s) wish to voluntarily sell their share to an existing LLC member, the following procedure shall be followed:
-4. **Seed Investor Share Transfer:** When a non-member wishes to buy a share of the LLC as part of the pre-arranged seed investor share sales outlined in Article IX: Seed Investor Shares, the following procedure shall be followed:
-5. **Involuntary Buy-out:** When a member is forced to sell all or part of their share due to a board or member vote following various clauses in the Operating Agreement or Articles of Incorporation, the following procedure shall be followed: 
+   1.2 The application shall be sent to all members with Class A and B interests for review. As per the Share Transfer Restrictions, it is up to the board to approve with a 2/3 majority vote.   
+   1.3 If approval is reached, the board of managers will provide a standard Term Sheet and Purchase Agreement in coordination with the seller(s)  
+   1.4 Assuming payment is made, and the purchase agreement is signed, the board shall sign and issue a new Operating Agreement with the sole changes being the new ownership, and is hereby authorized to do so.  
+   1.5 Class A and B members will be notified; sale and other information will be recorded appropriately.  
+3. **In-House Ownership Transfer:** When a single or multiple LLC member(s) wish to voluntarily sell their share to an existing LLC member, the following procedure shall be followed:
+4. **Seed Investor Ownership Transfer:** When a non-member wishes to buy an ownership interest of the LLC as part of the pre-arranged seed investor interest sales outlined in Article IX: Seed Investor Ownership Interests, the following procedure shall be followed:
+5. **Involuntary Buy-out:** When a member is forced to sell all or part of their share due to a board or member vote following the relevant clauses in the Operating Agreement, the following procedure shall be followed: 
 
-### **Article IX: Seed Investor Shares**  
-The "Nobleman" shareholders (as outlined in Article III) shall have special considerations and obligations to sell attached to part of their ownership interest in the LLC. 
-1. **Desired Ending Share:**
-2. **Funding Obligation for Common Elements:**
-3. **Partial Share Sale Obligation:**
-4. **Funds Management:**
-5. **Penalty:**
+### **Article IX: Seed Investor Ownership Interests**  
+The Class A members shall have special considerations and obligations to sell part of their initial ownership interest. 
+1. **Desired Ending Interest:** The Class A members shall decide initially what their desired ending ownership interest shall be, and the percentage shall be expressed here in this Operating Agreement before the inception of the LLC. 
+2. **Funding Obligation for Common Elements:** 
+3. **Partial Share Sale Obligation:** 
+4. **Funds Management:** All funds from the sale of interest above the desired ending interest shall be deposited to the LLC's bank account. If any adjustment needs to be made, or commission paid to Class A members, this will be done within 30 days after the funds are received by the LLC. Class A members reserve the exclusive right to receive distributions of commissions based on the sale of their ownership interest above the desired ending interest. 
+5. **Penalty:** 
 
 ### **Article X: Book Access and Audits** 
 
@@ -195,7 +209,7 @@ The "Nobleman" shareholders (as outlined in Article III) shall have special cons
 
 2. **Electronic Access:** All LLC records, including financial statements, minutes of meetings, contracts, and other relevant documents, shall be stored electronically on a secure cloud server. Members in good standing shall receive access credentials to the cloud server, allowing them to view and download the records.
 
-3. **Access Restrictions for Peasant Share Members:** Peasant Share members shall have limited access to only those records required by state law. Such access may include annual financial reports, tax filings, and other documents necessary for legal compliance. Peasant Share members shall not have access to other sensitive financial or operational records of the LLC.
+3. **Access Restrictions for "Peasant Share" Members:** Class C members shall have limited access to only those records required by state law. Such access may include annual financial reports, tax filings, and other documents necessary for legal compliance. Class C members shall not have access to other sensitive financial or operational records of the LLC.
 
 4. **Member Responsibilities:** All members with access to the electronic records are responsible for maintaining the confidentiality and security of their access credentials. Members shall not share their access credentials with any third party or unauthorized individual. Members shall not share records with non-members unless required by state or federal law, and only after consulting with LLC management to obtain a legal opinion on the legality of the request. 
 
@@ -210,9 +224,7 @@ The "Nobleman" shareholders (as outlined in Article III) shall have special cons
 9. **Dispute Resolution:** Any disputes or disagreements regarding access to records, audits, or examinations shall be resolved in accordance with the dispute resolution provisions outlined in the LLC operating agreement. 
 
 10. **Record Retention:** The LLC shall maintain all records related to financial transactions, business activities, and decision-making for a period of 10 years, or as otherwise required by applicable state or federal laws.
-11. **Document Conveyance:** As allowed by MO Rev Stat § 347.051(2) (2019), such documents as referred to in the cited Missouri statute must only be delivered electronically to Nobleman and Yeoman members, within a period of 30 days, and should not be sent to Peasant members unless otherwise required by law. 
-
-This "Book Access and Audits" clause shall govern the access, management, and examination of the LLC's records and shall be binding on all members. All members acknowledge and agree to abide by the terms and procedures set forth herein.
+11. **Document Conveyance:** As allowed by MO Rev Stat § 347.051(2) (2019), such documents as referred to in the cited Missouri statute must only be delivered electronically to Class A and B members, within a period of 30 days, and should not be sent to Class C members unless otherwise required by law. 
 
 ### **Article XI: Dispute Resolution and Mediation** 
 
@@ -238,9 +250,7 @@ This "Book Access and Audits" clause shall govern the access, management, and ex
 
 11. **Continuation of Business:** During the resolution process, the LLC's business activities shall continue unaffected to the extent possible, unless otherwise agreed upon by the parties or required by law, and only after consulting with LLC management to obtain a legal opinion on the legality of the request. 
 
-12. **Disruption of Official and Unofficial Communication:** If the parties in dispute insist on discussions of their dispute in public, and in formal or informal discussions of LLC business among all or most members or the board, the board may order the exclusion of either or both of the parties in dispute from such communications or take other punitive measures as is deemed reasonable, to ensure a healthy social atmosphere within the LLC.
-   
-This "Dispute Resolution and Mediation" clause shall apply to all disputes among the LLC members and shall be binding on all parties. All members acknowledge and agree to abide by the terms and procedures set forth herein.
+12. **Disruption of Official and Unofficial Communication:** If the parties in dispute insist on discussions of their dispute in public, and in formal or informal discussions of LLC business among all or most members or the board, the board may order the exclusion of either or both of the parties in dispute from such communications or take other punitive measures as is deemed reasonable, to ensure a healthy social atmosphere within the LLC. The previously discussed mediation processes should be sufficient for these members to solve their problems, without causing correspondence fatigue among all members. 
 
 ### **Article XII: Force Majeure**
 This "Force Majeure" clause shall be applied to address unforeseen and catastrophic events, providing flexibility and adaptability to preserve the interests and well-being of the LLC and its members during challenging circumstances.  
@@ -253,34 +263,34 @@ This "Force Majeure" clause shall be applied to address unforeseen and catastrop
 
 4. **Alternative Currency and Cash Management:** In the event of a bank collapse or loss of confidence in the traditional or electronic banking system, the LLC may, at its sole discretion, implement cash-only, gold, silver, and/or barter-based cash management and accounting procedures to ensure the continuity of financial operations and transactions.
 
-5. **Access and Residency Rights for Peasant Share Members:** In the case of serious economic and geopolitical situations or any catastrophic events as described in the definition of Force Majeure Events, the board of managers may, by a unanimous vote, grant access and residency rights to Peasant Share members. The board shall have the authority to determine the scope and duration of such access and residency rights based on the severity and nature of the Force Majeure Event.
+5. **Access and Residency Rights for Class C Members:** In the case of serious economic and geopolitical situations or any catastrophic events as described in the definition of Force Majeure Events, the board of managers may, by a unanimous vote, grant access and residency rights to Class C members. The board shall have the authority to determine the scope and duration of such access and residency rights based on the severity and nature of the Force Majeure Event.
 
-6. **Mandatory Access and Residency Rights:** Notwithstanding any other provision in the operating agreement, the board of managers is mandated to grant access and residency rights to Peasant Share members in the following very severe circumstances:
+6. **Mandatory Access and Residency Rights:** Notwithstanding any other provision in the operating agreement, the board of managers is mandated to grant access and residency rights to Class C members in the following very severe circumstances:
    a. Active war in the United States. 
    b. Widespread and long-term societal disruption in Missouri due to natural disasters or catastrophic events.
    c. Solar flare or electromagnetic pulse (EMP) causing substantial damage to the planet's grid or critical infrastructure.
 
-7. **Notification and Documentation:** In the event of the activation of this Force Majeure clause and the granting of access and residency rights to Peasant Share members, the board shall provide written notification to all members, detailing the circumstances and the duration of the granted rights. Documentation of the board's decision shall be maintained in the LLC's records.
+7. **Notification and Documentation:** In the event of the activation of this Force Majeure clause and the granting of access and residency rights to Class C members, the board shall provide written notification to all members, detailing the circumstances and the duration of the granted rights. Documentation of the board's decision shall be maintained in the LLC's records.
 
 8. **Duration of Force Majeure:** The Force Majeure provisions shall remain in effect for the duration of the Force Majeure Event, as determined by the board of managers. Upon the cessation of the Force Majeure Event, the normal operating procedures shall resume, and any adjustments or modifications made during the Force Majeure period shall be reevaluated based on the prevailing circumstances.  
 
 ### **Article XIII: Dissolution**
-In the event of LLC dissolution, the assets shall be distributed in accordance with the Share Transfer Restrictions and the interests of the members as specified in the Articles of Incorporation. The following procedures shall be followed:  
+In the event of LLC dissolution, the assets shall be distributed in accordance with the Share Transfer Restrictions and the interests of the members as specified elsewhere in this Operating Agreement. The following procedures shall be followed:  
 
-1. **Voluntary Dissolution:** The LLC may be dissolved voluntarily with the approval of a vote of 90% or more of the members. Upon approval, the members shall proceed with the winding-up process in accordance with applicable laws and this operating agreement.
+1. **Voluntary Dissolution:** The LLC may be dissolved voluntarily with an affirmative or abstention vote from all Class A and Class B member interests minus a possible 5% of dissenting votes. Upon approval, the members shall proceed with the winding-up process in accordance with applicable Missouri state laws and this operating agreement. 
 
-2. **Involuntary Dissolution:** The LLC may be dissolved involuntarily under circumstances allowed by law, including but not limited to court order, bankruptcy, or loss of required licenses. In such cases, the dissolution shall be carried out in compliance with the applicable state laws governing LLC dissolution.
+2. **Involuntary Dissolution:** The LLC may be dissolved involuntarily under circumstances allowed by law, including but not limited to court order, bankruptcy, or loss of required licenses. In such cases, the dissolution shall be carried out in compliance with the applicable state laws governing LLC dissolution, and according to this operating agreement as is possible. 
 
 3. **Winding-Up Process:** Upon dissolution, the LLC shall immediately cease all business activities except those necessary for the winding-up process. The managers shall be responsible for liquidating the LLC's assets, satisfying its liabilities, and distributing the remaining assets to the members as outlined in this operating agreement.
 
-4. **Distribution of Assets:** After settling all debts and liabilities of the LLC, the remaining assets, except those covered in numeral 5, shall be distributed among the members in proportion to their ownership interests. The distribution shall be made in cash or in kind as determined by the managers, and it shall be documented and reported to all members.
-5. **Distribution of Land:** Homestead land allocated to each member shall be parcelled and titled to them or to a party assigned by them. Common boundary and road elements shall be attached to the adjacent homestead land and included as a right-of-way easement in their map and title during the parcelation process. Other common elements such as community hub, water system, etc may be sold, added to a new LLC formed by the members for common element administration, or another solution determined most fair and feasible by the LLC management. If parcelation is not possible due to zoning regulation or other legal restriction, the land asset distribution process will follow state and federal law. 
+4. **Distribution of Assets:** After settling all debts and liabilities of the LLC, the remaining assets, except those covered in numeral 5, shall be distributed among the members in proportion to their ownership interests and other relevant considerations. The distribution shall be made in cash or in kind as determined by the managers, and it shall be documented and reported to all members.
+5. **Distribution of Land:** Homestead land allocated to each member shall be parcelled and titled to them or to a party assigned by them, in full compliance with county zoning regulations. Common boundary and road elements shall be attached to the adjacent homestead land and included as a right-of-way easement in their map and title during the parcelation process. Other common elements such as community hub, water system, etc may be sold, added to a new LLC formed by the members for common element administration, or another solution determined most fair and feasible by the LLC management. If parcelation is not possible due to zoning regulation or other legal restriction, the land asset distribution or liquidation process will follow state and federal law. 
 
 6. **Final Tax Returns and Filings:** The managers shall be responsible for filing all necessary tax returns and final reports required by applicable state and federal authorities.
 
 7. **Termination of Operating Agreement:** The dissolution of the LLC shall result in the termination of this operating agreement, except for provisions that, by their nature, survive termination, including but not limited to any confidentiality, non-compete, and indemnification clauses.
 
-8. **Notice to State Authorities:** Upon completion of the winding-up process, the managers shall promptly file the appropriate dissolution documents with the state authorities to formalize the dissolution of the LLC.
+8. **Notice to State Authorities:** Upon completion of the winding-up process, the managers shall promptly file the appropriate dissolution documents with the Missouri state authorities to formalize the dissolution of the LLC. 
 
 9. **Dispute Resolution:** Any disputes or disagreements arising from the dissolution process shall be resolved in accordance with the dispute resolution provisions outlined in this operating agreement.
 
@@ -289,13 +299,13 @@ In the event of LLC dissolution, the assets shall be distributed in accordance w
 This dissolution clause shall govern the dissolution process of the LLC and shall be binding on all members. All members acknowledge and agree to abide by the terms and procedures set forth herein.
 
 ### **Article XIV: Amendments**
-This operating agreement may be amended with the consent of two-thirds of the Nobleman and Yeoman Shareholders.
+This operating agreement may be amended with the consent or abstention vote of 3/4 of the Class A and B members.
 
 ### **Article XV: Governing Law**
 This operating agreement shall be governed by and construed in accordance with the laws of the State of Missouri. 
 
 ### **Article XVI: Members** 
-The following is a list of LLC members. All members are required to sign the new iterations of the operating agreements if the only change has been an update of the member list based on signed sales documents. Failure to do so for any reason will be considered obstruction of LLC operations and the board of managers may expel the refusing member from the LLC as per the forced buy-out allowances in the Articles of Organization and/or Operation Agreement. 
+The following is a list of LLC members. The board of managers shall maintain a historical record of all past members and transfers of membership interests. 
 
 1. **Nobleman Share (Founder):**
    - Name: John Smith
@@ -333,5 +343,6 @@ The following is a list of LLC members. All members are required to sign the new
    - Name: Michael Ferreira
    - Share Percentage: 2.5%
 
+### *This LLC Operating Agreement shall forthwith govern the formation, operation, management, dissolution, and all other aspects of Homestead Community LLC, and shall be binding on all members. All members acknowledge and agree to abide by the terms and procedures set forth herein.* 
 
   
