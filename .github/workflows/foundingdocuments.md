@@ -167,8 +167,8 @@ The LLC shall follow this Action Plan during its initial period of formation:
   5. Consult a business lawyer and a real estate lawyer in Missouri, for a professional assessment of the legal situation of our planned project.  
   6. Pass a community budget, initial and yearly.  
   7. Register an LLC. Deposit the funds in the LLC's bank account. Any members who at this point cannot participate, are replaced, and this clause hereby authorizes a forced buy-out at a token price of $1.  
-  8. Purchase the decided-upon land.  
-  9. Rough survey and planning. Homestead areas are mapped and photographed. Common elements are planned. 
+  8. Purchase the decided-upon land. Any references to land, access, residency, etc throughout this entire Operating Agreement, refer to this parcel of land that the LLC plans to purchase for the purposes of operation of a private club organization of homesteaders, for their own benefit.  
+  9. Rough survey and planning. Homestead areas are mapped and photographed. Common elements are planned.  
   10. Members select their homestead areas. If two members want one area, they enter a bidding process. Proceeds go to community fund.  
   11. Permit application for septic systems, wells, anything else required.  
   12. Widespread residency and construction may begin, provided all relevant laws are complied with  
