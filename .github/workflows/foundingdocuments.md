@@ -386,8 +386,7 @@ The following is a list of LLC members. The board of managers shall maintain a h
 
 
 Notes / need to add:    
-
-Budget and funding process - both initial and continuous.  
+ 
 Land allocation rules  
 Add a bunch of this stuff: https://www.hopb.co/sample-hoa-bylaws  
   
