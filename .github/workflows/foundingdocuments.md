@@ -1,7 +1,7 @@
 # Homestead Community, LLC 
 #### Founding Documents: Articles of Organization and LLC Operating Agreement
   
-Use new order for articles of operation: 
+Use new order for operating agreement: 
 
 Management and Voting 
 
