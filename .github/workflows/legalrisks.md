@@ -5,6 +5,8 @@
   
 Linked from: [General Project Structure](https://github.com/LibertyHomesteads/GroupLandBuyMO/blob/main/.github/workflows/GeneralStructure.md)  
 
+**Primary risks:** County zoning ordinances, county subdivision ordinances, state subdivision ordinances, state zoning laws (septic), EPA regulations, Missouri corporate farm ownership laws, federal and state right-to-association laws, fraud or other crime committed by managers while acting in their official capacity, unwanted members, and problematic members. 
+
 ## 1. Permits and Zoning  
    ### 1.1 Zoning Laws 
    * Purchase land in an area with no county-level zoning laws
