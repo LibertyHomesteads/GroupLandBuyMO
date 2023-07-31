@@ -13,7 +13,7 @@ The name of the Limited Liability Company is Homestead Community, LLC.
 The duration of the LLC shall be perpetual.
 
 ### **Article III: Purpose**
-The primary purpose of Homestead Community, LLC is to operate as a private club organization formed by its members, and facilitate their ability to homestead and engage in agricultural activities in a beautiful natural environment. 
+The primary purpose of Homestead Community, LLC is to operate as a private club organization formed by its members, and facilitate their ability to homestead and engage in agricultural activities in a natural environment. 
 
 ### **Article IV: Registered Agent**
 The name and street address of the initial registered agent of the LLC are as follows:  
