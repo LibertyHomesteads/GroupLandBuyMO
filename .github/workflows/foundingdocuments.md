@@ -66,8 +66,11 @@ The jurisdiction of Homestead Community, LLC shall be in the State of Missouri, 
 ### **Article III: Member Interests**
 1. Homestead Community, LLC shall have three classes of interest: Class A or "Nobleman Share", Class B or "Yeoman Share", and Class C or "Peasant Share". Each class has a colloquial label, however in this Operating Agreement they shall be referred to as a Class for official purposes and to follow convention. 
 2. Class A and B members have rights to reside on their allocated land and other community benefits. Class C members do not have residency or access rights.
-3. Class C members may purchase additional shares until they reach the Residency Threshold of [XX%], at which point they are permitted to live on the land.
-4. Other restrictions or benefits of different member interests are discussed elsewhere in this Operating Agreement.  
+3. Class C members may purchase additional shares until they reach the Residency Threshold of [XX%], at which point they are permitted to live on the land. 
+4. Class C has no voting rights, and no rights to profit or loss distribution. Class A and B have limited voting rights on certain items that are described in Article I and elsewhere in this Operating Agreement. 
+5. Anyone who is a member or a non-member can be assigned as a manager, in which case their voting rights take on those as described in Article 1, superceding the limitations described in this Article.
+6. Class C members have no right to participate in official group decision making and discussion processes, unless they have been elected or assigned to the board of managers. 
+7. Other restrictions or benefits of different member interests are discussed elsewhere in this Operating Agreement.  
 
 ### **Article IV: Common Elements and Contributions**
 1. **Common elements:** The LLC shall establish common elements for the benefit of all members, including a community hub area with well, septic system, electric connection, workshop, RV hookup, driveways, perimeter fence, and administrative infrastructure.
