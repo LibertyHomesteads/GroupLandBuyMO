@@ -5,13 +5,13 @@ Use new order for operating agreement:
 
 Management and Voting 
 
+Member Interests  
+
 Share Transfer Restrictions 
 
 Buy / Sell Agreement 
 
-Member Interests 
-
-Action Plan 
+Plan of Action 
 
 Common Elements and Contributions 
 
