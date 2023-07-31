@@ -183,7 +183,7 @@ The LLC shall follow this Action Plan during its initial period of formation:
 ### **Article VIII: Buy/Sell Agreement**
 The following procedures shall be followed when selling ownership interest of the LLC:  
 
-1. **New Member Ownership Transfer:** When a single or multiple LLC member(s) wish to voluntarily sell all or part of their interest to a non-member, the following procedure shall be followed: 
+1. **New Member Ownership Transfer:** When a single or multiple LLC member(s) wish to voluntarily sell all or part of their interest to a non-member, the following procedure shall be followed:  
    1.1 The offering buyer shall fill out a standard application provided by the board of managers.  
    1.2 The application shall be sent to all members with Class A and B interests for review. As per the Share Transfer Restrictions, it is up to the board to approve with a 2/3 majority vote.   
    1.3 If approval is reached, the board of managers will provide a standard Term Sheet and Purchase Agreement in coordination with the seller(s)  
