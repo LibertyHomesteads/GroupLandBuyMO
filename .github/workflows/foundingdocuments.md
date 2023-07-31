@@ -29,7 +29,7 @@ The jurisdiction of Homestead Community, LLC shall be in the State of Missouri, 
 ## LLC Operating Agreement
 
 ### **Article I: Management and Voting**
-1. **Management Power:** The management of Based Community, LLC shall be vested in the board of managers, consisting of a president, vice president, treasurer, and secretary.
+1. **Management Power:** The management of Homestead Community, LLC shall be vested in the board of managers, consisting of a president, vice president, treasurer, and secretary.
 2. **Initial Managers:** The board shall consist of four members who will be appointed for a management period of two years each. The initial managers of the LLC and their positions are as follows:
    1. John Smith (president) 
    2. Emma Johnson (vice president) 
