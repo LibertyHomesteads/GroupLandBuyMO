@@ -160,18 +160,18 @@ The jurisdiction of Homestead Community, LLC shall be in the State of Missouri, 
 ### **Article VI: Action Plan**
 The LLC shall follow this Action Plan during its initial period of formation:  
 
-    1. Complete legal research and draft documents to present to potential members  
-    2. Gather a group together. Research and determine several possible land candidates. Make financial pledges and agree upon a general property size / price.  
-    3. Finalize LLC articles of organization and operating agreement, vote on officer roles. Include vision, mission, and goals in the operating agreement. 
-    4. Raise funds for initial administrative expenses, pass initial administrative budget. 
-    5. Consult a business lawyer and a real estate lawyer in Missouri, for a professional assessment of the legal situation of our planned project.  
-    6. Pass a community budget, initial and yearly.  
-    7. Register an LLC. Deposit the funds in the LLC's bank account. Any members who at this point cannot participate, are replaced, and this clause hereby authorizes a forced buy-out at a token price of $1.  
-    8. Purchase the decided-upon land.  
-    9. Rough survey and planning. Homestead areas are mapped and photographed. Common elements are planned. 
-    10. Members select their homestead areas. If two members want one area, they enter a bidding process. Proceeds go to community fund.  
-    11. Permit application for septic systems, wells, anything else required.  
-    12. Widespread residency and construction may begin, provided all relevant laws are complied with  
+  1. Complete legal research and draft documents to present to potential members  
+  2. Gather a group together. Research and determine several possible land candidates. Make financial pledges and agree upon a general property size / price.  
+  3. Finalize LLC articles of organization and operating agreement, vote on officer roles. Include vision, mission, and goals in the operating agreement. 
+  4. Raise funds for initial administrative expenses, pass initial administrative budget. 
+  5. Consult a business lawyer and a real estate lawyer in Missouri, for a professional assessment of the legal situation of our planned project.  
+  6. Pass a community budget, initial and yearly.  
+  7. Register an LLC. Deposit the funds in the LLC's bank account. Any members who at this point cannot participate, are replaced, and this clause hereby authorizes a forced buy-out at a token price of $1.  
+  8. Purchase the decided-upon land.  
+  9. Rough survey and planning. Homestead areas are mapped and photographed. Common elements are planned. 
+  10. Members select their homestead areas. If two members want one area, they enter a bidding process. Proceeds go to community fund.  
+  11. Permit application for septic systems, wells, anything else required.  
+  12. Widespread residency and construction may begin, provided all relevant laws are complied with  
 
 ### **Article VII: Share Transfer Restrictions**
 1. Any new members must be approved by the board of managers with a 2/3 vote, or they are prohibited from becoming a member. The board must use exclusive and specific criteria, and membership in Homestead Community, LLC is not open to the general public. 
