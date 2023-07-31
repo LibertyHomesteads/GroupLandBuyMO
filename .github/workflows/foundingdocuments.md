@@ -322,7 +322,7 @@ In the event of LLC dissolution, the assets shall be distributed in accordance w
 
 1. **Voluntary Dissolution:** The LLC may be dissolved voluntarily with an affirmative or abstention vote from all Class A and Class B member interests minus a possible 5% of dissenting votes. Upon approval, the members shall proceed with the winding-up process in accordance with applicable Missouri state laws and this operating agreement. 
 
-2. **Involuntary Dissolution:** The LLC may be dissolved involuntarily under circumstances allowed by law, including but not limited to court order, bankruptcy, or loss of required licenses. In such cases, the dissolution shall be carried out in compliance with the applicable state laws governing LLC dissolution, and according to this operating agreement as is possible. 
+2. **Involuntary Dissolution:** The LLC may be dissolved involuntarily under circumstances allowed by law, including but not limited to court order, bankruptcy, or loss of required licenses. In such cases, the dissolution shall be carried out in compliance with the applicable state laws governing LLC dissolution, and according to this operating agreement as is possible. Please note that a member withdrawing from the LLC shall not automatically trigger a dissolution.  
 
 3. **Winding-Up Process:** Upon dissolution, the LLC shall immediately cease all business activities except those necessary for the winding-up process. The managers shall be responsible for liquidating the LLC's assets, satisfying its liabilities, and distributing the remaining assets to the members as outlined in this operating agreement.
 
