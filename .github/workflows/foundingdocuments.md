@@ -425,3 +425,6 @@ Land allocation rules - add to land use regulations
 Add a bunch of this stuff: https://www.hopb.co/sample-hoa-bylaws  
 Add requirement for yearly reporting of used motor oil and fuel storage to avoid violating EPA guidelines   
 Add requirement for water systems serving more than 15 connections or 25 people being required to meet EPA guidelines 
+Add requirement for using disclaimer for any property maps shown to potential members or even current members
+Clarify land provision, that it shall not cause any income tax liability for members, and also shall not violate missouri statute about corporations owning farmland (exemptions - non-farm purposes, must remain pro forma, can lease land to family homestead units) etc 
+Add requirement for septic system and graywater laws 
