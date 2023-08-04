@@ -97,7 +97,7 @@ The following procedures shall be followed when transferring ownership interest 
    2.3 - The board of managers will provide a standard Term Sheet and Purchase Agreement in coordination with the seller(s).   
    2.4 - Assuming payment is made, and the purchase agreement is signed, the board shall sign and issue a new Operating Agreement with the sole changes being the new ownership, and is hereby authorized to do so. The board shall issue and require the signing of any contribution document as required by this Operating Agreement and Missouri state statutes.   
    2.5 - Class A and B members will be notified; sale and other information will be recorded appropriately. Any government reporting requirements due to the new ownership will be complied with by the board of managers.     
-3. **Seed Investor Ownership Transfer:** When a non-member wishes to buy an ownership interest of the LLC as part of the pre-arranged seed investor interest sales outlined in Article IX: Seed Investor Ownership Interests, the following procedure shall be followed:  
+3. **Seed Investor Ownership Transfer:** When a non-member wishes to buy an ownership interest of the LLC as part of the pre-arranged Class A seed investor interest sales outlined in Article IX: Seed Investor Ownership Interests, the following procedure shall be followed:  
    3.1 - The offering buyer shall fill out a standard application provided by the board of managers.  
    3.2 - The application shall be sent to all members with Class A and B interests for review. As per the Share Transfer Restrictions, it is up to the board to approve with a 2/3 majority vote.  
    3.3 - The board of managers will provide a standard Term Sheet and Purchase Agreement in coordination with the seller(s).
@@ -154,14 +154,14 @@ The LLC shall follow this Action Plan during its initial period of formation:
 19. **Asignee contributions:** An assignee who has not become a member is still liable for any obligations of his assignor to make contributions, until such time as he transfers his share to another individual or entity, or is forced to transfer his share to another individual or entity as allowed in this Operating Agreement. Even if the asignee receives no other rights or benefits for his LLC interest, he is still obligated to contribute as per his interest.  
 20. **Contribution promises in writing:** To comply with MO Rev Stat § 347.099 (2019), all contributions listed above shall be detailed in this Article to be signed by all founding members, and any future operating budgets requiring contributions from members, assuming they have been properly ratified as per this Operating Agreement, shall be codified into this Article, but shall also be presented to all affected members to be signed.  
 
-### **Article VII: Seed Investor Ownership Interests**  
+### **Article VII: Class A Seed Investor Ownership Interests**  
 The Class A members shall have special considerations and obligations to sell part of their initial ownership interest. 
 1. **Desired Ending Interest:** The Class A members shall decide initially what their desired ending ownership interest shall be, and the percentage shall be expressed here in this Operating Agreement before the inception of the LLC. 
 2. **Funding Obligation for Common Elements:** 
 3. **Partial Share Sale Obligation:** 
 4. **Funds Management:** All funds from the sale of interest above the desired ending interest shall be deposited to the LLC's bank account. If any adjustment needs to be made, or commission paid to Class A members, this will be done within 30 days after the funds are received by the LLC. Class A members reserve the exclusive right to receive distributions of commissions based on the sale of their ownership interest above the desired ending interest. 
 5. **Penalty:**
-6. 
+6. **Class C Seed Investors:** It is noted that Class C members may join the LLC from the beginning and be considered a "seed investor," however, they shall receive none of the benefits or considerations that Class A seed investors will receive. 
 
 ### **Article VIII: Land Use Regulations**  
 1. The LLC shall implement and enforce a set of land use regulations, functioning as an HOA, to maintain an enjoyable and harmonious environment.  
