@@ -114,7 +114,11 @@ The following procedures shall be followed when transferring ownership interest 
     6.4 - The buyer will pay a fee of $100 to the LLC, to cover administration expenses regarding the transfer of ownership interest, and other overhead administration costs. The board of managers may waive this fee at their discretion if the circumstances warrant it.  
     6.5 - If the member being forced to sell refuses to sign the necessary paperwork to sell his share, the board of managers will take legal action against the member, forcing them to follow the Operating Agreement.  
     6.6 - Assuming payment is made, and the purchase agreement is signed, the board shall sign and issue a new Operating Agreement with the sole changes being the new ownership, and is hereby authorized to do so. The board shall issue and require the signing of any contribution document as required by this Operating Agreement and Missouri state statutes.  
-    6.7 - Class A and B members will be notified; sale and other information will be recorded appropriately. Any government reporting requirements due to the new ownership will be complied with by the board of managers.   
+    6.7 - Class A and B members will be notified; sale and other information will be recorded appropriately. Any government reporting requirements due to the new ownership will be complied with by the board of managers.  
+
+7. **Plat use compliance:** The LLC, due to not engaging in land sales, is not subject to MO Rev State § 89.450, however in order to ensure compliance with any technicalities of that or relating statues, shall not use any unapproved plat or map resembling a plat in its communication with current or potential LLC members, without including a disclaimer that such a map is not a recorded and approved plat nor is it being presented as a registered plat.  
+
+8. **Subvidision compliance:** In order to comply fully with MO Rev Stat § 71.270 (2021), the LLC is hereby forbidden from (1) subdividing land to sell individual lots via tenency-in-common, and (2) Recording any interior features of the property on the recorded plat in the county land authority.  
 
 ### **Article V: Plan of Action**  
 The LLC shall follow this Action Plan during its initial period of formation:   
