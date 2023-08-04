@@ -34,7 +34,7 @@ The jurisdiction of Homestead Community, LLC shall be in the State of Missouri, 
    3. Alexander Brown (treasurer) 
    4. Isabella Anderson (secretary)
 3. **Board Elections:** 60 days before the end of the board's term, elections shall be held. Class A and B members may vote, with a simple majority being necessary for a candidate to win. If no candidate in a given race achieves a simple majority, a run-off election will be held.
-4. **Manager Removal:** The board may remove a manager with a 3/4 majority vote, and may replace the manager for the remainder of that term with someone of their choosing. The Class A and B members may remove a manager with a vote of unanimity of their total interest minus a possible 5% dissenting votes, and in this case, the board will also replace that manager with someone of the board's choosing for the duration of the term. Class C members may not participate in any management decisions (unless one is appointed as a manager) and may not officially vote on any matter relating to the LLC. 
+4. **Manager Removal:** The board may remove a manager with a 3/4 majority vote, and may replace the manager for the remainder of that term with someone of their choosing. The Class A and B members may remove a manager with a vote of unanimity of their total interest minus a possible 5% dissenting votes, and in this case, the board will also replace that manager with someone of the board's choosing for the duration of the term. Class C members may not participate in any management decisions (unless one is appointed as a manager) and may not officially vote on any matter relating to the LLC. If a manager resigns during his term, the board may replace him with a manager of their choosing for the remainder of the term.  
 5. **Authorized Representative:** Both the president and vice president's signature, with either the secretary or treasurer signing in one but not both of their stead should one not be available, shall be required to sign all manner of legally binding contracts public and private, title deeds, sale contracts, or any other official document.
 6. **Legal Representation:** Either the president or the vice president's signature are necessary to take legal action on behalf of the LLC including filing lawsuits and other legal claims, defending against legal actions, retaining an attorney, settling cases, granting legal power of attorney, and any other legal representation that may be necessary for the smooth operation of the LLC.  
 7. **Checks and Payments:** Either the president or treasurer may sign checks or make online transfers from the LLC's bank account, and may request and receive payment for services, request invoices, make promises of payments, place orders with vendors and suppliers, hire contractors and contract jobs, rent equipment, take out insurance policies, etc. 
@@ -421,10 +421,10 @@ The following is a list of LLC members. The board of managers shall maintain a h
 
 Notes / need to add:    
  
-Land allocation rules - add to land use regulations
-Add a bunch of this stuff: https://www.hopb.co/sample-hoa-bylaws  
-Add requirement for yearly reporting of used motor oil and fuel storage to avoid violating EPA guidelines   
-Add requirement for water systems serving more than 15 connections or 25 people being required to meet EPA guidelines 
-Add requirement for using disclaimer for any property maps shown to potential members or even current members
-Clarify land provision, that it shall not cause any income tax liability for members, and also shall not violate missouri statute about corporations owning farmland (exemptions - non-farm purposes, must remain pro forma, can lease land to family homestead units) etc 
-Add requirement for septic system and graywater laws 
+* Land allocation rules - add to land use regulations
+* Add a bunch of this stuff: https://www.hopb.co/sample-hoa-bylaws  
+* Add requirement for yearly reporting of used motor oil and fuel storage to avoid violating EPA guidelines   
+* Add requirement for water systems serving more than 15 connections or 25 people being required to meet EPA guidelines 
+* Add requirement for using disclaimer for any property maps shown to potential members or even current members
+* Clarify land provision, that it shall not cause any income tax liability for members, and also shall not violate missouri statute about corporations owning farmland (exemptions - non-farm purposes, must remain pro forma, can lease land to family homestead units) etc 
+* Add requirement for septic system and graywater laws 
