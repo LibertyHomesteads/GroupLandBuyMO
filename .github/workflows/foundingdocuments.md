@@ -56,7 +56,8 @@ The jurisdiction of Homestead Community, LLC shall be in the State of Missouri, 
 15. **Member Class Voting Rights:** To decide any matter connected with the business or affairs of the limited liability company, including those listed in the previous clauses of this article, the Class C members shall have no vote, and the Class A and B shares shall each have a vote that is equal in power to their ownership interest divided by the total of all Class A and B interests. (e.g. if total Class A + B interest is 60%, a 10% Class A owner shall have approximately 16.67% of the total vote.)
 16. **No Contact Clause:** If a member with voting power does not respond to requests for a vote within 30 days, and has not legitimately assigned a proxy, his vote may be considered an abstention vote for the purposes of allowing a measure to pass. 
 17. **Voting by Proxy:** Proxies for voting in absence must be communicated to the Secretary before the start of a meeting in order to be valid, and must be written by the member or their power of attorney. Proxy notifications are valid for a maximum period of 11 months. Proxy revocations must be communicated to the Secretary before being considered valid.
-18. **Severability Clause:** In the event that any provision of this entire Operating Agreement, or the application thereof, becomes or is declared by a court of competent jurisdiction to be illegal, void or unenforceable, the remainder of this Agreement will continue in full force and effect and the application of such provision to other Persons or circumstances will be interpreted so as reasonably to effect the intent of the parties hereto. The parties further agree to replace such void or unenforceable provision of this Agreement with a valid and enforceable provision that will achieve, to the extent possible, the economic, business and other purposes of such void or unenforceable provision. 
+18. **Scope of Activities:** To maintain its status as a pro forma corporation serving its members as a private club organization, the LLC shall not carry out business activities to serve the general public. To ensure full compliance with Mo. Rev. Stat. §§ 350.010 to 350.040, the LLC is required to maintain its status as a pro forma corporation or association, per Mo. Rev. Stat. § 350.015(7), and as a non-agricultural corporation acquiring the land for immediate use in non-farming purposes (facilitating the various activities of the members' private organization), and a non-agricultural corporation leasing land to a family farm unit or family farm corporation (the members who reside on the land who may engage in such activities), per Mo. Rev. Stat. § 350.015(9). 
+19. **Severability Clause:** In the event that any provision of this entire Operating Agreement, or the application thereof, becomes or is declared by a court of competent jurisdiction to be illegal, void or unenforceable, the remainder of this Agreement will continue in full force and effect and the application of such provision to other Persons or circumstances will be interpreted so as reasonably to effect the intent of the parties hereto. The parties further agree to replace such void or unenforceable provision of this Agreement with a valid and enforceable provision that will achieve, to the extent possible, the economic, business and other purposes of such void or unenforceable provision. 
 
 ### **Article II: Member Interests**
 1. Homestead Community, LLC shall have three classes of interest: Class A, Class B, and Class C.  
@@ -243,7 +244,19 @@ The Class A members shall have special considerations and obligations to sell pa
       13.8 - **Enforcement and Penalties:**  
        - Violation of this Rental Policy may result in penalties, fines, or other enforcement actions, as outlined in the LLC's operating agreement.  
 
-14. **Enforcement and Mediation:**  
+14. **Septic and Graywater Compliance:**  
+    - Members must comply with all septic and graywater/blackwater regulations of the local county and of the Missouri State Dept. of Public Health, as well as the EPA. Any fine levied on the LLC because of non-compliance of that member shall be levied upon the member by the board of managers, with possible additional fines or disciplinary action.
+   
+15. **Volatile Liquids Storage Compliance:** 
+    - In order to comply with EPA regulations regarding storage of such volatile and/or toxic liquids including but not limited to used motor oil, vegetable oil, gasoline, and diesel fuel, the LLC board of managers shall each year at the end of the year, solicit from each member an estimate of the maximum quantity of such liquids he plans to store on the LLC's property.  
+    - The board will use this information to determine if a self-certified spill prevention plan is required by the EPA, and if so, will create such a plan and engage in any administrative actions necessary to ensure full compliance with the law.
+    - Members are required to furnish such information to the board of managers upon request.  
+
+16. **Water System Compliance:**  
+    - Any member, or the LLC as a whole, if they operate a water system that provides drinking water to more than 15 connections or more than 25 people, shall comply with all EPA monitoring and reporting requirements as well as any other legal requirements that may apply.
+    - Members operating a noncompliant system that receives a fine from the EPA or other governmental authority shall be required to pay the fine personally.   
+  
+17. **Enforcement and Mediation:**  
     - The LLC shall use a mediation-first approach to resolve disputes among members.  
     - Fines or penalties may be imposed for violations of the rules, with appropriate due process.  
     - The board of managers shall administer these judgments, and may skip steps if the severity of the infraction warrants it:   
@@ -425,12 +438,6 @@ The following is a list of LLC members. The board of managers shall maintain a h
 
 Notes / need to add:    
  
-* Land allocation rules - add to land use regulations
-* Add a bunch of this stuff: https://www.hopb.co/sample-hoa-bylaws  
-* Add requirement for yearly reporting of used motor oil and fuel storage to avoid violating EPA guidelines   
-* Add requirement for water systems serving more than 15 connections or 25 people being required to meet EPA guidelines 
-* Add requirement for using disclaimer for any property maps shown to potential members or even current members
-* Clarify land provision, that it shall not cause any income tax liability for members, and also shall not violate missouri statute about corporations owning farmland (exemptions - non-farm purposes, must remain pro forma, can lease land to family homestead units) etc 
-* Add requirement for septic system and graywater laws
-* Must continue to operate as a pro forma corporation for the purpose of serving the private club members, must not be used for doing business with the general public.  
-* Add regulation regarding plat representation and usage to cover Missouri statutes regarding subdivisions and plat representation  
+* Land allocation rules - add to land use regulations  
+* Add a bunch of this stuff: https://www.hopb.co/sample-hoa-bylaws   
+* Clarify land provision, that it shall not cause any income tax liability for members  
