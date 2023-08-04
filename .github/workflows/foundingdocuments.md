@@ -429,3 +429,4 @@ Notes / need to add:
 * Clarify land provision, that it shall not cause any income tax liability for members, and also shall not violate missouri statute about corporations owning farmland (exemptions - non-farm purposes, must remain pro forma, can lease land to family homestead units) etc 
 * Add requirement for septic system and graywater laws
 * Must continue to operate as a pro forma corporation for the purpose of serving the private club members, must not be used for doing business with the general public.  
+* Add regulation regarding plat representation and usage to cover Missouri statutes regarding subdivisions and plat representation  
