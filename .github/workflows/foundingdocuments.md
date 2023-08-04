@@ -449,7 +449,6 @@ The following is a list of LLC members. The board of managers shall maintain a h
 ***This LLC Operating Agreement shall forthwith govern the formation, operation, management, dissolution, and all other aspects of Homestead Community LLC, and shall be binding on all members. All members acknowledge and agree to abide by the terms and procedures set forth herein.*** 
 
 
-Notes / need to add:    
- 
-* Add a bunch of this stuff: https://www.hopb.co/sample-hoa-bylaws   
+Notes: 
+* Everything previously noted here has been added. 
  
