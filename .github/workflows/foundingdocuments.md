@@ -450,5 +450,8 @@ The following is a list of LLC members. The board of managers shall maintain a h
 
 
 Notes: 
-* Everything previously noted here has been added. 
+* Add state and federal tax information and requirements - 1065, K1, etc
+* Add a clause stating that all business expenses incl advertising and promotional costs are tax deductible 
+* Add capital contributions to the OA along with details of each item - description, value, date, depreciation, liabilities, etc
+  
  
