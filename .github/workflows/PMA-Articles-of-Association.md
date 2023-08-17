@@ -14,23 +14,16 @@
 *  Members waive right to protection under any and all anti-discrimination laws, becuase freedom of association is more important
 
 
-# Copypasta from Liberty Dollar 
-
-I hereby apply for Membership in Liberty Dollar Financial Association (hereinafter known as LDFA), a Private Membership Association. With the signing of this agreement I accept the offer made to become a Member and I express my agreement with the following Declaration and Memorandum of Understanding:
-
-DECLARATION
-
-    This Association of Members hereby declare that our primary purpose is to protect and maintain our right to freedom of choice regarding the conduct of business and management of our financial assets by asserting our constitutional, contractual, and civil rights under God, the Common Law and the Constitution of the United States of America.
-
-    As Members, we affirm our belief that the Constitution of the United States guarantees all Americans, particularly Members of Private Membership Associations, the right of freedom of association, speech, contract, assembly, belief, and associated activities, and that these are among our inalienable rights.
-
-    We declare and assert the right to select those whom we believe can be expected to give the wisest counsel and advice regarding those matters which form the basis of this Association and to authorize those Members who are most skilled to facilitate the actual performance and delivery of such relevant skills and services as they and we deem appropriate. We assert these rights under the Federal and State Constitutions, Federal and State law, the Common Law and the statutes and regulations interpreting them.
-
-    We claim our freedom to choose and accept for ourselves the types of tools and services provided by LDFA that we think might best benefit us in the pursuance of our goals. We do this in order that we might achieve specific outcomes which do not in any way impinge upon the rights, safety or well-being of the Public. We reserve the right to include traditional, non-traditional or even unconventional options as our Member Facilitators choose to deliver, subject always to our own individual acceptance and approval.
-
-    More specifically, our mission is to provide Members with the highest quality guidance, advice and tools to achieve such goals. We strive to stay on the leading edge of new and better methods, techniques and materiel.
-
-    This Association recognizes all Members, without respect to race, creed, philosophy or religion, who are in accordance with our principles and policies. Membership shall endure for the lifetime of this Association.
+# Article I. Declaration
+1. This Private Association of Members hereby declare that our primary purpose is to protect and maintain our right to freedom of choice regarding the conduct of business and management of our assets by asserting our constitutional, contractual, and civil rights under the Supreme Creator, the Common Law and the Constitution of the United States of America. 
+2. As Members, we affirm our belief that the Constitution of the United States guarantees all Americans, particularly Members of Private Membership Associations, the right of freedom of association, speech, contract, assembly, belief, and associated activities, and that these are among our inalienable rights.
+3. We declare and assert the right to select those whom we believe can be expected to give the wisest counsel and advice regarding those matters which form the basis of this Association and to authorize those Members who are most skilled to facilitate the actual performance and delivery of such relevant skills and services as they and we deem appropriate. We assert these rights under the Federal and State Constitutions, Federal and State law, the Common Law and the statutes and regulations interpreting them.
+4. We claim our freedom to choose and accept for ourselves the types of tools and services provided by RTTL that we think might best benefit us in the pursuance of our goals. We do this in order that we might achieve specific outcomes which do not in any way impinge upon the rights, safety or well-being of the Public. We reserve the right to include traditional, non-traditional or even unconventional options as our Member Facilitators choose to deliver, subject always to our own individual acceptance and approval.
+5. We claim our freedom to choose and accept for ourselves the types of tools and services provided by RTTL that we think might best benefit us in the pursuance of our goals. We do this in order that we might achieve specific outcomes which do not in any way impinge upon the rights, safety or well-being of the Public. We reserve the right to include traditional, non-traditional or even unconventional options as our Member Facilitators choose to deliver, subject always to our own individual acceptance and approval.
+6.  More specifically, our mission is to provide Members with the highest quality guidance, advice and tools to achieve such goals. We strive to stay on the leading edge of new and better methods, techniques and materiel.
+7.  This Association recognizes all Members, who are in accordance with our principles and policies. Membership shall endure for the lifetime of this Association unless revoked by the RTTL high council.
+ 
+    
 
 MEMORANDUM OF UNDERSTANDING
 
