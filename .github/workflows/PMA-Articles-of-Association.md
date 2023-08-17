@@ -27,12 +27,22 @@
 7.  This Association recognizes all Members, who are in accordance with our principles and policies. Membership shall endure for the lifetime of this Association unless revoked by the RTTL high council.
 
 ## Article II. Management 
-
-## Article III. Membership Interest and Dues 
+1. All Members of the Association vest the full management power of the Association in a Board of Trustees. The Board shall carry out the general operations of the Association, with the power to make all decisions except those specifically vested in the members elsewhere in these Articles of Association. 
+2. The Board of Trustees shall consist of 5 members: The President, the VicePresident, the Secretary, and the Treasurer, and the Member At Large. They shall fulfill the traditional roles of these positions.
+3. The board may replace a Trustee who resigns, becomes incapacitated, or shows serious negligence or failure in the ability to perform their duties, by a majority vote of the remaining board members. In the case of a tie, the Trustee shall be replaced. In the case of a tie vote when selecting a replacement, the board shall select a different replacement that can win a majority vote. 
+4. **Member Recall:** If 2/3 of the members of the Association vote to end the term of a Trustee, that Trustee's term shall therefore be ended, and the Board of Trustees shall select a suitable replacement.
+5. **Initial Board Members:**
+  * President:
+  * Vice President:
+  * Secretary:
+  * Treasurer:
+  * Member at Large:
+## Article III. Membership 
 Describe: How to apply, criteria, term, kicking out, benefits, dues, etc 
-* I understand that my Membership fee, if any, entitles me to receive those benefits declared by a Trustee to be general benefits, and that any further charges have been explained to me. I also agree to pay, as levied, for those benefits that I request and receive that are declared to be special assessments, as per a posted fee schedule.
+* I understand that my Membership fee, if any, entitles me to receive those benefits declared by the Board of Trustees to be general benefits, and that any further charges have been explained to me. I also agree to pay, as levied, for those benefits that I request and receive that are declared to be special assessments, as per a posted fee schedule.
 * The term of the Membership begins on the date upon which I create my Membership and continues until the dissolution of this Association. By creating my Membership and Account on the LDFA Website, I do certify, attest and warrant that I have carefully read this application for Membership and I fully understand and agree with all the provisions stated herein.
-
+* Tracking of members, pseudonymity, member data, systems for dealing with emails and communication, etc
+* 
 ## Article IV. Services and Products    
 1. Members of RTTL that provide services, products, or advice do so in the capacity of fellow Member Facilitators in a private manner and not in any public capacity. Within RTTL, no Public Doctor-Patient or Public Provider-Client relationships exist, nor do any Contractor-Client, Vendor-Client, Tenant-Landlord, Lesser-Lessee relationships or similar, unless a separate agreement is drafted between individuals or organizations specifically waiving this Article of these RTTL Articles of Association, and in that case such waiver shall only exist in that specific circumstance between those specific individuals/organizations.
 2. Within RTTL, the legal status of all members is changed from that of a Public Person to that of a Private Membership Association individual. In doing so, members relinquish certain Federal and State protections and privileges, and this is done with full knowledge and consent thereof.
@@ -46,3 +56,9 @@ Describe: How to apply, criteria, term, kicking out, benefits, dues, etc
 10. No member may join the Association whose purpose is to regulate or limit the practice of any professional service of any kind.
 
 
+# Article X. Amendments and Restatements 
+1. An amendment may be submitted by any member to all the members for their ratification. If the Association achieves ratification of three-fourths (3/4) of the members that existed at the time the amendment was first submitted, the amendment will become a part of the Articles of Association and be binding upon all members within one year of passing the amendment. 
+2. A restatement (defined as editing any existing text of the Articles of Association) may be submitted only by the Board of Trustees to all members for their ratification. If the Association achieves ratification of three-fourths (3/4) of the members that existed at the time the amendment was first submitted, the amendment will become a part of the Articles of Association and be binding upon all members within one year of passing the amendment. 
+3. The Membership Agreement and other documents may be amended or restated at any time by a majority vote of the Board of Trustees effective immediately, but is only binding to members who sign the new agreement. 
+
+# Article XI. Dissolution 
