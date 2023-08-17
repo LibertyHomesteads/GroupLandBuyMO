@@ -3,6 +3,10 @@
 ### Global Private Membership Association 
 *(Regional PMAs will be titled as such, so we will have RTTL GPMA and RTTL "name of region" RPMA, etc.)*
 
+### Notes: 
+* Add that the member has read and agrees to follow the Articles of Association 
+* The member waives rights to protection under any and all anti-discrimination laws, etc 
+
 # Copypasta'd from Liberty Dollar 
 
 I hereby apply for Membership in Liberty Dollar Financial Association (hereinafter known as LDFA), a Private Membership Association. With the signing of this agreement I accept the offer made to become a Member and I express my agreement with the following Declaration and Memorandum of Understanding:
