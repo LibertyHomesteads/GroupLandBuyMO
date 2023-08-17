@@ -10,7 +10,8 @@
 * Services and participation are limited to members only — and not open to the general public.
 * A Private Membership Association protects our freedom of choice and association as stated in the 1st and 14th Amendments of the U.S. Constitution.
 * You will be asked to review and sign a Membership Agreement. Membership dues are a legal requirement to join a Private Membership Association
-*  "We need to somehow convey in the outline of our society that standards are never to be lowered. That what makes this society different from all others is the fact that we, day after day, try to be the absolute best versions of ourselves for the benefit of our group and, hopefully, others. I know this might sound like a basic truism recited by kindergarteners as a "pledge" of some sort. No, this goes much deeper than that. It is the very foundation upon which our society is built and what ultimately sets us so far apart from others." 
+*  "We need to somehow convey in the outline of our society that standards are never to be lowered. That what makes this society different from all others is the fact that we, day after day, try to be the absolute best versions of ourselves for the benefit of our group and, hopefully, others. I know this might sound like a basic truism recited by kindergarteners as a "pledge" of some sort. No, this goes much deeper than that. It is the very foundation upon which our society is built and what ultimately sets us so far apart from others."
+*  Members waive right to protection under any and all anti-discrimination laws, becuase freedom of association is more important
 
 
 # Copypasta from Liberty Dollar 
