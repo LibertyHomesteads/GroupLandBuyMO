@@ -1,19 +1,12 @@
-# Return to the Land, PMA 
-## Private Membership Association 
-
+# Return to the Land 
+### Private Membership Association 
 # Articles of Association 
-
-
-
-### Notes: 
-
-*  
-
+  
+  
 # Preamble: Guiding Principles
 ### Community Vision: 
 ### Community Mission: 
 ### Community Goals: 
-
 # Article I. Declaration
 1. This Private Association of Members hereby declare that our primary purpose is to protect and maintain our right to freedom of choice regarding the conduct of business and management of our assets by asserting our constitutional, contractual, and civil rights under the Supreme Creator, the Common Law and the Constitution of the United States of America. 
 2. All Members affirm their belief that the Constitution of the United States guarantees all Americans, particularly Members of Private Membership Associations, the right of freedom of association, speech, contract, assembly, belief, and associated activities, and that these are among our inalienable rights.
