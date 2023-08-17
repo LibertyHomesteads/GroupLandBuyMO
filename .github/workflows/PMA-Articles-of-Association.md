@@ -7,9 +7,12 @@
 
 ### Notes: 
 
-*  "We need to somehow convey in the outline of our society that standards are never to be lowered. That what makes this society different from all others is the fact that we, day after day, try to be the absolute best versions of ourselves for the benefit of our group and, hopefully, others. I know this might sound like a basic truism recited by kindergarteners as a "pledge" of some sort. No, this goes much deeper than that. It is the very foundation upon which our society is built and what ultimately sets us so far apart from others."
-*  Email list with tier system - proposals vs votes vs announcements
+*  
 
+# Preamble: Guiding Principles
+### Community Vision: 
+### Community Mission: 
+### Community Goals: 
 
 # Article I. Declaration
 1. This Private Association of Members hereby declare that our primary purpose is to protect and maintain our right to freedom of choice regarding the conduct of business and management of our assets by asserting our constitutional, contractual, and civil rights under the Supreme Creator, the Common Law and the Constitution of the United States of America. 
@@ -47,7 +50,7 @@
 10. **Additional Fees:** The Association may offer additional products, advice, and services to Members and Member Associations at an additional cost.
 11. **Membership Term:** * The term of the Membership begins on the date upon which the Membership is formalized, and continues until its revocation or until the dissolution of this Association. All Members must certify as to their acceptance of the entirety of these Articles as well as the Member Agreement.
 12. **Privacy Policy:** Members have the option to register under pseudonyms or "usernames" with no special consideration or loss of rights aside from those already waived via these Articles and the Member Agreement. Member data shall not be shared with any government agency, nor stored beyond what is necessary for the normal record-keeping of the Association.
-13. **Communications:** The Secretary shall be responsible for maintaining appropriate systems to keep track of members, signing of agreements, standing in relation to the code of conduct, emails and other communications, official records relating to membership, and anything else reasonably considered to be related to these tasks. The Treasurer shall be responsible for billing and maintaining records of dues payments. 
+13. **Communications:** The Secretary shall be responsible for maintaining appropriate systems to keep track of members, signing of agreements, standing in relation to the code of conduct, emails and other communications, official records relating to membership, and anything else reasonably considered to be related to these tasks. The Treasurer shall be responsible for billing and maintaining records of dues payments. Furthermore, the Secretary shall be responsible with maintaining an email list system wherein each member can select a preference to receive proposals, votes/referendums, and announcements, to facilitate each member easily selecting their level of desired participation in the organization and reducing correspondence fatigue. 
 
 ## Article IV. Code of Conduct 
 1. All members of this Association must try to be the absolute best versions of themselves for the benefit of our Association. All Members must consistently strive for excellence and beauty in all things.
