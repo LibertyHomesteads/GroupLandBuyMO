@@ -6,12 +6,8 @@
 
 
 ### Notes: 
-* Products or services must be listed in this doc (for example, verification and vetting services, promotional services, etc)
-* Services and participation are limited to members only — and not open to the general public.
-* A Private Membership Association protects our freedom of choice and association as stated in the 1st and 14th Amendments of the U.S. Constitution.
-* You will be asked to review and sign a Membership Agreement. Membership dues are a legal requirement to join a Private Membership Association
+
 *  "We need to somehow convey in the outline of our society that standards are never to be lowered. That what makes this society different from all others is the fact that we, day after day, try to be the absolute best versions of ourselves for the benefit of our group and, hopefully, others. I know this might sound like a basic truism recited by kindergarteners as a "pledge" of some sort. No, this goes much deeper than that. It is the very foundation upon which our society is built and what ultimately sets us so far apart from others."
-*  Members waive right to protection under any and all anti-discrimination laws, becuase freedom of association is more important
 *  Include code of conduct and warning-first or mediation-first provisions
 *  King can be deposed by a fairly high percent vote of members (maybe 75%) but only his council can choose his replacement
 *  Email list with tier system - proposals vs votes vs announcements
@@ -19,17 +15,23 @@
 
 # Article I. Declaration
 1. This Private Association of Members hereby declare that our primary purpose is to protect and maintain our right to freedom of choice regarding the conduct of business and management of our assets by asserting our constitutional, contractual, and civil rights under the Supreme Creator, the Common Law and the Constitution of the United States of America. 
-2. As Members, we affirm our belief that the Constitution of the United States guarantees all Americans, particularly Members of Private Membership Associations, the right of freedom of association, speech, contract, assembly, belief, and associated activities, and that these are among our inalienable rights.
-3. We declare and assert the right to select those whom we believe can be expected to give the wisest counsel and advice regarding those matters which form the basis of this Association and to authorize those Members who are most skilled to facilitate the actual performance and delivery of such relevant skills and services as they and we deem appropriate. We assert these rights under the Federal and State Constitutions, Federal and State law, the Common Law and the statutes and regulations interpreting them.
-4. We claim our freedom to choose and accept for ourselves the types of tools and services provided by RTTL that we think might best benefit us in the pursuance of our goals. We do this in order that we might achieve specific outcomes which do not in any way impinge upon the rights, safety or well-being of the Public. We reserve the right to include traditional, non-traditional or even unconventional options as our Member Facilitators choose to deliver, subject always to our own individual acceptance and approval.
+2. All Members affirm their belief that the Constitution of the United States guarantees all Americans, particularly Members of Private Membership Associations, the right of freedom of association, speech, contract, assembly, belief, and associated activities, and that these are among our inalienable rights.
+3. All Members, as part of a constitutionally-protected Private Membership Association, affirm doubly the right of freedom of association, and hereby waive their rights to protection against discrimination for any reason under any anti-discrimination law, state, federal, or international, including but not limited to the Civil Rights Act of 1964 and the Fair Housing Act of 1968. All members of this Association understand that they may be discriminated against for any reason including that they may be a member of a protected class, and hereby waive their right to take legal action against this Association or its members, for exercising their constititutionally protected right to free association inside of an exclusive Private Membership Association that is not open to the general public. 
+4. We declare and assert the right to select those whom we believe can be expected to give the wisest counsel and advice regarding those matters which form the basis of this Association and to authorize those Members who are most skilled to facilitate the actual performance and delivery of such relevant skills and services as they and we deem appropriate. We assert these rights under the Federal and State Constitutions, Federal and State law, the Common Law and the statutes and regulations interpreting them.
 5. We claim our freedom to choose and accept for ourselves the types of tools and services provided by RTTL that we think might best benefit us in the pursuance of our goals. We do this in order that we might achieve specific outcomes which do not in any way impinge upon the rights, safety or well-being of the Public. We reserve the right to include traditional, non-traditional or even unconventional options as our Member Facilitators choose to deliver, subject always to our own individual acceptance and approval.
-6.  More specifically, our mission is to provide Members with the highest quality guidance, advice and tools to achieve such goals. We strive to stay on the leading edge of new and better methods, techniques and materiel.
-7.  This Association recognizes all Members, who are in accordance with our principles and policies. Membership shall endure for the lifetime of this Association unless revoked by the RTTL high council.
+6. We claim our freedom to choose and accept for ourselves the types of tools and services provided by RTTL that we think might best benefit us in the pursuance of our goals. We do this in order that we might achieve specific outcomes which do not in any way impinge upon the rights, safety or well-being of the Public. We reserve the right to include traditional, non-traditional or even unconventional options as our Member Facilitators choose to deliver, subject always to our own individual acceptance and approval.
+7.  This Association recognizes all Members who are in accordance with our principles and policies. Membership shall endure for the lifetime of this Association unless revoked by the RTTL high council.
+
+## Article II. Role 
+1. The role of this Association, in addition to providing services and benefits to its Members, shall be that of a global umbrella association to guide the other RTTL regional Associations in carrying out our shared vision, mission, and goals.
+2. The Association may provide various products and services, such as member acceptance and vetting, consulting, document templates, promotional materials, etc to the Member Regional Associations to help carry out our shared vision, mission, and goals.
+3. Participation in this Association, and services and benefits from this Association, are limited to members only. It is not open to the general public.
+4. A Private Membership Association protects the freedom of choice and association of its Members as stated in the 1st and 14th Amendments of the U.S. Constitution. 
 
 ## Article II. Management 
-1. All Members of the Association vest the full management power of the Association in a Board of Trustees. The Board shall carry out the general operations of the Association, with the power to make all decisions except those specifically vested in the members elsewhere in these Articles of Association. 
-2. The Board of Trustees shall consist of 5 members: The President, the VicePresident, the Secretary, and the Treasurer, and the Member At Large. They shall fulfill the traditional roles of these positions.
-3. The board may replace a Trustee who resigns, becomes incapacitated, or shows serious negligence or failure in the ability to perform their duties, by a majority vote of the remaining board members. In the case of a tie, the Trustee shall be replaced. In the case of a tie vote when selecting a replacement, the board shall select a different replacement that can win a majority vote. 
+1. **Vested Management Powers:** All Members of the Association vest the full management power of the Association in a Board of Trustees. The Board shall carry out the general operations of the Association, with the power to make all decisions except those specifically vested in the members elsewhere in these Articles of Association. 
+2. **Board of Trustees:** The Board of Trustees shall consist of 5 members: The President, the Vice President, the Secretary, and the Treasurer, and the Member At Large. They shall fulfill the traditional roles of these positions, including any tasks or roles indicated elsewhere in these Articles. Their terms shall be indefinite unless they resign, are recalled, or are replaced. 
+3. **Replacement of Trustees:** The board may replace a Trustee who resigns, becomes incapacitated, or shows serious negligence or failure in the ability to perform their duties, by a majority vote of the remaining board members. In the case of a tie, the Trustee shall be replaced. In the case of a tie vote when selecting a replacement, the board shall select a different replacement that can win a majority vote. 
 4. **Member Recall:** If 2/3 of the members of the Association vote to end the term of a Trustee, that Trustee's term shall therefore be ended, and the Board of Trustees shall select a suitable replacement.
 5. **Initial Board Members:**
   * President:
@@ -38,12 +40,20 @@
   * Treasurer:
   * Member at Large:
 ## Article III. Membership 
-Describe: How to apply, criteria, term, kicking out, benefits, dues, etc 
-* I understand that my Membership fee, if any, entitles me to receive those benefits declared by the Board of Trustees to be general benefits, and that any further charges have been explained to me. I also agree to pay, as levied, for those benefits that I request and receive that are declared to be special assessments, as per a posted fee schedule.
-* The term of the Membership begins on the date upon which I create my Membership and continues until the dissolution of this Association. By creating my Membership and Account on the LDFA Website, I do certify, attest and warrant that I have carefully read this application for Membership and I fully understand and agree with all the provisions stated herein.
-* Tracking of members, pseudonymity, member data, systems for dealing with emails and communication, etc
-* 
-## Article IV. Services and Products    
+1. **New Members:** To join, Members must apply, be accepted by a majority vote of the Board of Trustees or their delegates, review and sign a Membership Agreement, and must also review these Articles of Association. Exclusive and limiting criteria for new members shall be established by the Board of Trustees at their discretion in a formal document. 
+3. **Individual Dues and Term:** New individual members must pay a $25 fee for membership in the Association, which is valid until death or until revocation by the Board of Trustees. Dues are non-refundable. Membership dues are a legal requirement to join a Private Membership Association.
+5. **Association Dues and Term:** New Association members (for example, regional RTTL PMAs or group land buy LLCs) must pay a first-time fee of $100 to join, and a yearly fee of $50 (starting the second year). Membership continues until the fee is not paid or the membership is revoked by the Board of Trustees of this Association.
+7. **Due Payments:** All dues payments shall be made per the instructions of the Treasurer of this association, or per those of his delegate. 
+8. **Expulsion:** Any member may be expelled via a majority vote of the Board of Trustees, for violating the code of conduct. Minor infractions shall require a formal warning first, and grievious infractions shall not.
+9. **Benefits:** From this organization, members may be selected to join RTTL Regional PMAs or other such affiliated Member Associations.
+10. **Additional Fees:** The Association may offer additional products, advice, and services to Members and Member Associations at an additional cost.
+11. **Membership Term:** * The term of the Membership begins on the date upon which the Membership is formalized, and continues until its revocation or until the dissolution of this Association. All Members must certify as to their acceptance of the entirety of these Articles as well as the Member Agreement.
+12. **Privacy Policy:** Members have the option to register under pseudonyms or "usernames" with no special consideration or loss of rights aside from those already waived via these Articles and the Member Agreement. Member data shall not be shared with any government agency, nor stored beyond what is necessary for the normal record-keeping of the Association.
+13. **Communications:** The Secretary shall be in charge of maintaining appropriate systems to keep track of members, signing of agreements, dues payments, standing, emails and other communications, official records relating to membership, and anything else reasonably considered to be related to these tasks. 
+
+## Article IV. Code of Conduct 
+
+## Article V. Services and Products    
 1. Members of RTTL that provide services, products, or advice do so in the capacity of fellow Member Facilitators in a private manner and not in any public capacity. Within RTTL, no Public Doctor-Patient or Public Provider-Client relationships exist, nor do any Contractor-Client, Vendor-Client, Tenant-Landlord, Lesser-Lessee relationships or similar, unless a separate agreement is drafted between individuals or organizations specifically waiving this Article of these RTTL Articles of Association, and in that case such waiver shall only exist in that specific circumstance between those specific individuals/organizations.
 2. Within RTTL, the legal status of all members is changed from that of a Public Person to that of a Private Membership Association individual. In doing so, members relinquish certain Federal and State protections and privileges, and this is done with full knowledge and consent thereof.
 3. The facilitators and other providers, who are fellow Members, offer advice, products, services, and benefits that are not necessarily conventional or traditional.
@@ -56,9 +66,9 @@ Describe: How to apply, criteria, term, kicking out, benefits, dues, etc
 10. No member may join the Association whose purpose is to regulate or limit the practice of any professional service of any kind.
 
 
-# Article X. Amendments and Restatements 
+# Article VI. Amendments and Restatements 
 1. An amendment may be submitted by any member to all the members for their ratification. If the Association achieves ratification of three-fourths (3/4) of the members that existed at the time the amendment was first submitted, the amendment will become a part of the Articles of Association and be binding upon all members within one year of passing the amendment. 
 2. A restatement (defined as editing any existing text of the Articles of Association) may be submitted only by the Board of Trustees to all members for their ratification. If the Association achieves ratification of three-fourths (3/4) of the members that existed at the time the amendment was first submitted, the amendment will become a part of the Articles of Association and be binding upon all members within one year of passing the amendment. 
 3. The Membership Agreement and other documents may be amended or restated at any time by a majority vote of the Board of Trustees effective immediately, but is only binding to members who sign the new agreement. 
 
-# Article XI. Dissolution 
+# Article VII. Dissolution 
