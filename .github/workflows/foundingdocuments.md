@@ -30,10 +30,10 @@ The jurisdiction of Homestead Community, LLC shall be in the State of Missouri, 
 **FEIN:** 12-1234567  
 **NAICS code:** 53131   
 **LLC Effective Date:** September 11, 2023  
-**Business email:** homesteadcommunity@email.com
+**Business email:** homesteadcommunity@email.com  
 **Address:** 111 Long Rd, Thayer MO 65791  
 **Business Phone:** +1 (111) 555-1212  
-  
+   
 **Registered agent:**  
 John Smith
 111 Main St, Thayer, Missouri 65791
