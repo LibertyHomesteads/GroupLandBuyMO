@@ -25,7 +25,21 @@ The members of Homestead Community, LLC shall vest its management powers in a bo
 The jurisdiction of Homestead Community, LLC shall be in the State of Missouri, and it shall abide by all applicable laws and regulations.
 
 ## LLC Operating Agreement
-
+### Homestead Community, LLC 
+  
+**FEIN:** 12-1234567  
+**NAICS code:** 53131   
+**LLC Effective Date:** September 11, 2023  
+**Business email:** homesteadcommunity@email.com
+**Address:** 111 Long Rd, Thayer MO 65791  
+**Business Phone:** +1 (111) 555-1212  
+  
+**Registered agent:**  
+John Smith
+111 Main St, Thayer, Missouri 65791
++1 (111) 555 1212  
+john.smith@email.com    
+  
 ### **Article I: Management and Voting**
 1. **Management Power:** The management of Homestead Community, LLC shall be vested in the board of managers, consisting of a president, vice president, treasurer, and secretary.
 2. **Initial Managers:** The board shall consist of four members who will be appointed for a management period of two years each. The initial managers of the LLC and their positions are as follows:
@@ -83,7 +97,7 @@ The jurisdiction of Homestead Community, LLC shall be in the State of Missouri, 
   10.6. **Class C Seed Investors:** It is noted that Class C members may join the LLC from the beginning and be considered a "seed investor," however, they shall receive none of the benefits or considerations that Class A seed investors will receive. 
 
 ### **Article III: Share Transfer Restrictions**
-1. **New member approval:** Any new members must be approved by the board of managers with a 2/3 vote, or they are prohibited from becoming a member. The board must use exclusive and specific criteria, and membership in Homestead Community, LLC is not open to the general public. Individuals or legal entities who become asignees due to matters of litigation, death, or dissolution, may not become members unless approved by the board of managers, and may be obligated to transfer their interest and withdraw from the LLC.  
+1. **New member approval:** Any new members must be approved by the board of managers with a 2/3 vote, or they are prohibited from becoming a member. The board must use exclusive and specific criteria, and membership in Homestead Community, LLC is not open to the general public. Individuals or legal entities who become asignees due to matters of litigation, death, or dissolution, may not become members unless approved by the board of managers, and may be obligated to transfer their interest or assigneeship and withdraw from the LLC. Any new members must previously be members of the "Return To The Land" private membership association, or equivalent affiliated regional subgroup.  
 2. **Right of first refusal:** Members may not transfer their shares without first offering them to the LLC or other shareholders with a right of first refusal. The LLC or other members shall have 30 days to accept or decline the offer.  
 3. **Forced transfer with mandated owner financing:** In the event a members's interest is subject to forced buy-out due to extreme circumstances requiring unanimity (minus 5% possible allowable dissent) among the board or members, or due to the interest being seized by a creditor or transferred to a heir or ex-spouse etc, the LLC may offer the shareholder an option of owner financing through a promissory note, and the shareholder must accept provided the offer is reasonable and follows the operating agreement.  
 4. **Value determination:** The forced buy-out value shall be the original investment adjusted for inflation, plus the appraised value of any improvements to the member's leased land, minus any liabilities or debts the owners has to the LLC or that are present on the leased land.
