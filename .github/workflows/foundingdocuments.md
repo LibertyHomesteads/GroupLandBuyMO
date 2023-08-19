@@ -35,8 +35,8 @@ The jurisdiction of Homestead Community, LLC shall be in the State of Missouri, 
 **Business Phone:** +1 (111) 555-1212  
    
 **Registered agent:**  
-John Smith
-111 Main St, Thayer, Missouri 65791
+John Smith  
+111 Main St, Thayer, Missouri 65791  
 +1 (111) 555 1212  
 john.smith@email.com    
   
