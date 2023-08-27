@@ -467,6 +467,8 @@ Notes:
 * Add state and federal tax information and requirements - 1065, K1, etc
 * Add a clause stating that all business expenses incl advertising and promotional costs are tax deductible 
 * Add capital contributions to the OA along with details of each item - description, value, date, depreciation, liabilities, etc
+* Add clause mentioning sweat equity or other types of equity as initial capital contribution, how it is done, pledge, what happens if not paid back, etc 
  * add waiver of any adverse possession right
  * add option for death to assign a person to represent them and use their rights etc
+ * limit on loans to not make negative equity 
  
