@@ -105,7 +105,7 @@ john.smith@email.com
 6. **Class A transference of seed investor obligations:** A Class A interest, if it is sold, is transferred along with its existing forced sale obligations under Article VI. The Board of Managers must duly inform the buyer of this interest of such obligation.
 7. A Class A member, for the sake of simplicity, may not sell just the percentage of his ownership that is considered as tied to the obligations under Article VI, unless authorized and approved by a 3/4 vote of the board of managers, with a written plan from the board regarding how to rectify the considerations of Article VI as applied to the interest being transferred.
 8. A Class A member, if he sells his "Desired Ending Interest" that is considered as being tied to and therefore granting his land usage allocation benefits, and retains his "excess interested" that is obligated for sale under Article VI, still has the sale obligation under Article VI and will not be compensated as it is sold to fund his required IDB contribution, except in such case where his contribution is already met and additional funds are then owed to the Class A member.
-9. **Effect of death or incompetence of member, assignability of interest** - If a member who is an individual dies or a court of competent jurisdiction judges the member to be incompetent to manage his or her person or property, the member's executor, administrator, guardian, conservator, or other legal representative shall not have any power the member had to give his assignee the right to become a member, and shall have none of the rights of an assignee of the member's interest. Instead, the board of managers shall select a new assignee to take on those rights until such time as the ownership interest of the deceased or incompetent is transferred to a member whom the board of directors approve. The managers via a 3/4 vote may decide to obligate the sale of the interest of the deceased or incompetent individual, with a fair price determined as already specified in this Article.  
+9. **Effect of death or incompetence of member, assignability of interest** - If a member who is an individual dies or a court of competent jurisdiction judges the member to be incompetent to manage his or her person or property, the member's executor, administrator, guardian, conservator, or other legal representative shall not have any power the member had to give his assignee the right to become a member, and shall have none of the rights of an assignee of the member's interest. Instead, the board of managers shall select a new assignee to take on those rights until such time as the ownership interest of the deceased or incompetent is transferred to a member whom the board of directors approve. The managers via a 3/4 vote may decide to obligate the sale of the interest of the deceased or incompetent individual, with a fair price determined as already specified in this Article. Any member may exempt the heir(s) of their estate from this clause if they provide a letter to the Secretary assigning a heir, in which case the board must approve this individual before the exemption shall be considered valid. If the board approves, the individual shall receive all aforementioned rights upon the death of the member, notwithholding that probate law may require the actual ownership interest be in the name of another individual, who might not be approved by the Board and therefore shall not receive any of the aforementioned rights and benefits. 
 10. **Business organization as member, dissolution and subsequent assignability of interest** - If a member is a corporation, partnership, limited liability company, trust or other entity and is dissolved or terminated, its legal representative or successor shall not have any power the member had to give his assignee the right to become a member and shall have none of the rights of an assignee of the member's interest. Instead, the board of managers shall select a new assignee to take on those rights until such time as the ownership interest of the former entity is transferred to a member whom the board of directors approve. The managers via a 3/4 vote may decide to obligate the sale of the interest of the former entity, with a fair price determined as already specified in this Article.
 
 ### **Article IV: Buy/Sell Agreement**
@@ -167,7 +167,7 @@ The LLC shall follow this Action Plan during its initial period of formation:
 1. **Common elements:** The LLC shall establish common elements for the benefit of all members, including a community hub area with well, septic system, electric connection, workshop, RV hookup, driveways, perimeter fence, and administrative infrastructure.
 2. The Board of managers have the power to manage, control and restrict the use of the common elements of the community and the conduct of the members and their guests by adopting and publishing rules and regulations, and establishing monetary penalties to enforce any lack of compliance. The board also has the right to suspend a member's right to use the common elements if a member is in default of any assessment payment due and owing to the LLC, or for lack of compliance with the board of manager's published rules and regulations, or those in the Operating Agreement. 
 3. **Other common expenses:** The LLC will be responsible for various common expenses such as property taxes, administration costs, and legal costs, as described in their operating budget.   
-4. **Contributions:** The common interests will be funded by contributions from members according to their percent of ownership interest.  
+4. **Contributions:** The common interests will be funded by contributions from members according to their percent of ownership interest, and these shall be considered obligatory if approved according to this Operating Agreement.  
 5. **Financial Obligation:** All members are financially responsible to contribute what is necessary, according to their ownership interest, to maintain the perfect operation of common elements, pay property taxes, meet all legal and administrative requirements of ongoing operations of the LLC and its assets, etc.  
 6. **Initial Budget and Seed Budget:** The founding members wil pass an initial development budget (IDB), and a tentative operating budget for the years after, which will be reviewed when necessary. Of the IDB, a small portion of initial costs will be identified as urgent, and referred to as the Seed Development Budget, or "SDB." So, the SDB is a part of the IDB. (For an example, we will use a land cost of $200k, IDB of $100k, and SDB of $20k.)  
 7. **Total Projected Initial Investment:** The "total projected initial investment" (TPII) will be the cost of the land that is purchased as per Article V, plus the budget expenditures in the initial development budget. (e.g. Land cost + IDB = TPII. In our previous example, $200k land + $100k IDB = $300k Total Projected Initial Investment.)  
@@ -310,6 +310,10 @@ The LLC shall follow this Action Plan during its initial period of formation:
 5. **Method of Distribution:**
    Profit and loss distributions shall be made in accordance with the LLC's operating procedures and the preferences of the members. Distributions may be made in cash, property, or other assets as deemed appropriate by the LLC management.
 
+6. **Tax Compliance**
+   * The Board of Managers, and specifically the Treasurer, with secondary responsibility to the Secretary, shall be responsible for the following: Annually filing an IRS form 1065, and annually issuing an IRS form K-1 to each member. Furthermore, they shall be responsible for complying with any state income tax obligations, any local and/or property tax obligations, and any other tax obligations that may arise.
+   * It shall be noted that for the purposes of any tax regulation requiring such declaration; the LLC may consider any advertising, promotion, or related expenses to be tax-deductible. 
+
 
 ### **Article X: Code of Conduct**  
 1. The LLC shall adhere to a Code of Conduct to maintain a harmonious and productive community. Disruptive behaviors, including concern controlling, compulsive lying, and purity spiraling, are strictly disallowed.  
@@ -425,50 +429,64 @@ The following is a list of LLC members. The board of managers shall maintain a h
 
 1. **Nobleman Share (Founder):**
    - Name: John Smith
-   - Share Percentage: 25%
+   - Membership interest: 40%
+   - Capital Contribution: $50k cash, $5k in pledged sweat equity, $200 in realized sweat equity
+   - Desired Ending Interest: 10%  
 
 2. **Nobleman Share (Founder):**
    - Name: William Johnson
-   - Share Percentage: 25%
+   - Membership interest: 25%
+   - Capital Contribution: $30k cash, $2k in pledged equipment rental
+   - Desired Ending Interest: 15% 
 
 3. **Yeoman Share:**
    - Name: Alexander Müller
-   - Share Percentage: 15%
+   - Membership interest: 10%
+   - Capital Contribution: $10k cash
 
 4. **Yeoman Share:**
    - Name: Sofia Rossi
-   - Share Percentage: 15%
-
+   - Membership interest: 10%
+   - Capital Contribution: $10k cash, $2k in pledged sweat equity 
+     
 5. **Yeoman Share:**
    - Name: Henri Leblanc
-   - Share Percentage: 10%
-
+   - Membership interest: 10%
+   - Capital Contribution: $10k cash, $2k in pledged sweat equity
+    
 6. **Peasant Share:**
    - Name: Marta Kowalski
-   - Share Percentage: 2.5%
-
+   - Membership interest: 2%
+   - Capital Contribution: $1k in pledged equipment rental, $500 in pledged sweat equity
+     
 7. **Peasant Share:**
    - Name: Erik Andersen
-   - Share Percentage: 2.5%
-
+   - Membership interest: 1%
+   - Capital Contribution: $1k cash
+    
 8. **Peasant Share:**
    - Name: Isabella Ivanova
-   - Share Percentage: 2.5%
-
+   - Membership interest: 1%
+   - Capital Contribution: $1k cash
+     
 9. **Peasant Share:**
    - Name: Michael Ferreira
-   - Share Percentage: 2.5%
+   - Membership interest: 1%
+   - Capital Contribution: $500 cash
 
 ### **Article XVIII: Ratification**  
 ***This LLC Operating Agreement shall forthwith govern the formation, operation, management, dissolution, and all other aspects of Homestead Community LLC, and shall be binding on all members. All members acknowledge and agree to abide by the terms and procedures set forth herein.*** 
 
 
-Notes: 
-* Add state and federal tax information and requirements - 1065, K1, etc
-* Add a clause stating that all business expenses incl advertising and promotional costs are tax deductible 
+#### Notes: 
 * Add capital contributions to the OA along with details of each item - description, value, date, depreciation, liabilities, etc
 * Add clause mentioning sweat equity or other types of equity as initial capital contribution, how it is done, pledge, what happens if not paid back, etc 
  * add waiver of any adverse possession right
- * add option for death to assign a person to represent them and use their rights etc
- * limit on loans to not make negative equity 
- 
+
+ * limit on loans to not make negative equity
+
+#### Added (to notify: 
+  * Option in case of death of an LLC member, to assign a person to represent them and receive their rights/benefits; this person must be approved by the board.
+  * Added a clause requiring the Treasurer and Secretary to comply with certain tax compliance obligations (such as IRS 1065 and K-1, making sure property taxes are paid, etc.)
+  * A clause allowing advertising and promotion expenses to be tax-deductible (apparently this may be required to be stated in an LLC operating agreement in order to be the case, if the IRS ever decides to audit)
+  * 
