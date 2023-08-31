@@ -8,7 +8,7 @@
 The name of the Limited Liability Company is Homestead Community, LLC.
 
 ### **Article II: Duration**
-The duration of the LLC shall be perpetual.
+The duration of the LLC shall be perpetual. 
 
 ### **Article III: Purpose**
 The primary purpose of Homestead Community, LLC is to operate as a private club organization formed by its members, and facilitate their ability to homestead and engage in agricultural activities in a natural environment. 
@@ -95,7 +95,15 @@ john.smith@email.com
   10.3. **Partial Share Sale Obligation:** All Class A members are hereby obligated to sell all of their ownership interest to new members as approved by the board of managers, and this sale will be automatic, with percentage distribution and funds distribution calculated by the board of managers as determined elsewhere in this Operating Agreement. The board of managers may carry out these share sales without the express approval of the Class A members, as their approval has already been obtained via this clause.  
   10.4. **Funds Management:** All funds from the sale of interest above the desired ending interest shall be deposited to the LLC's bank account. If any adjustment needs to be made, or commission paid to Class A members, this will be done within 30 days after the funds are received by the LLC. Class A members reserve the exclusive right to receive distributions of commissions based on the sale of their ownership interest above the desired ending interest.  
   10.5. **Penalty:** A Class A member who attempts to refuse compliance with the partial share sale obligation may receive monetary fines, forced buyout, legal action, or all of the above, at the discretion of the board of managers.  
-  10.6. **Class C Seed Investors:** It is noted that Class C members may join the LLC from the beginning and be considered a "seed investor," however, they shall receive none of the benefits or considerations that Class A seed investors will receive.  
+  10.6. **Class C Seed Investors:** It is noted that Class C members may join the LLC from the beginning and be considered a "seed investor," however, they shall receive none of the benefits or considerations that Class A seed investors will receive.
+11. **Alternative Capital Contributions:** Class A Seed investors shall have the opportunity to provide some or all of their capital contribution in the form of sweat equity, equipment, or other assets. The following restrictions shall apply:  
+    11.1. **Approval:** The board must approve any requests to contribute capital in a form other than USD.  
+    11.2. **Necessity:** The contribution must be a part of the approved budget for the LLC, specifically the initially passed PDB and/or IDB, as referenced elsewhere in this Operating Agreement.  
+    11.3. **Classification:** The board must obtain all necessary information on the alternative capital contribution, including considerations such as liability and depreciation if it is physical equipment or materials, and specify this information in the list of members and capital contributions in this Operating Agreement.  
+    11.4. **Likelihood of Compliance:** In the case of sweat equity, or promised future equipment rentals, or other undelivered assets promised in the future, not only must the board assign a value to that labor or contribution and determine if it is included in the budget, but the board must also consider the likelihood that the individual will actually contribute such equity as promised, and in cases where the board perceives that there is a 25% or greater chance that they will not, the board must decline to allow that contribution. A time limit must be specified for future sweat equity and other forms of contribution that will be contributed in the future.   
+    11.5 **Finality:** Capital contributions determined for Class A seed investors at the formation of the LLC are final, and after that point all new capital contributions must be in cash, unless the board sees sufficient justification to make a special exception, and said exception is part of the approved budget.  
+    11.6 **Taxation:** If payroll or other tax obligations shall be incurred on sweat equity, it is the responsibility of the board to ensure the compliance of the LLC.  
+    11.7 **Inability to Contribute:** If a member is unable to contribute a promised value of equity by the date specified, the Board may enact penalties, including forcing them to sell membership interest, even if that results in the member's share class changing from Class A to Class C. The board may also levy a fine on the member to cover the administrative burden.  
 
 ### **Article III: Share Transfer Restrictions**
 1. **New member approval:** Any new members must be approved by the board of managers with a 2/3 vote, or they are prohibited from becoming a member. The board must use exclusive and specific criteria, and membership in Homestead Community, LLC is not open to the general public. Individuals or legal entities who become asignees due to matters of litigation, death, or dissolution, may not become members unless approved by the board of managers, and may be obligated to transfer their interest or assigneeship and withdraw from the LLC. Any new members must previously be members of the "Return To The Land" private membership association, or equivalent affiliated regional subgroup.  
@@ -481,7 +489,7 @@ The following is a list of LLC members. The board of managers shall maintain a h
 
 
 #### Notes: 
-* Add clause mentioning sweat equity or other types of equity as initial capital contribution, how it is done, pledge, what happens if not paid back, etc 
+
 
 #### Added (to notify: 
   * Option in case of death of an LLC member, to assign a person to represent them and receive their rights/benefits; this person must be approved by the board.
@@ -490,3 +498,4 @@ The following is a list of LLC members. The board of managers shall maintain a h
   * Requiring that capital contributions list include more pertinent details such as form, amount, date, liabilities, depreciation, etc.
   * Added a clause requiring all members to waive their right to obtain titles for any portion of the LLC's land via adverse possession or other types of "squatter's law"
   * Added a clause prohibiting board members from taking on liabilities that result in negative equity for the LLC, or that result in the total liabilities being more than 25% of the total assets
+  * Added a clause allowing sweat equity or other forms of assets to be used as an initial capital contribution in the LLC, and specifying regulations. 
