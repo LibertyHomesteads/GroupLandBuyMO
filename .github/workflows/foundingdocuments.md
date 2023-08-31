@@ -49,26 +49,27 @@ john.smith@email.com
    4. Isabella Anderson (secretary)
 3. **Board Elections:** 60 days before the end of the board's term, elections shall be held. Class A and B members may vote, with a simple majority being necessary for a candidate to win. If no candidate in a given race achieves a simple majority, a run-off election will be held.
 4. **Manager Removal:** The board may remove a manager with a 3/4 majority vote, and may replace the manager for the remainder of that term with someone of their choosing. The Class A and B members may remove a manager with a vote of unanimity of their total interest minus a possible 5% dissenting votes, and in this case, the board will also replace that manager with someone of the board's choosing for the duration of the term. Class C members may not participate in any management decisions (unless one is appointed as a manager) and may not officially vote on any matter relating to the LLC. If a manager resigns during his term, the board may replace him with a manager of their choosing for the remainder of the term.  
-5. **Authorized Representative:** Either the president and vice president's signature shall be required to sign all manner of legally binding contracts public and private, title deeds, sale contracts, or any other official document, including the opening of bank accounts in the name of the LLC.
+5. **Authorized Representative:** Either the president and vice president's signature shall be required to sign all manner of legally binding contracts public and private, title deeds, sale contracts, or any other official document, including the opening of bank accounts in the name of the LLC. 
 6. **Legal Representation:** Either the president or the vice president's signature are necessary to take legal action on behalf of the LLC including filing lawsuits and other legal claims, defending against legal actions, retaining an attorney, settling cases, granting legal power of attorney, and any other legal representation that may be necessary for the smooth operation of the LLC.  
-7. **Checks and Payments:** Either the president or treasurer may sign checks or make online transfers from the LLC's bank account, and may request and receive payment for services, request invoices, make promises of payments, place orders with vendors and suppliers, hire contractors and contract jobs, rent equipment, take out insurance policies, etc. 
-8. **Sale of real estate:** For the sale of real estate, the president's signature is required, and it must be authorized by the totality of Class A and B shareholders minus a possible maximum of 5% of dissent of their total interest. 
-9. **Sale of Moveable Assets:** For the sale of vehicles or other titled and valuable equipment, the president or vice president's signature is required, and it must be authorized by a 2/3 vote of the board of managers. For any non-titled or less valuable assets, any manager is authorized to dispose of, sell, or otherwise administer on behalf of the LLC. 
-10. **Voting Rights:** Class A and Class B members shall have voting rights, with voting power proportionate to their respective share size. Class C members shall not have voting rights.
-11. **Electronic Signatures:** All members shall be required to maintain and use an electronic signature for remote document signatures, proxies, and other official LLC business.
-12. **Vote Requirements:** A 2/3 vote of the board of managers shall be required for the following:  
+7. **Checks and Payments:** Either the president or treasurer may sign checks or make online transfers from the LLC's bank account, and may request and receive payment for services, request invoices, make promises of payments, place orders with vendors and suppliers, hire contractors and contract jobs, rent equipment, take out insurance policies, etc.
+8. **Loan Limitations:** The Board of Managers are prohibited from taking out loans or other forms of financing that cause the LLC to have negative equity, or that result in total liabilities that are valued at more than 25% of the value of the LLC's assets. 
+9. **Sale of real estate:** For the sale of real estate, the president's signature is required, and it must be authorized by the totality of Class A and B shareholders minus a possible maximum of 5% of dissent of their total interest. 
+10. **Sale of Moveable Assets:** For the sale of vehicles or other titled and valuable equipment, the president or vice president's signature is required, and it must be authorized by a 2/3 vote of the board of managers. For any non-titled or less valuable assets, any manager is authorized to dispose of, sell, or otherwise administer on behalf of the LLC. 
+11. **Voting Rights:** Class A and Class B members shall have voting rights, with voting power proportionate to their respective share size. Class C members shall not have voting rights.
+12. **Electronic Signatures:** All members shall be required to maintain and use an electronic signature for remote document signatures, proxies, and other official LLC business.
+13. **Vote Requirements:** A 2/3 vote of the board of managers shall be required for the following:  
    11.1 - Amend/restate a written operating agreement for the purposes of changing membership after a legitimate sale of membership interest following the Operating Agreement  
    11.2 - Amend/restate a written operating agreement for the purpose of changing the board of managers list after a legitimate election of new board members, or a removal and change of board member(s) following the Operating Agreement.  
    11.3 - Amend/restate a written operating agreement for the purpose of adding an operating budget and detailing the required contributions, after a legitimate ratification of that budget following the Operating Agreement.  
    11.3 - Issue an interest in the limited liability company to any person and admit such person as a member  
    11.4 - Authorize any transaction, agreement or action on behalf of the limited liability company that is unrelated to its purpose as set forth in the articles of organization, that otherwise contravenes the operating agreement or that is not within the usual course of the business of the limited liability company  
    11.4 - Determine, modify, compromise or release the amount and character of the contributions which a member shall make, or shall promise to make, as the consideration for the issuance of an interest in the limited liability company  
-13. **Change of Management Status or Dissolution:** An affirmative or abstention vote from all Class A and Class B member interests minus a possible 5% of dissenting votes shall be required for the following:  
+14. **Change of Management Status or Dissolution:** An affirmative or abstention vote from all Class A and Class B member interests minus a possible 5% of dissenting votes shall be required for the following:  
    12.1 - Change the status of the limited liability company from one in which management is vested in the members to one in which management is vested in one or more managers, or vice versa   
    12.2 - Dissolution of the LLC (See the relevant article in this Operating Agreement.)   
-14. **Amendment:** An affirmative or abstention vote from 3/4 of all Class A and B member interests shall be required to amend or restate the operating agreement or articles of organization for any reason other than that mentioned in the previous clauses in this article. 
-15. **Member Class Voting Rights:** To decide any matter connected with the business or affairs of the limited liability company, including those listed in the previous clauses of this article, the Class C members shall have no vote, and the Class A and B shares shall each have a vote that is equal in power to their ownership interest divided by the total of all Class A and B interests. (e.g. if total Class A + B interest is 60%, a 10% Class A owner shall have approximately 16.67% of the total vote.)
-16. **Board Responsibilities**: The board members shall fulfill the following duties, as well as any others considered to be reasonable and within the realm of such a position: 
+15. **Amendment:** An affirmative or abstention vote from 3/4 of all Class A and B member interests shall be required to amend or restate the operating agreement or articles of organization for any reason other than that mentioned in the previous clauses in this article. 
+16. **Member Class Voting Rights:** To decide any matter connected with the business or affairs of the limited liability company, including those listed in the previous clauses of this article, the Class C members shall have no vote, and the Class A and B shares shall each have a vote that is equal in power to their ownership interest divided by the total of all Class A and B interests. (e.g. if total Class A + B interest is 60%, a 10% Class A owner shall have approximately 16.67% of the total vote.)
+17. **Board Responsibilities**: The board members shall fulfill the following duties, as well as any others considered to be reasonable and within the realm of such a position: 
   * The President shall be the chief executive officer of the corporation and shall preside at all meetings of the members and of the board to ensure that all orders and resolutions of the board, or resolutions of the members as permitted elsewhere in this Operating Agreement, are carried into effect.
   * The Vice-President shall have all the powers and functions of the President during the President's absence or disability, or otherwise at his request, as the second executive, and shall perform such duties as the board shall prescribe.
   * The Secretary shall record all votes and minutes of all proceedings, perform notifications to members, keep in safe custody the seal and letterhead of the LLC and administer them as necessary, maintain a full list of members and their contact details, maintain all the Association documents and records in a proper and safe manner, and perform other such duties as may be prescribed by the board. 
@@ -193,7 +194,8 @@ The LLC shall follow this Action Plan during its initial period of formation:
 4. Members may use this land, referred to as a "Homestead Area," for the following approved activities, in line with the goals of the members' private club organization: Hunting, fishing, all manner of farming including crops and livestock, recreational activities, construction of home and farm infrastructure, "off-grid living," raising a family, home education, or any other activity that is in line with the goals and values of the LLC and the members' private club organization.  
 5. Above activities and any other activities may be restricted as elaborated upon in the "Land Use Regulations" article of this Operating Agreement.  
 6. The LLC may formally lease the land to each member, or allocate the land solely by the terms of this Operating Agreement, at the discretion of the Board of Managers depending on which solution results in the highest degree of legal compliance, with the provision that it shall not create income tax liability for members, and it shall not cause the LLC to violate Mo. Rev. Stat. §§ 350.010 to 350.040.
-7. Land allocation or access to allocated land may be revoked as part of disciplinary actions taken against the member by the board of managers for serious violations of any part of this Operating Agreement.  
+7. Land allocation or access to allocated land may be revoked as part of disciplinary actions taken against the member by the board of managers for serious violations of any part of this Operating Agreement.
+8. All members of the LLC hereby waive their right to obtain or attempt to obtain a title deed or other ownership document for any portion of the LLC's land, including that leased to them or that for which they have usage or residency rights, via any legal means such as adverse possession, "squatter's law," etc. Violating this clause may result in a large fine, expulsion from the LLC, expulsion from the land, and civil penalties. 
 
 ### **Article VIII: Land Use Regulations**  
 1. The LLC shall implement and enforce a set of land use regulations, functioning as an HOA, to maintain an enjoyable and harmonious environment.  
@@ -425,7 +427,7 @@ This operating agreement may be amended with the consent or abstention vote of 3
 This operating agreement shall be governed by and construed in accordance with the laws of the State of Missouri. 
 
 ### **Article XVII: Members** 
-The following is a list of LLC members. The board of managers shall maintain a historical record of all past members and transfers of membership interests. 
+The following is a list of LLC members. The board of managers shall maintain a historical record of all past members and transfers of membership interests. The member list shall include capital contributions along with pertinent details of each item - form, description, value, date, depreciation, liabilities, etc. 
 
 1. **Nobleman Share (Founder):**
    - Name: John Smith
@@ -479,14 +481,12 @@ The following is a list of LLC members. The board of managers shall maintain a h
 
 
 #### Notes: 
-* Add capital contributions to the OA along with details of each item - description, value, date, depreciation, liabilities, etc
 * Add clause mentioning sweat equity or other types of equity as initial capital contribution, how it is done, pledge, what happens if not paid back, etc 
- * add waiver of any adverse possession right
-
- * limit on loans to not make negative equity
 
 #### Added (to notify: 
   * Option in case of death of an LLC member, to assign a person to represent them and receive their rights/benefits; this person must be approved by the board.
   * Added a clause requiring the Treasurer and Secretary to comply with certain tax compliance obligations (such as IRS 1065 and K-1, making sure property taxes are paid, etc.)
   * A clause allowing advertising and promotion expenses to be tax-deductible (apparently this may be required to be stated in an LLC operating agreement in order to be the case, if the IRS ever decides to audit)
-  * 
+  * Requiring that capital contributions list include more pertinent details such as form, amount, date, liabilities, depreciation, etc.
+  * Added a clause requiring all members to waive their right to obtain titles for any portion of the LLC's land via adverse possession or other types of "squatter's law"
+  * Added a clause prohibiting board members from taking on liabilities that result in negative equity for the LLC, or that result in the total liabilities being more than 25% of the total assets
