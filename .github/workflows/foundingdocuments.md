@@ -493,10 +493,4 @@ The following is a list of LLC members. The board of managers shall maintain a h
 
 
 #### Added (to notify: 
-  * Option in case of death of an LLC member, to assign a person to represent them and receive their rights/benefits; this person must be approved by the board.
-  * Added a clause requiring the Treasurer and Secretary to comply with certain tax compliance obligations (such as IRS 1065 and K-1, making sure property taxes are paid, etc.)
-  * A clause allowing advertising and promotion expenses to be tax-deductible (apparently this may be required to be stated in an LLC operating agreement in order to be the case, if the IRS ever decides to audit)
-  * Requiring that capital contributions list include more pertinent details such as form, amount, date, liabilities, depreciation, etc.
-  * Added a clause requiring all members to waive their right to obtain titles for any portion of the LLC's land via adverse possession or other types of "squatter's law"
-  * Added a clause prohibiting board members from taking on liabilities that result in negative equity for the LLC, or that result in the total liabilities being more than 25% of the total assets
-  * Added a clause allowing sweat equity or other forms of assets to be used as an initial capital contribution in the LLC, and specifying regulations. 
+  * Pit bull ban
