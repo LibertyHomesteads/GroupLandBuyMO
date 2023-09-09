@@ -226,7 +226,8 @@ The LLC shall follow this Action Plan during its initial period of formation:
 
 7. **Pets and Animals:**  
    - Owners are responsible for any property damage or bodily harm that their pets or farm animals may cause.  
-   - Dangerous or aggressive animals that pose a threat to the safety of residents are not allowed.  
+   - Dangerous or aggressive animals that pose a threat to the safety of residents are not allowed.
+   - Dogs that are considered as "pit bulls," a colloquial and non-breed-specific classification that includes the American pit bull terrier, American Staffordshire terrier, Staffordshire bull terrier, American bulldog, and any other pure bred or mixed breed dog that is a combination of these dogs, shall be completely and forever banned from the LLC's property and all leased parcels within the LLC's property. The fine for bringing a pitbull shall be $500 and the dog shall be immediately removed. The fine for disguising the breed of a dog reasonably classified as a pit bull or pit bull mix shall be $1000 and the dog shall be immediately removed. 
 
 8. **General Aesthetics:**  
    - This being a gentlemanly community, using your property as a junkyard, or letting your infrastructure collapse or rot away, is prohibited.  
