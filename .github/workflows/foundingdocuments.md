@@ -203,7 +203,8 @@ The LLC shall follow this Action Plan during its initial period of formation:
 5. Above activities and any other activities may be restricted as elaborated upon in the "Land Use Regulations" article of this Operating Agreement.  
 6. The LLC may formally lease the land to each member, or allocate the land solely by the terms of this Operating Agreement, at the discretion of the Board of Managers depending on which solution results in the highest degree of legal compliance, with the provision that it shall not create income tax liability for members, and it shall not cause the LLC to violate Mo. Rev. Stat. §§ 350.010 to 350.040.
 7. Land allocation or access to allocated land may be revoked as part of disciplinary actions taken against the member by the board of managers for serious violations of any part of this Operating Agreement.
-8. All members of the LLC hereby waive their right to obtain or attempt to obtain a title deed or other ownership document for any portion of the LLC's land, including that leased to them or that for which they have usage or residency rights, via any legal means such as adverse possession, "squatter's law," etc. Violating this clause may result in a large fine, expulsion from the LLC, expulsion from the land, and civil penalties. 
+8. All members of the LLC hereby waive their right to obtain or attempt to obtain a title deed or other ownership document for any portion of the LLC's land, including that leased to them or that for which they have usage or residency rights, via any legal means such as adverse possession, "squatter's law," etc. Violating this clause may result in a large fine, expulsion from the LLC, expulsion from the land, and civil penalties.
+9. **Zoning Change Contingency:** In the case that the local or county authorities change the zoning classification to include the LLC's property in a district that prohibits the construction of multiple residences on a single parcel, the LLC shall subdivide the land into parcels corresponding to each owner's lot, but shall continue to maintain ownership of all individually titled parcels, thus maintaining the smooth functioning of the community and of the LLC. 
 
 ### **Article VIII: Land Use Regulations**  
 1. The LLC shall implement and enforce a set of land use regulations, functioning as an HOA, to maintain an enjoyable and harmonious environment.  
@@ -328,7 +329,9 @@ The LLC shall follow this Action Plan during its initial period of formation:
 
 ### **Article X: Code of Conduct**  
 1. The LLC shall adhere to a Code of Conduct to maintain a harmonious and productive community. Disruptive behaviors, including concern controlling, compulsive lying, and purity spiraling, are strictly disallowed.  
-2. Any member found engaging in disruptive behaviors may be subject to disciplinary actions, including exclusion from LLC internal communications, suspension of decision-making activities or total expulsion from the LLC. 
+2. Any member found engaging in disruptive behaviors may be subject to disciplinary actions, including exclusion from LLC internal communications, suspension of decision-making activities or total expulsion from the LLC.
+3. If a member or manager is making an accusation of financial impropriety or similar, the member or manager is forbidden from making general or vague accusations, accusations without actual evidence, or accusations via the “appeal to complexity” or “appeal to dumbness” routes commonly employed by those seeking, either intentionally or unintentionally, to disrupt the organization. "Appeal to complexity" in this context implies that because financial data is complex, therefore impropriety must be easy, therefore it must be happening. Appeal to dumbness implies the same, but via the route of claiming that the implied lack of intelligence of the member or manager making the complaint makes it easy for the accused to engage in impropriety, therefore it must be happening. Violation of this clause may result in a warning or mediation, fine of $20 to $500 or 0.5-10 grams of gold, and excommunication from the LLC if the behavior continues. This behavior may be also used as evidence to show an ongoing trait of disruptive behaviors that may be used to remove a member from the LLC. 
+
 
 ### **Article XI: Dispute Resolution and Mediation** 
 
@@ -491,6 +494,34 @@ The following is a list of LLC members. The board of managers shall maintain a h
 
 #### Notes: 
 
+Use of common elements: 
+
+Any member who uses roads or other common infrastructure in a way that causes them to deteriorate significantly faster than normal, i.e. heavy dump truck use on internal roads, shall compensate the LLC for the increased maintenance. If they do not comply, they may be fined the value of the maintenance required, plus an additional $50 to $500, or 1-10 grams of gold.  
+
+The internal roads shall be considered for the good of the whole community and LLC, since all members benefit from the other members being able to access their properties, develop, reside on the property, and thus help create a community environment. All members shall be guaranteed access to their lot via the internal roads created for this purpose, except in the case where the board of managers has removed access for a grave violation of this Operating Agreement. Members shall not use a specific road section’s low number of beneficiaries to attempt to remove it from the budget or refuse payment for maintenance, nor shall they use the fact that the road does not serve themselves specifically. 
+
+Manager roles: 
+
+For the treasurer, add the following: Double entry accounting, not single entry, and GAAP. 
+Add that all board members must ensure that the LLC demonstrates financial prudence in all of its activities. 
+
+Capital contributions: 
+
+Perimeter fence. 
+All members who are allocated or leased land that is adjacent to a perimeter of the property, shall be required to, within 1 year of their purchase of the property, erect a fence along the perimeter. 
+The fence must use metal stakes, but may use live trees as posts where convenient. 
+The fence must be 3+ rows of barbed wire, or galvanized cattle fencing/chain link with 1 row of barbed wire at the top. 
+Members by the public road or close to it are encouraged to use cattle mesh and more bared wire to prevent entry, whereas members by the back parts are encouraged to use barbed wire with possibly fewer rows to encourage entry of wildlife for hunting. 
+The LLC shall be responsible for the installation of a gate at the public road entry. 
+The LLC may consider funding the fence portions along perimeter-adjacent lots that are not allocated at the time of the purchase of the property.  
+
+Land allocation, or regulations? 
+
+Members are liable for anything that happens on LLC-owned land that is allocated or leased to the member, and shall not hold the LLC liable. This includes injuries, theft, and any other event that may cause a financial or criminal liability. 
+
+Infrastructure funded by a member that is located on LLC-owned land that is leased or allocated to a member, is owned by that member, and not by the LLC nor its other members. 
 
 #### Added (to notify: 
-  * Pit bull ban
+  * Pit bull ban 
+  * Contingency for Change of Zoning - provides us with an alternative zoning solution in case the local council changes our zoning classification and doesn't allow for any future new houses on a single parcel.
+  * Added a clause to the Code of Conduct requiring actual evidence to be used for accusations of financial impropriety, thus eliminating another common route of disruption by agents or problematic members. Members or managers may bring accusations of financial impropriety if they have evidence, and if the accusations are not vague and general.
