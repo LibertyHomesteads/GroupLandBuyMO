@@ -204,7 +204,8 @@ The LLC shall follow this Action Plan during its initial period of formation:
 6. The LLC may formally lease the land to each member, or allocate the land solely by the terms of this Operating Agreement, at the discretion of the Board of Managers depending on which solution results in the highest degree of legal compliance, with the provision that it shall not create income tax liability for members, and it shall not cause the LLC to violate Mo. Rev. Stat. §§ 350.010 to 350.040.
 7. Land allocation or access to allocated land may be revoked as part of disciplinary actions taken against the member by the board of managers for serious violations of any part of this Operating Agreement.
 8. All members of the LLC hereby waive their right to obtain or attempt to obtain a title deed or other ownership document for any portion of the LLC's land, including that leased to them or that for which they have usage or residency rights, via any legal means such as adverse possession, "squatter's law," etc. Violating this clause may result in a large fine, expulsion from the LLC, expulsion from the land, and civil penalties.
-9. **Zoning Change Contingency:** In the case that the local or county authorities change the zoning classification to include the LLC's property in a district that prohibits the construction of multiple residences on a single parcel, the LLC shall subdivide the land into parcels corresponding to each owner's lot, but shall continue to maintain ownership of all individually titled parcels, thus maintaining the smooth functioning of the community and of the LLC. 
+9. **Zoning Change Contingency:** In the case that the local or county authorities change the zoning classification to include the LLC's property in a district that prohibits the construction of multiple residences on a single parcel, the LLC shall subdivide the land into parcels corresponding to each owner's lot, but shall continue to maintain ownership of all individually titled parcels, thus maintaining the smooth functioning of the community and of the LLC.
+10. **Liability of Private Elements:** Members are fully liable for anything that happens on LLC-owned land that is allocated or leased to the member, and shall not hold the LLC liable. This includes injuries, theft, and any other event that may cause a financial or criminal liability. 
 
 ### **Article VIII: Land Use Regulations**  
 1. The LLC shall implement and enforce a set of land use regulations, functioning as an HOA, to maintain an enjoyable and harmonious environment.  
@@ -517,7 +518,7 @@ The LLC may consider funding the fence portions along perimeter-adjacent lots th
 
 Land allocation, or regulations? 
 
-Members are liable for anything that happens on LLC-owned land that is allocated or leased to the member, and shall not hold the LLC liable. This includes injuries, theft, and any other event that may cause a financial or criminal liability. 
+
 
 Infrastructure funded by a member that is located on LLC-owned land that is leased or allocated to a member, is owned by that member, and not by the LLC nor its other members. 
 
@@ -525,3 +526,4 @@ Infrastructure funded by a member that is located on LLC-owned land that is leas
   * Pit bull ban 
   * Contingency for Change of Zoning - provides us with an alternative zoning solution in case the local council changes our zoning classification and doesn't allow for any future new houses on a single parcel.
   * Added a clause to the Code of Conduct requiring actual evidence to be used for accusations of financial impropriety, thus eliminating another common route of disruption by agents or problematic members. Members or managers may bring accusations of financial impropriety if they have evidence, and if the accusations are not vague and general.
+  * Members, and not the LLC, are liable for anything that happens on the land allocated to them 
