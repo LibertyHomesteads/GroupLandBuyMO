@@ -193,7 +193,7 @@ The LLC shall follow this Action Plan during its initial period of formation:
 18. **Future Budget Ratification:** Any future operating budget, such as the one described in numeral 15, may be passed by a 2/3 majority of all Class A and B votes, and must be done on an annual basis. To comply with MO Rev Stat § 347.099 (2019), all members who are obligated to contribute funding based on that budget must sign a contribution agreement, and if they refuse, they can be found in breach of contract and forcibly expelled from the LLC.  
 19. **Contradiction:** Any clause in this article that appears to contradict another clause, or that seems mathematicaly impossible, shall not render the article nor its clauses invalid, but shall instead be substituted by all parties with a solution that is equitable and mathematically correct, and that is in line with the original intent of this article.  
 20. **Asignee contributions:** An assignee who has not become a member is still liable for any obligations of his assignor to make contributions, until such time as he transfers his share to another individual or entity, or is forced to transfer his share to another individual or entity as allowed in this Operating Agreement. Even if the asignee receives no other rights or benefits for his LLC interest, he is still obligated to contribute as per his interest.  
-21. **Contribution promises in writing:** To comply with MO Rev Stat § 347.099 (2019), all contributions listed above shall be detailed in this Article to be signed by all founding members, and any future operating budgets requiring contributions from members, assuming they have been properly ratified as per this Operating Agreement, shall be codified into this Article, but shall also be presented to all affected members to be signed.  
+21. **Contribution promises in writing:** To comply with MO Rev Stat § 347.099 (2019), all contributions listed above shall be detailed in this Article to be signed by all founding members, and any future operating budgets requiring contributions from members, assuming they have been properly ratified as per this Operating Agreement, shall be codified into this Article, but shall also be presented to all affected members to be signed.
 
 ### **Article VII: Private Elements and Land Allocation**  
 1. The LLC shall allocate land to each member, for their private use. This land and any developments on it shall be considered a private element.
@@ -205,7 +205,8 @@ The LLC shall follow this Action Plan during its initial period of formation:
 7. Land allocation or access to allocated land may be revoked as part of disciplinary actions taken against the member by the board of managers for serious violations of any part of this Operating Agreement.
 8. All members of the LLC hereby waive their right to obtain or attempt to obtain a title deed or other ownership document for any portion of the LLC's land, including that leased to them or that for which they have usage or residency rights, via any legal means such as adverse possession, "squatter's law," etc. Violating this clause may result in a large fine, expulsion from the LLC, expulsion from the land, and civil penalties.
 9. **Zoning Change Contingency:** In the case that the local or county authorities change the zoning classification to include the LLC's property in a district that prohibits the construction of multiple residences on a single parcel, the LLC shall subdivide the land into parcels corresponding to each owner's lot, but shall continue to maintain ownership of all individually titled parcels, thus maintaining the smooth functioning of the community and of the LLC.
-10. **Liability of Private Elements:** Members are fully liable for anything that happens on LLC-owned land that is allocated or leased to the member, and shall not hold the LLC liable. This includes injuries, theft, and any other event that may cause a financial or criminal liability. 
+10. **Liability of Private Elements:** Members are fully liable for anything that happens on LLC-owned land that is allocated or leased to the member, and shall not hold the LLC liable. This includes injuries, theft, and any other event that may cause a financial or criminal liability.
+11. **Ownership of Private Infrastructure:** Infrastructure or other physical assets funded by a member that is located on LLC-owned land that is leased or allocated to a member, is owned by that member, and not by the LLC nor its other members. The LLC encourages members to keep records of their private development expenditures in case the need should arise in the future for the member to use such records for his reference. 
 
 ### **Article VIII: Land Use Regulations**  
 1. The LLC shall implement and enforce a set of land use regulations, functioning as an HOA, to maintain an enjoyable and harmonious environment.  
@@ -514,19 +515,14 @@ Manager roles:
 For the treasurer, add the following: Double entry accounting, not single entry, and GAAP. 
 Add that all board members must ensure that the LLC demonstrates financial prudence in all of its activities. 
 
-Capital contributions: 
-
-
-
 Land allocation, or regulations? 
 
 
-
-Infrastructure funded by a member that is located on LLC-owned land that is leased or allocated to a member, is owned by that member, and not by the LLC nor its other members. 
 
 #### Added (to notify: 
   * Pit bull ban 
   * Contingency for Change of Zoning - provides us with an alternative zoning solution in case the local council changes our zoning classification and doesn't allow for any future new houses on a single parcel.
   * Added a clause to the Code of Conduct requiring actual evidence to be used for accusations of financial impropriety, thus eliminating another common route of disruption by agents or problematic members. Members or managers may bring accusations of financial impropriety if they have evidence, and if the accusations are not vague and general.
   * Members, and not the LLC, are liable for anything that happens on the land allocated to them
-  * Included obligation to erect a perimeter fence (barbed wire) for lot owners on the perimeter, so we don't have to include in the community budget - a minor expense for each person vs a major addition to the budget. 
+  * Included obligation to erect a perimeter fence (barbed wire) for lot owners on the perimeter, so we don't have to include in the community budget - a minor expense for each person vs a major addition to the budget.
+  * Clarified that assets and infrastructure on a private lot are the property of the corresponding member and not of the LLC. 
