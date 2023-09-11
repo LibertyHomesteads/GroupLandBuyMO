@@ -507,7 +507,7 @@ The following is a list of LLC members. The board of managers shall maintain a h
 #### Notes: 
 
 #### Added (to notify: 
-  * Pit bull ban (following information and statistics from this site:[https://blog.dogsbite.org/] )
+  * Pit bull ban (following information and statistics from this site: [https://blog.dogsbite.org/] )
   * Contingency for Change of Zoning - provides us with an alternative zoning solution in case the local council changes our zoning classification and doesn't allow for any future new houses on a single parcel. There is an easy way out of this that does not affect our ability to build, though it has a small cost. 
   * Members, and not the LLC, are liable for anything that happens on the land allocated to them
   * Added a clause to the Code of Conduct requiring actual evidence to be used for accusations of financial impropriety, thus eliminating another common route of disruption by agents or problematic members. Members or managers may bring accusations of financial impropriety if they have evidence, and if the accusations are not vague and general. Problematic members in an organization often create dispute by endlessly accusing financial impropriety when there is none, creating correspondence fatigue. 
