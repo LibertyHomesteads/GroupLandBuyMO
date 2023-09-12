@@ -506,10 +506,32 @@ The following is a list of LLC members. The board of managers shall maintain a h
 
 #### Notes: 
   * Change fence rule to allow for any type of fence as long as it is effective
+  * Add contingency to return funds if property is sold before we can buy, or otherwise unable to complete sale, with option of looking for another property first, 15 days
+  * Lying about receiving funds from or being employed by federal government
+  * Financial prudence includes reasonable leeway in following the budget, for purposes of preserving function and original intention of budget
+  * Lease of Eric's tractor. DK6010SE HST, serial PGG7-A0003. Kioti 2023. With front loader, backhoe, tree remover, and grader. $1000/mo for 10 mo. Need promissory note. Owners get 15 free hours per acre of land. After that they may rent it from the LLC for $40/day. Free hour allocations are transferrable between members. Members get preference for tractor use if they are using allocated free hours or transferred free hours, and second preference if they have used all their allocated free hours or transferred free hours and are now using rented hours. Secretary must administer tractor usage, including fuel considerations and providing a log book or other means for members to track their hours. 
   * Prohibit fireworks/firecrackers without permission of board
   * Clarify trash burning rules, paper and wood burning are not covered in the restriction, only plastic and nasty burning
   * Minimum share / lot size or percentage, also add residency threshold
-  * Clarify livestock smell and dog/etc noise nuisance rules, allow agriculture 
+  * Clarify livestock smell and dog/etc noise nuisance rules, allow agriculture
+  * Allow hunting/agriculture activities during nighttime hours as long as they are not excessive or intentionally disruptive 
+  * Member gun handling rules 
+
+Do not shoot in the direction of another member's property.
+
+Members should always check for a safe backstop before shooting.
+
+    Make sure the backstop is:
+        Solid enough to capture fired bullets and…
+        Constructed of a material that will not let the projectile ricochet. 
+
+    Remember that projectiles can travel for long distances. Here are some examples.
+        A .22-caliber bullet can travel over 1½ miles.
+        A centerfire bullet can travel several miles.
+        Small shot can travel 200–350 yards.
+        Larger shot can travel over 600 yards.
+        Slugs can travel over 800 yards.
+    Be sure of the target and what is in front of it and beyond it. Making sure you have a safe backstop helps ensure that the projectile cannot hit an unintended target. If you cannot see what lies beyond the target, do not take the shot.
 
 
 #### Added (to notify: 
