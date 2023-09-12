@@ -505,6 +505,12 @@ The following is a list of LLC members. The board of managers shall maintain a h
 
 
 #### Notes: 
+  * Change fence rule to allow for any type of fence as long as it is effective
+  * Prohibit fireworks/firecrackers without permission of board
+  * Clarify trash burning rules, paper and wood burning are not covered in the restriction, only plastic and nasty burning
+  * Minimum share / lot size or percentage, also add residency threshold
+  * Clarify livestock smell and dog/etc noise nuisance rules, allow agriculture 
+
 
 #### Added (to notify: 
   * Pit bull ban (following information and statistics from this site: [https://blog.dogsbite.org/] )
