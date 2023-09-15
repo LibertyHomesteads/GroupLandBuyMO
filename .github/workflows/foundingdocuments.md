@@ -230,85 +230,74 @@ The LLC shall follow this Action Plan during its initial period of formation:
 6. **Agriculture and Farming:**  
    - Members are allowed to engage in agriculture and farming activities on their property, provided they comply with local zoning and local/state/federal environmental regulations, and all other applicable local, state, and federal law  
    - Large-scale concentrated agricultural operations that create excessive and unreasonable noise, smell, or groundwater pollution are not permitted. Large hog operations in particular are worth mentioning as a probable infactor. Normal ruminant and poultry grazing shall not be considered a violation of this clause.  
-
 7. **Pets and Animals:**  
    - Owners are responsible for any property damage or bodily harm that their pets or farm animals may cause.  
    - Dangerous or aggressive animals that pose a threat to the safety of residents are not allowed.
    - Dogs that are considered as "pit bulls," a colloquial and non-breed-specific classification that includes the American pit bull terrier, American Staffordshire terrier, Staffordshire bull terrier, American bulldog, and any other pure bred or mixed breed dog that is a combination of these dogs, shall be completely and forever banned from the LLC's property and all leased parcels within the LLC's property. The fine for bringing a pitbull shall be $500 and the dog shall be immediately removed. The fine for disguising the breed of a dog reasonably classified as a pit bull or pit bull mix shall be $1000 and the dog shall be immediately removed. 
-
 8. **General Aesthetics:**  
    - This being a gentlemanly community, using your property as a junkyard, or letting your infrastructure collapse or rot away, is prohibited.  
    - Prepping and collecting useful items and equipment is permitted, but hoarding is prohibited.  
-
 9. **Trash and Recycling:**  
    - Residents must dispose of trash and recyclables in a reasonable manner and timeframe.  
    - Large items or hazardous materials must be properly disposed of at designated facilities.  
-
 10. **Parking:**  
    - Vehicles must be parked in designated parking areas and not obstruct shared driveways or common areas.  
-
 11. **Common Area Usage:**  
    - Common areas, such as parks or community facilities, are for the enjoyment of all members and must be respected and kept clean.  
    - Private events or gatherings in common areas must be coordinated with the HOA.  
    - Events open to the general public may NOT be held in common areas of the property  
-   - Events open to the general public may only be held on privately allocated / leased land with prior permission of the board of managers  
-
+   - Events open to the general public may only be held on privately allocated / leased land with prior permission of the board of managers 
 12. **Home Businesses:**  
    - Home-based businesses that do not require physical client access to the property are allowed, provided they comply with local laws and regulations  
    - Home-based businesses that require physical client access to the common elements of the property must receive prior permission from the board of managers, which may place limits or requirements on access, or prohibit access altogether   
    - Home-based businesses on allocated land that has direct public road front may allow client access without prior permission from the board of managers, provided that it does not create a material and demonstrable nuisance to the other members, and provided that it does not disrupt the security protection of any community-funded perimeter fence  
-
 13. **Rental Policy:**   
       13.1 - **Purpose and Scope:**  
    This Rental Policy is established by the LLC to regulate and manage rental properties within the community. The policy aims to maintain the quality of living, preserve property values, and promote a safe and harmonious environment for all residents.  
-
       13.2 - **Rental Approval Process:**  
       - Prior to leasing a property within the community, the homeowner (Landlord) must obtain written approval from the LLC management. The Landlord shall submit a rental application on behalf of the prospective tenant to the LLC for review.  
       - The owner/lesee (LLC member) may not advertise or rent to the general public, only to PMA members or known individuals who meet the criteria to be approved for PMA membership  
-
       13.3 - **Rental Application Requirements:**  
    The member must submit a rental application provided by the board of managers, and it must include the following information about the prospective tenant(s): Full name, contact  information (phone and email), proof of identification (e.g., driver's license or passport), indication of previous employment/income/rental/criminal history at the board's discretion  
-
       13.4 - **Tenant Screening and Approval:**  
       - The LLC management will conduct a tenant screening process to assess the prospective tenant's suitability for residency within the community.  
       - The LLC management shall approve or deny the rental application within a reasonable time frame.  
-
       13.5 - **Rental Term and Renewals:**   
       - Rental agreements shall be for a minimum term of three (3) months.   
       - If the tenant intends to renew the lease, the member must notify the LLC management in writing before the lease expiration date for reevaluation and approval.  
-     
       13.6 - **Responsibility for Compliance:**  
       - The member is responsible for ensuring that the tenant complies with all LLC rules, regulations, and operating agreement.  
       - The member must provide a copy of the LLC's rules and regulations to the tenant at the beginning of the lease term.  
       - Tenants must adhere to all community rules and regulations and shall be held accountable for any violations.  
-      - The member is responsible for addressing and resolving any tenant violations promptly.  
-     
+      - The member is responsible for addressing and resolving any tenant violations promptly.      
       13.7 - **Right to Deny Rental:**  
        - The LLC management reserves the right to deny any rental application that does not meet their established criteria or poses a potential risk to the community.  
-
       13.8 - **Enforcement and Penalties:**  
        - Violation of this Rental Policy may result in penalties, fines, or other enforcement actions, as outlined in the LLC's operating agreement.  
-
 14. **Septic and Graywater Compliance:**  
-    - Members must comply with all septic and graywater/blackwater regulations of the local county and of the Missouri State Dept. of Public Health, as well as the EPA. Any fine levied on the LLC because of non-compliance of that member shall be levied upon the member by the board of managers, with possible additional fines or disciplinary action.
-   
+    - Members must comply with all septic and graywater/blackwater regulations of the local county and of the Missouri State Dept. of Public Health, as well as the EPA. Any fine levied on the LLC because of non-compliance of that member shall be levied upon the member by the board of managers, with possible additional fines or disciplinary action.   
 15. **Volatile Liquids Storage Compliance:** 
     - In order to comply with EPA regulations regarding storage of such volatile and/or toxic liquids including but not limited to used motor oil, vegetable oil, gasoline, and diesel fuel, the LLC board of managers shall each year at the end of the year, solicit from each member an estimate of the maximum quantity of such liquids he plans to store on the LLC's property.  
     - The board will use this information to determine if a self-certified spill prevention plan is required by the EPA, and if so, will create such a plan and engage in any administrative actions necessary to ensure full compliance with the law.
     - Members are required to furnish such information to the board of managers upon request.  
-
 16. **Water System Compliance:**  
     - Any member, or the LLC as a whole, if they operate a water system that provides drinking water to more than 15 connections or more than 25 people, shall comply with all EPA monitoring and reporting requirements as well as any other legal requirements that may apply.
-    - Members operating a noncompliant system that receives a fine from the EPA or other governmental authority shall be required to pay the fine personally. 
-   
+    - Members operating a noncompliant system that receives a fine from the EPA or other governmental authority shall be required to pay the fine personally.    
 17. **Perimeter fence:**  
     - All members who are allocated or leased land that is adjacent to a perimeter of the property, shall be required to, within 1 year of  their purchase of the property, erect a fence along the perimeter. 
     - The fence must function as a physical barrier against easy entry by a human, and must have barbed wire or equivalent at the top. Any openings must have a lockable gate. 
     - The LLC shall be responsible for the installation of a gate at any public road entries. 
     - The LLC may consider funding the fence portions along perimeter-adjacent lots that are not allocated at the time of the purchase of the property.
     - The LLC hereby adopts a fence-out policy for grazing animals, wherein each member must erect a fence if they wish to keep grazing ruminant animals and poultry out of their land. 
-  
-18. **Enforcement and Mediation:**  
+
+18. **Firearm Safety Rules:** Members must follow these rules to ensure the safety of others present on the property. 
+  - The board of managers shall select an appropriate site to be used as the community shooting range. 
+  - Members should use, but are not required to use, the community shooting range.
+  - Members must not shoot in the direction of another member's property.
+  - Members must always check for a safe backstop before shooting. The backstop must be solid enough to capture fired bullets, and must be constructed of a material that will not let the projectile ricochet. 
+  - Members must remember that projectiles can travel for long distances. For example, a .22-caliber bullet can travel over 1½ miles. A centerfire bullet can travel several miles. Small shot can travel 200–350 yards. Larger shot can travel over 600 yards. Slugs can travel over 800 yards.
+  - Members must be sure of the target and what is in front of it and beyond it. Making sure you have a safe backstop helps ensure that the projectile cannot hit an unintended target. If you cannot see what lies beyond the target, do not take the shot.
+19. **Enforcement and Mediation:**  
     - The LLC shall use a mediation-first approach to resolve disputes among members.  
     - Fines or penalties may be imposed for violations of the rules, with appropriate due process.  
     - The board of managers shall administer these judgments, and may skip steps if the severity of the infraction warrants it:   
@@ -454,6 +443,8 @@ This operating agreement shall be governed by and construed in accordance with t
 ### **Article XVII: Members** 
 The following is a list of LLC members. The board of managers shall maintain a historical record of all past members and transfers of membership interests. The member list shall include capital contributions along with pertinent details of each item - form, description, value, date, depreciation, liabilities, etc. 
 
+* Please note that these are invented names for the purposes of example. 
+
 1. **Nobleman Share (Founder):**
    - Name: John Smith
    - Membership interest: 40%
@@ -507,23 +498,7 @@ The following is a list of LLC members. The board of managers shall maintain a h
 
 #### Notes: 
 
- * Member gun handling rules 
 
-Do not shoot in the direction of another member's property.
-
-Members should always check for a safe backstop before shooting.
-
-    Make sure the backstop is:
-        Solid enough to capture fired bullets and…
-        Constructed of a material that will not let the projectile ricochet. 
-
-    Remember that projectiles can travel for long distances. Here are some examples.
-        A .22-caliber bullet can travel over 1½ miles.
-        A centerfire bullet can travel several miles.
-        Small shot can travel 200–350 yards.
-        Larger shot can travel over 600 yards.
-        Slugs can travel over 800 yards.
-    Be sure of the target and what is in front of it and beyond it. Making sure you have a safe backstop helps ensure that the projectile cannot hit an unintended target. If you cannot see what lies beyond the target, do not take the shot.
 
 
 #### Added (to notify: 
@@ -534,4 +509,5 @@ Members should always check for a safe backstop before shooting.
   * Member can be expelled for failing to disclose previous employment by the federal/state government or similar entities
   * Clarification about how closely the treasurer should ensure that the budget is followed
   * Added exemptions for various agricultural and recreational activities to the noise/smell/etc rules.
-  * Added clarifications such as minimum lot size, threshold between Class C and Class B members, etc. 
+  * Added clarifications such as minimum lot size, threshold between Class C and Class B members, etc.
+  * Added gun safety rules 
