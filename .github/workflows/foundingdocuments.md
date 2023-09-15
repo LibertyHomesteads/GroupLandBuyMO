@@ -166,11 +166,11 @@ The LLC shall follow this Action Plan during its initial period of formation:
   5. Consult a business lawyer and a real estate lawyer in Missouri, for a professional assessment of the legal situation of our planned project.  
   6. Pass a community budget, initial and yearly.  
   7. Register an LLC. Deposit the funds in the LLC's bank account. Any members who at this point cannot participate, are replaced, and this clause hereby authorizes a forced buy-out at a token price of $1.  
-  8. Purchase the decided-upon land. Any references to land, access, residency, etc throughout this entire Operating Agreement, refer to this parcel of land that the LLC plans to purchase for the purposes of operation of a private club organization of homesteaders, for their own benefit.  
-  9. Rough survey and planning. Homestead areas are mapped and photographed. Common elements are planned.  
-  10. Members select their homestead areas. If two members want one area, they enter a bidding process. Proceeds go to community fund.  
-  11. Permit application for septic systems, wells, anything else required.  
-  12. Widespread residency and construction may begin, provided all relevant laws are complied with  
+  8. Purchase the decided-upon land. Any references to land, access, residency, etc throughout this entire Operating Agreement, refer to this parcel of land that the LLC plans to purchase for the purposes of operation of a private club organization of homesteaders, for their own benefit. Funds must be returned to the contributing members if the LLC is unable to complete the sale in the contracted period, with the option of agreeing on another property first, with a maximum period of 15 business days. 
+  10. Rough survey and planning. Homestead areas are mapped and photographed. Common elements are planned.  
+  11. Members select their homestead areas. If two members want one area, they enter a bidding process. Proceeds go to community fund.  
+  12. Permit application for septic systems, wells, anything else required.  
+  13. Widespread residency and construction may begin, provided all relevant laws are complied with  
 
 ### **Article VI: Common Elements and Contributions**  
 1. **Common elements:** The LLC shall establish common elements for the benefit of all members, including a community hub area with well, septic system, electric connection, workshop, RV hookup, driveways, perimeter fence, and administrative infrastructure.
@@ -504,7 +504,6 @@ The following is a list of LLC members. The board of managers shall maintain a h
 
 
 #### Notes: 
-  * Add contingency to return funds if property is sold before we can buy, or otherwise unable to complete sale, with option of looking for another property first, 15 days
   * Lying about receiving funds from or being employed by federal government
   * Financial prudence includes reasonable leeway in following the budget, for purposes of preserving function and original intention of budget
   * Lease of Eric's tractor. DK6010SE HST, serial PGG7-A0003. Kioti 2023. With front loader, backhoe, tree remover, and grader. $1000/mo for 10 mo. Need promissory note. Owners get 15 free hours per acre of land. After that they may rent it from the LLC for $40/day. Free hour allocations are transferrable between members. Members get preference for tractor use if they are using allocated free hours or transferred free hours, and second preference if they have used all their allocated free hours or transferred free hours and are now using rented hours. Secretary must administer tractor usage, including fuel considerations and providing a log book or other means for members to track their hours. 
@@ -536,4 +535,5 @@ Members should always check for a safe backstop before shooting.
 
   * Fence-out policy for livestock grazing
   * Removed limitations for fence style and construction; members can construct whatever they wish as long as it functions
+  * Requirement that the LLC must return funds to the contributing members if the land sale does not go through
   * 
