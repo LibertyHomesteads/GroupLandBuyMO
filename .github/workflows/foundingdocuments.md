@@ -504,13 +504,3 @@ The following is a list of LLC members. The board of managers shall maintain a h
 
 
 #### Added (to notify: 
-
-  * Fence-out policy for livestock grazing
-  * Removed limitations for fence style and construction; members can construct whatever they wish as long as it functions
-  * Requirement that the LLC must return funds to the contributing members if the land sale does not go through
-  * Member can be expelled for failing to disclose previous employment by the federal/state government or similar entities
-  * Clarification about how closely the treasurer should ensure that the budget is followed
-  * Added exemptions for various agricultural and recreational activities to the noise/smell/etc rules.
-  * Added clarifications such as minimum lot size, threshold between Class C and Class B members, etc.
-  * Added gun safety rules
-  * Members authorize the board to autonomously carry out future changes to the Operating Agreement only in the cases of minor and routine changes such as: Adding or removing a member after a legitimate share sale, fixing minor errors, adding a budget once it is approved by the group, etc. Any changes of actual rules and regulations in the operating agreement still must be voted on by the members. 
