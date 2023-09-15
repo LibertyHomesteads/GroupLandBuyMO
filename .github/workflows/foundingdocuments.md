@@ -297,15 +297,14 @@ The LLC shall follow this Action Plan during its initial period of formation:
 
 16. **Water System Compliance:**  
     - Any member, or the LLC as a whole, if they operate a water system that provides drinking water to more than 15 connections or more than 25 people, shall comply with all EPA monitoring and reporting requirements as well as any other legal requirements that may apply.
-    - Members operating a noncompliant system that receives a fine from the EPA or other governmental authority shall be required to pay the fine personally.
+    - Members operating a noncompliant system that receives a fine from the EPA or other governmental authority shall be required to pay the fine personally. 
    
 17. **Perimeter fence:**  
     - All members who are allocated or leased land that is adjacent to a perimeter of the property, shall be required to, within 1 year of  their purchase of the property, erect a fence along the perimeter. 
-    - The fence must use metal stakes, but may use live trees as posts where convenient. 
-    - The fence must be 3+ rows of barbed wire, or galvanized cattle fencing/chain link with 1 row of barbed wire at the top. 
-    - Members by the public road or close to it are encouraged to use cattle mesh and more bared wire to prevent entry, whereas members by the back parts are encouraged to use barbed wire with possibly fewer rows to encourage entry of wildlife for hunting. 
-    - The LLC shall be responsible for the installation of a gate at the public road entry. 
-    - The LLC may consider funding the fence portions along perimeter-adjacent lots that are not allocated at the time of the purchase of the property.  
+    - The fence must function as a physical barrier against easy entry by a human, and must have barbed wire or equivalent at the top. Any openings must have a lockable gate. 
+    - The LLC shall be responsible for the installation of a gate at any public road entries. 
+    - The LLC may consider funding the fence portions along perimeter-adjacent lots that are not allocated at the time of the purchase of the property.
+    - The LLC hereby adopts a fence-out policy for grazing animals, wherein each member must erect a fence if they wish to keep grazing ruminant animals and poultry out of their land. 
   
 18. **Enforcement and Mediation:**  
     - The LLC shall use a mediation-first approach to resolve disputes among members.  
@@ -505,7 +504,6 @@ The following is a list of LLC members. The board of managers shall maintain a h
 
 
 #### Notes: 
-  * Change fence rule to allow for any type of fence as long as it is effective
   * Add contingency to return funds if property is sold before we can buy, or otherwise unable to complete sale, with option of looking for another property first, 15 days
   * Lying about receiving funds from or being employed by federal government
   * Financial prudence includes reasonable leeway in following the budget, for purposes of preserving function and original intention of budget
@@ -535,11 +533,7 @@ Members should always check for a safe backstop before shooting.
 
 
 #### Added (to notify: 
-  * Pit bull ban (following information and statistics from this site: [https://blog.dogsbite.org/] )
-  * Contingency for Change of Zoning - provides us with an alternative zoning solution in case the local council changes our zoning classification and doesn't allow for any future new houses on a single parcel. There is an easy way out of this that does not affect our ability to build, though it has a small cost. 
-  * Members, and not the LLC, are liable for anything that happens on the land allocated to them
-  * Added a clause to the Code of Conduct requiring actual evidence to be used for accusations of financial impropriety, thus eliminating another common route of disruption by agents or problematic members. Members or managers may bring accusations of financial impropriety if they have evidence, and if the accusations are not vague and general. Problematic members in an organization often create dispute by endlessly accusing financial impropriety when there is none, creating correspondence fatigue. 
-  * Included obligation to erect a perimeter fence (barbed wire) for lot owners on the perimeter, so we don't have to include in the community budget - a minor expense for each person vs a major addition to the budget.
-  * Clarified that assets and infrastructure on a private lot are the property of the corresponding member and not of the LLC.
-  * Clarified that the treasurer should use double entry and not single entry accounting, and GAAP. Also that the board must exercise financial prudence.
-  * Added a clause regarding internal roads being considered as a common good for the entire community, regardless of how many lot owners it serves, since all members need to be able to access their lots, in order to ensure the highest chance of high rates of occupancy and therefore the existence of a neighborhood community. 
+
+  * Fence-out policy for livestock grazing
+  * Removed limitations for fence style and construction; members can construct whatever they wish as long as it functions
+  * 
