@@ -218,17 +218,16 @@ The LLC shall follow this Action Plan during its initial period of formation:
 4. **General Conduct:**  
    - Members and residents shall conduct themselves in a manner that promotes a safe, peaceful, and harmonious living environment.  
    - Respect for neighbors' privacy and property boundaries shall be maintained at all times.  
-
 5. **Noise and Nuisance:**  
-   - Excessive noise that disturbs the peace and quiet of the community, especially during nighttime hours, is prohibited.  
-   - Regular burning of trash and other materials is not allowed to avoid air pollution and unpleasant odors. Such burning can be organized on the last day of every month to coordinate and prevent multiple burnings.  
+   - Excessive noise that disturbs the peace and quiet of the community, especially during nighttime hours, is prohibited, with the exception of occasional agricultural or recreational activities. 
+   - Regular burning of plastic trash and other materials that cause chemical burn smells is not allowed. Such burning can be organized on the last day of every month to coordinate and prevent multiple burnings. Other types of burnings can be carried out as is reasonable. 
    - Anything that causes a "material and demonstrable" nuisance to other members can be considered as such  
    - Generators must be installed inside a baffle box or similar structure that significantly reduces the noise, after no more than a 30 day period which included occasional operation  
-   - Long-term heavy duty machinery use that will generate continuous noise could be considered a violation, please consult with LLC management before planning this type of operation.  
-
+   - Long-term heavy duty machinery use that will generate continuous noise could be considered a violation, please consult with LLC management before planning this type of operation. Normal agricultural and construction activities as part of land development and agricultural operations are not subject to this clause unless they create an extreme and unreasonable nuisance. 
+   - Use of fireworks or firecrackers is prohibited, without special permission of the board of managers, in order to prevent disruption to livestock and pets.  
 6. **Agriculture and Farming:**  
    - Members are allowed to engage in agriculture and farming activities on their property, provided they comply with local zoning and local/state/federal environmental regulations, and all other applicable local, state, and federal law  
-   - Large-scale concentrated agricultural operations that create noise, smell, or groundwater pollution are not permitted. Large hog operations in particular are worth mentioning as a probable infactor.  
+   - Large-scale concentrated agricultural operations that create excessive and unreasonable noise, smell, or groundwater pollution are not permitted. Large hog operations in particular are worth mentioning as a probable infactor. Normal ruminant and poultry grazing shall not be considered a violation of this clause.  
 
 7. **Pets and Animals:**  
    - Owners are responsible for any property damage or bodily harm that their pets or farm animals may cause.  
@@ -506,8 +505,6 @@ The following is a list of LLC members. The board of managers shall maintain a h
 
 #### Notes: 
 
-  * Prohibit fireworks/firecrackers without permission of board
-  * Clarify trash burning rules, paper and wood burning are not covered in the restriction, only plastic and nasty burning
   * Minimum share / lot size or percentage, also add residency threshold
   * Clarify livestock smell and dog/etc noise nuisance rules, allow agriculture
   * Allow hunting/agriculture activities during nighttime hours as long as they are not excessive or intentionally disruptive 
@@ -537,3 +534,4 @@ Members should always check for a safe backstop before shooting.
   * Requirement that the LLC must return funds to the contributing members if the land sale does not go through
   * Member can be expelled for failing to disclose previous employment by the federal/state government or similar entities
   * Clarification about how closely the treasurer should ensure that the budget is followed
+  * Added exemptions for various agricultural and recreational activities to the noise/smell/etc rules. 
